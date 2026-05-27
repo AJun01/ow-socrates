@@ -1,0 +1,72 @@
+[project]
+name = "ow-socrates"
+version = "0.1.0"
+description = "Outer Wilds Socratic Hint Assistant — a fine-tuned Qwen3-8B that helps players think, not spoil."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = { file = "LICENSE" }
+authors = [
+    { name = "AJ Liu", email = "aj.yujunliu@gmail.com" },
+]
+keywords = ["llm", "qwen3", "mlx", "fine-tuning", "outer-wilds", "socratic"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+    "mlx-lm==0.31.3",
+    "huggingface-hub>=0.24.0",
+    "tqdm>=4.66.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.6.0",
+    "black>=24.8.0",
+    "pytest>=8.3.0",
+    "pre-commit>=3.8.0",
+]
+train = [
+    "wandb>=0.17.0",
+    "datasets>=2.20.0",
+]
+serve = [
+    "gradio>=4.40.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/ajyujunliu/ow-socrates"
+Repository = "https://github.com/ajyujunliu/ow-socrates"
+Issues = "https://github.com/ajyujunliu/ow-socrates/issues"
+
+[project.scripts]
+ow-baseline = "scripts.run_baseline:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+# --- Tooling ---
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "W", "UP"]
+ignore = ["E501"]  # handled by formatter
+
+[tool.black]
+line-length = 100
+target-version = ["py312"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra -q"

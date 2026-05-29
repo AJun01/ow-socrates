@@ -1,0 +1,136 @@
+{
+  "entity": "Gossan",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "owv_founder",
+    "early_game"
+  ],
+  "summary": "Gossan is the Hearthian flight instructor and zero-g coach for Outer Wilds Ventures, stationed at the entrance to the Zero-G Cave on Timber Hearth. They are one of the OWV founding members and run the player's pre-launch ship-repair tutorial.",
+  "facts": {
+    "biology": [
+      "Gossan is a Hearthian.",
+      "Gossan is missing one eye and part of their left ear.",
+      "Gossan appears with all four eyes in the inaugural Outer Wilds founders' photo, indicating their eye loss occurred after OWV was founded."
+    ],
+    "behavior": [
+      "Gossan urges the Protagonist to attempt the Zero-G Cave satellite repair before the launch.",
+      "Gossan clashes with Slate over safety features on the spaceships.",
+      "Gossan made Slate install a safety harness in the cockpit despite Slate's objection about thrust-to-weight ratios.",
+      "Gossan tells the Protagonist not to get killed after they have invested training time."
+    ],
+    "location": [
+      "Gossan is located at the entrance to the Zero-G Cave on Timber Hearth, near the Observatory.",
+      "Gossan crashed into the Attlerock on their first piloted trip."
+    ],
+    "lore": [
+      "Gossan is one of the founders of Outer Wilds Ventures.",
+      "Gossan is the player's flight instructor and zero-g coach.",
+      "Gossan previously piloted a ship but ended their piloting career after crashing into the Attlerock.",
+      "Gossan used to work closely with Slate (the engineer) and Feldspar (the best pilot) in OWV's early days.",
+      "Gossan was known as the 'Zero-G Coach' during the game's alpha.",
+      "Gossan presents the Zero-G Cave's broken mining equipment as a 'satellite' for the training exercise.",
+      "Gossan told Arkose that the patch of Ghost Matter in the village was bigger when Gossan was a hatchling.",
+      "Porphy and Gossan exchange clearly visible flirtations, observed by Esker via signalscope from the Attlerock.",
+      "Porphy suggests opening 'The Good Stuff' with the Protagonist and Gossan after the flight.",
+      "Hornfels and Gossan are the primary ground control contacts; Esker mentions they radio up to chat.",
+      "Slate cites Gossan's Zero-G training exercise as something the Protagonist's practice run would 'help get Gossan off my back' about.",
+      "Slate says only Gossan would worry about the ship's log destination markers possibly shorting out the fuel regulator.",
+      "Gossan told Mica that if Mica ever designs a faster ship than Slate's, Mica should ask Slate to be the first test pilot.",
+      "Feldspar worked more closely with Gossan and Slate than with Hornfels in OWV's history.",
+      "Feldspar's journal about reaching the core of Giant's Deep notes their eagerness to tell Gossan and Hornfels.",
+      "If the Protagonist tells Hornfels where Feldspar is, Hornfels plans to have Gossan prepare a ship to retrieve them.",
+      "The Self ending implies that both the Protagonist and Slate had some involvement in Gossan's eye-loss incident.",
+      "The Self ending cites the eye-loss incident as a reason Gossan and Slate never dated.",
+      "Self notes that Gossan, unlike Slate, considers a date going well when two people are talking and nothing has exploded yet."
+    ],
+    "mechanics": [
+      "Speaking to Gossan unlocks the Zero-G Cave satellite-repair tutorial, which teaches ship-repair mechanics in zero gravity with the Spacesuit.",
+      "The Zero-G Cave is accessed via an elevator near Gossan's position.",
+      "Completing the satellite repair sends the player to retrieve launch codes from the Observatory."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Spacesuit",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spaceship",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Attlerock",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Launch codes",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Slate",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Esker",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Porphy",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Arkose",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Mica",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Gossan",
+    "url": "https://outerwilds.fandom.com/wiki/Gossan",
+    "fetched_at": "2026-05-28T10:51:27",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

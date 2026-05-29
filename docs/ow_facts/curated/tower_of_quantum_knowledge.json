@@ -1,0 +1,40 @@
+{
+  "entity": "Tower of Quantum Knowledge",
+  "entity_type": "location",
+  "aliases": ["TOQK"],
+  "categories": ["Locations on Brittle Hollow"],
+  "tags": ["brittle_hollow", "quantum", "nomai_history"],
+
+  "summary": "The Tower of Quantum Knowledge is a massive Nomai tower suspended from a section of Brittle Hollow's crust, built around the Tower Shard quantum object. It contains the final piece of knowledge required for the Quantum Moon pilgrimage and tends to drop into the black hole partway through each loop.",
+
+  "facts": {
+    "biology": [],
+    "behavior": [],
+    "location": [
+      "The Tower of Quantum Knowledge is a sub-location of Brittle Hollow.",
+      "Full facts about the Tower of Quantum Knowledge, including the Tower Shard, the Quantum Moon Locator, and the pilgrimage scrolls, are recorded in brittle_hollow.json."
+    ],
+    "lore": [],
+    "mechanics": []
+  },
+
+  "see_also": ["brittle_hollow"],
+
+  "related_entities": [
+    {"entity": "Brittle Hollow", "relation": "located_in"},
+    {"entity": "Quantum Shards", "relation": "related_to"},
+    {"entity": "Quantum Moon", "relation": "related_to"},
+    {"entity": "Solanum", "relation": "mentioned_by"},
+    {"entity": "Bells", "relation": "mentioned_by"}
+  ],
+
+  "source": {
+    "page": "Tower of Quantum Knowledge",
+    "url": "https://outerwilds.fandom.com/wiki/Brittle_Hollow#Tower_of_Quantum_Knowledge",
+    "fetched_at": "2026-05-28T10:51:08",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high",
+    "is_redirect_stub": true
+  }
+}

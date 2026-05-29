@@ -1,0 +1,66 @@
+{
+  "entity": "Launch codes",
+  "entity_type": "mechanic",
+  "aliases": [
+    "launch codes"
+  ],
+  "categories": [
+    "Gameplay"
+  ],
+  "tags": [
+    "early_game",
+    "timber_hearth"
+  ],
+  "summary": "Launch codes are the access codes the player needs to operate the elevator to the spaceship's landing pad on Timber Hearth. They are acquired from Hornfels at the Observatory and persist across loops once obtained.",
+  "facts": {
+    "biology": [],
+    "behavior": [],
+    "location": [
+      "The launch codes are obtained from Hornfels at the Observatory on Timber Hearth.",
+      "The launch codes are required to access the elevator that leads to the spaceship's landing pad."
+    ],
+    "lore": [
+      "The launch codes are shown in-game as '- - | - . . | - .'",
+      "The launch codes spell 'MDN' when translated from Morse code.",
+      "Slate reminds the player to get the launch codes the first time the player dies in a loop.",
+      "If the player tells Slate they already have the codes after a death, Slate assumes the player has been inhaling too many fumes."
+    ],
+    "mechanics": [
+      "After the first death and resulting loop reset, the player retains knowledge of the launch codes without needing to retrieve them again."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Hornfels",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Spaceship",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "located_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "near"
+    },
+    {
+      "entity": "Slate",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Launch codes",
+    "url": "https://outerwilds.fandom.com/wiki/Launch_codes",
+    "fetched_at": "2026-05-28T10:51:14",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

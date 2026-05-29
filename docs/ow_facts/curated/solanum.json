@@ -1,0 +1,172 @@
+{
+  "entity": "Solanum",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Nomai",
+    "Characters",
+    "Travelers"
+  ],
+  "tags": [
+    "nomai_history",
+    "quantum",
+    "eye_signal",
+    "endgame"
+  ],
+  "summary": "Solanum is a Nomai on her first pilgrimage to the Quantum Moon, and is the only Nomai still alive in the solar system. She remains alive only at the Quantum Moon's Sixth Location (at the Eye of the Universe), where she meets the protagonist and joins the finale at the campfire.",
+  "facts": {
+    "biology": [
+      "Solanum is a Nomai.",
+      "Solanum is female.",
+      "Solanum has multiple eyes and admires the protagonist's four eyes."
+    ],
+    "behavior": [
+      "Solanum communicates through symbolic language stones she creates when the protagonist tries to interact with her.",
+      "Solanum is calm and unperturbed by either the protagonist's arrival or departure.",
+      "Solanum is curious, willing to call the protagonist 'a friend' on a first meeting.",
+      "Solanum hypothesizes that she may 'not be entirely alive.'",
+      "Solanum is unsurprised at the protagonist's arrival, attributed to her education on quantum unpredictability."
+    ],
+    "location": [
+      "Solanum is located on the Quantum Moon.",
+      "Solanum's corpse can be found at the south pole of any of the first five Quantum Moon variations.",
+      "Solanum's still-living self is found at the south pole of the Sixth Location, under the cloud vortex.",
+      "Solanum's body changes to one of four poses when the player looks away on the first five variations.",
+      "Solanum's shuttle rests near her body on the Quantum Moon unless recalled by Brittle Hollow's Gravity Cannon.",
+      "Solanum's shuttle is quantum-entangled with the Quantum Moon and blinks in and out of existence randomly."
+    ],
+    "lore": [
+      "Solanum is the last Nomai alive in the solar system.",
+      "Solanum grew up in the Sunless City on Ember Twin.",
+      "As a child, Solanum played the Anglerfish game with friends Ilex, Laevi, Lami, and Taget.",
+      "As a child, Solanum was small enough to climb through the hole at the Anglerfish Overlook to reach the fossil.",
+      "Solanum's father told her many Nomai died when their clan first entered the solar system following the Eye's signal.",
+      "As a child, Solanum hypothesized the Eye might be malevolent for luring the Nomai to the system only to vanish.",
+      "Solanum attended school at the Hanging City on Brittle Hollow.",
+      "Solanum wrote a school essay on the formation of the universe, noting all stars and life would one day die.",
+      "Conoy reassured young Solanum that the heat death would not happen in their lifetimes.",
+      "As an adult, Solanum no longer believed the Eye was malicious; she suspected it had no wishes at all.",
+      "Solanum hypothesized that imagining Nomai were 'special' to the Eye was wishful thinking.",
+      "Solanum began her quantum pilgrimage by preparing at the Tower of Quantum Trials on Giant's Deep.",
+      "Bells guided Solanum's final preparation at the Tower of Quantum Knowledge on Brittle Hollow.",
+      "Bells taught Solanum the Nomai clan's united goal to visit the Quantum Moon was set after two divided Nomai groups reunited.",
+      "Bells taught Solanum the final rule of the Sixth Location: to reach it, the Shrine must be at the Moon's north pole.",
+      "Solanum launched her shuttle from Brittle Hollow's Gravity Cannon to begin the pilgrimage.",
+      "Solanum's shuttle landed at the south pole of the Quantum Moon as expected.",
+      "Solanum planned to complete the rest of her journey from south pole to north pole on foot.",
+      "Shortly after Solanum's arrival, Ghost Matter from the ruptured Interloper killed all Nomai including Solanum on the first five variations of the Moon.",
+      "Solanum survived only on the Sixth Location variation around the Eye of the Universe, far from the Ghost Matter blast.",
+      "Solanum has been alive on the Sixth Location for hundreds of thousands of years from outside her perspective.",
+      "From Solanum's perspective, time may not pass conventionally at the Sixth Location, possibly making her experience only hours or minutes long.",
+      "Solanum reasons that the Quantum Moon's natural state is the Sixth Location's purple-strata form because quantum shards share that appearance.",
+      "Solanum hypothesizes the Quantum Moon became quantum due to proximity to the Eye, the same way shards transmit quantum behavior to nearby objects.",
+      "Solanum hypothesizes the Eye of the Universe is itself quantum, and embodies 'extreme changeability.'",
+      "Solanum's clan's greatest question became: what happens if a conscious observer enters the Eye itself?",
+      "Solanum can identify herself using the Signalscope at the Eye of the Universe."
+    ],
+    "mechanics": [
+      "Communication with Solanum on the Quantum Moon uses pairs of Nomai language stones (Identify, Explain, You, Me, Quantum Moon, Eye of the Universe).",
+      "Different language-stone pairings reveal different topics and add entries to the Ship's Log.",
+      "During the Endings finale, Solanum plays an instrument resembling a piano while gathering Hearthian explorers.",
+      "At the campfire finale, Solanum plays the main theme and the smoke conjures endless possibilities, which the protagonist collapses into a single reality."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hanging City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ember Twin",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Tower of Quantum Trials",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tower of Quantum Knowledge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shrine",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gravity Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Bells",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Conoy",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ilex",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Laevi",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Lami",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Taget",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Solanum",
+    "url": "https://outerwilds.fandom.com/wiki/Solanum",
+    "fetched_at": "2026-05-28T10:51:29",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

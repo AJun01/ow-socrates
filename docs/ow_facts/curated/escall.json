@@ -1,0 +1,123 @@
+{
+  "entity": "Escall",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "dark_bramble",
+    "the_vessel"
+  ],
+  "summary": "Escall was the Nomai clan leader and captain of The Vessel, who ordered the immediate warp toward the Eye of the Universe's signal. The Vessel emerged inside Dark Bramble instead of at the signal source; Escall escaped on Escape Pod 3 with Secca, Din, and others, and perished there.",
+  "facts": {
+    "biology": [
+      "Escall is a Nomai.",
+      "Escall's gender is unknown."
+    ],
+    "behavior": [],
+    "location": [
+      "Escall was the captain of The Vessel before its crash.",
+      "Escall escaped The Vessel's crash in Escape Pod 3 along with Secca, Din, and several other Nomai.",
+      "Escape Pod 3 became lost within Dark Bramble and crashed.",
+      "Escall died of oxygen depletion in Dark Bramble along with the rest of Escape Pod 3's crew."
+    ],
+    "lore": [
+      "Escall was the leader of their Nomai clan.",
+      "Escall's Vessel arrived in the solar system after following a signal from the Eye of the Universe.",
+      "Escall was on the bridge of The Vessel with Filix and Annona when the Eye signal was detected.",
+      "Upon detecting the signal, Escall ordered an immediate warp toward its source.",
+      "Filix wanted to delay the warp to broadcast a message to other Nomai clans, but Escall overruled her.",
+      "Escall argued that the signal could vanish at any moment and that speed took priority over communication.",
+      "On Escall's order, Annona executed the warp despite knowing the Vessel's core would need recharge time afterward.",
+      "The Vessel exited warp deep within Dark Bramble, not at the signal source, for unknown reasons.",
+      "The Vessel suffered critical damage as Dark Bramble's vines fused with and tore the hull.",
+      "After the crash, the Vessel's warp core was destroyed and communications were disabled.",
+      "Only three escape pods successfully launched from the crashing Vessel.",
+      "Escape Pod 3's crash destroyed its movement and communication capabilities.",
+      "Escape Pod 3's survivors initially sheltered at the crash site.",
+      "Persistent Anglerfish attacks and dwindling supplies forced Escape Pod 3's crew to attempt returning to The Vessel.",
+      "Dark Bramble's warped space-time made The Vessel's signal appear to originate from multiple locations simultaneously.",
+      "Escall decided the surviving crew would follow the nearest of the two apparent beacons; Din warned the chosen beacon might be false.",
+      "The nearest beacon led not to The Vessel but to one of Dark Bramble's many 'seeds'.",
+      "Secca left a recording for any future Nomai discovering their fate inside the seed.",
+      "Over 200,000 years later, the story of Escall and the Vessel's disappearance had passed into myth among the remaining Nomai clans.",
+      "Bromi remembers Escall as part of an old myth their grandfather told, the Disappearance of Escall.",
+      "Hyssop confirms to younger Nomai that Escall's clan was real, not myth.",
+      "The Vessel's disappearance is the only known case in Nomai history of a Vessel vanishing without a trace."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Annona",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Filix",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Secca",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Din",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Bromi",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Hyssop",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Clem",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Plume",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Escall",
+    "url": "https://outerwilds.fandom.com/wiki/Escall",
+    "fetched_at": "2026-05-28T10:51:32",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

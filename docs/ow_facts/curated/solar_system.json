@@ -1,0 +1,140 @@
+{
+  "entity": "Solar System",
+  "entity_type": "celestial_body",
+  "aliases": [
+    "Outer Wilds"
+  ],
+  "categories": [
+    "Outer Wilds",
+    "Locations"
+  ],
+  "tags": [
+    "overview",
+    "navigation"
+  ],
+  "summary": "The Solar System (also called the Outer Wilds) contains almost every location in the game: a yellow-dwarf Sun, five planets, multiple moons, and several artificial satellites. From the beginning of every loop, the player has 22 minutes before the Sun goes supernova and destroys the system.",
+  "facts": {
+    "biology": [
+      "The Sun at the center of the Solar System is a yellow-dwarf, main-sequence star.",
+      "All other astronomical bodies in the Solar System orbit the Sun."
+    ],
+    "behavior": [
+      "Every time loop lasts 22 minutes from the start of the cycle until the Sun goes supernova.",
+      "As the loop progresses, the Sun grows into a Red Giant before collapsing into a supernova.",
+      "The Red Giant grows large enough to overlap the Interloper's orbit, destroying the Interloper before the supernova."
+    ],
+    "location": [
+      "The Solar System contains five planets: the Hourglass Twins (Ash Twin + Ember Twin), Timber Hearth, Brittle Hollow, Giant's Deep, and Dark Bramble.",
+      "Timber Hearth has one moon, the Attlerock.",
+      "Brittle Hollow has one moon, Hollow's Lantern.",
+      "The Quantum Moon is a wandering moon that appears in orbit around different planets and the Eye of the Universe.",
+      "The Interloper is an extra-solar comet on a highly elliptical orbit, with a perihelion lower than the Hourglass Twins and an aphelion further out than the White Hole Station.",
+      "The White Hole is a gravitational singularity on the system's outskirts, linked to the black hole at the core of Brittle Hollow.",
+      "The Eye of the Universe is a distant mysterious object in a far orbit around the Sun.",
+      "The player can journey to any location from their first expedition into space."
+    ],
+    "lore": [
+      "The Ash Twin / Ember Twin binary transfers sand between the two planets over the course of the loop.",
+      "Sand transfer uncovers buried Nomai architecture on Ash Twin while filling Ember Twin's caves and making them inaccessible.",
+      "Brittle Hollow's moon Hollow's Lantern bombards the planet with meteors that break off chunks of the crust, which fall through the central black hole.",
+      "Fragments that fall through Brittle Hollow's black hole emerge from the White Hole on the system's outskirts.",
+      "Dark Bramble was originally an ocean planet before being infected with twisted vines that tore the planet apart.",
+      "The Interloper can be seen crashing into the Sun when the loop nears its end.",
+      "The Sun Station is a Nomai station in very low heliocentric orbit, tidally locked to the Sun and generally inaccessible by ship.",
+      "The Sun Station is absorbed and destroyed by the Sun's growing outer layer as it becomes a Red Giant.",
+      "The Orbital Probe Cannon is a Nomai artificial satellite in orbit around Giant's Deep that launches a probe and immediately explodes at the start of every loop.",
+      "Fragments of the Orbital Probe Cannon continue to orbit Giant's Deep for the duration of the loop.",
+      "The White Hole Station is a Nomai space station built beside the White Hole to warp users back to Brittle Hollow after falling through the black hole.",
+      "The Hearthian Satellite orbits Timber Hearth and allows grainy black-and-white pictures to be taken remotely on Timber Hearth.",
+      "The Hearthian Satellite can be de-orbited to grant an achievement.",
+      "The Deep Space Satellite is a Hearthian probe in an extremely high polar orbit around the Sun, among the farthest objects from the Sun in the system.",
+      "The Deep Space Satellite is connected to Timber Hearth's radio tower and provides a real-time map of the Solar System.",
+      "The Stranger is a giant cloaked spaceship built by an unnamed species that came before the Nomai.",
+      "The Stranger uses centrifugal force in a ring shape to simulate gravity and is built for long-duration interstellar travel.",
+      "The Stranger has a fixed position initially and moves away from the Sun to avoid the supernova at the end of every loop."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Sun",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Attlerock",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Hollow's Lantern",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "located_in"
+    },
+    {
+      "entity": "White Hole",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "located_in"
+    },
+    {
+      "entity": "White Hole Station",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Stranger",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Time Loop",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Solar System",
+    "url": "https://outerwilds.fandom.com/wiki/Solar_System",
+    "fetched_at": "2026-05-28T10:50:51",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "entity": "Translation Tool",
+  "entity_type": "technology",
+  "aliases": [
+    "Translator"
+  ],
+  "categories": [
+    "Gameplay"
+  ],
+  "tags": [
+    "early_game",
+    "nomai_history",
+    "exploration"
+  ],
+  "summary": "The Translation Tool (translator) is a Hearthian device built by Hal and the Protagonist that translates Nomai writing within a 3-4 meter range. It is the primary tool the player uses to learn Nomai history and solve lore-based puzzles throughout the solar system.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "The Translation Tool is the newest addition to the Hearthian instruments.",
+      "The Translation Tool has a translation range of 3 to 4 meters.",
+      "The Translation Tool can only be equipped when the user is inside the range circle of Nomai writing.",
+      "Translation processing takes a few seconds after the player clicks the translate button.",
+      "The translate button must be held until completion of the translation.",
+      "After a first translation, the tool automatically prints results on subsequent sweeps over the same writing."
+    ],
+    "location": [],
+    "lore": [
+      "The Translation Tool was made by a collaboration between the Protagonist and Hal.",
+      "The Stranger's language is a previously undiscovered language and cannot be translated by the tool.",
+      "Attempting to translate Stranger writing displays 'ERROR: Unknown Language.'",
+      "Hal in the museum estimates that translating the Stranger language would require a hundred samples, some form of epigraphical codex, and six months to develop a vague gist."
+    ],
+    "mechanics": [
+      "Nomai writing has a recognizable curvy appearance.",
+      "Different Nomai handwritings can be distinguished by the precision of the curve, with rougher curves vs. cleaner curves.",
+      "Nomai writing is read by starting at the beginning of a base curve, following its path, and recursively reading branching curves before returning to the parent curve.",
+      "Branching curves in Nomai writing typically represent different authors in a dialogue."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Hal",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spacesuit",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Stranger",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Translation tool",
+    "url": "https://outerwilds.fandom.com/wiki/Translation_tool",
+    "fetched_at": "2026-05-28T10:51:18",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "entity": "White Hole Station",
+  "entity_type": "location",
+  "aliases": [],
+  "categories": [
+    "Locations"
+  ],
+  "tags": [
+    "nomai_history",
+    "brittle_hollow",
+    "warp"
+  ],
+  "summary": "White Hole Station is a Nomai space station positioned near the White Hole. It is a warp station designed to send anyone who falls into Brittle Hollow's black hole back to the planet's Northern Glacier, and acted as the Nomai's first foray into black hole warp technology.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "White Hole Station has 0g gravity.",
+      "The station continuously rotates so that its warp tower periodically aligns with Brittle Hollow.",
+      "The station is partially encased in ice due to being suspended in space and unused for millennia."
+    ],
+    "location": [
+      "White Hole Station is located near the White Hole that is paired with Brittle Hollow's Black Hole.",
+      "White Hole Station is comprised of two levels: the warp portal level and the control room that activates and guides station rotation."
+    ],
+    "lore": [
+      "White Hole Station was the Nomai's first foray into black hole warp technology.",
+      "The station's warp tower technology provided the basis for the Ash Twin warp tower network.",
+      "Poke's welcome text at the station explains that the warp tower returns users to Brittle Hollow if they fell through the black hole by accident.",
+      "Poke's text notes the player is not the first Nomai to fall through Brittle Hollow's black hole by accident."
+    ],
+    "mechanics": [
+      "When the station's warp tower aligns with Brittle Hollow, the player is instantly teleported to a warp receiver on Brittle Hollow's Northern Glacier, adjacent to the Black Hole Forge exit.",
+      "Every warp tower is tuned to a specific astral body and can only be used during the brief alignment window with that body.",
+      "Alignment occurs when the corresponding astral body is directly overhead from the warp platform.",
+      "The user must be standing on the warp platform on the station's floor during alignment to be warped.",
+      "The surface entrance to the Black Hole Forge near the Northern Glacier warp receiver is broken."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "White Hole",
+      "relation": "near"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Black Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Black Hole Forge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Towers",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "White Hole Station",
+    "url": "https://outerwilds.fandom.com/wiki/White_Hole_Station",
+    "fetched_at": "2026-05-28T10:51:07",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

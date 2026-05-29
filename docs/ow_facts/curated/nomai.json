@@ -1,0 +1,222 @@
+{
+  "entity": "Nomai",
+  "entity_type": "race",
+  "aliases": [],
+  "categories": [
+    "Nomai",
+    "Races"
+  ],
+  "tags": [
+    "nomai_history",
+    "eye_signal",
+    "quantum"
+  ],
+  "summary": "The Nomai were a technologically advanced nomadic species who traveled to the Hearthian solar system following a signal from the Eye of the Universe. Their Vessel crashed in Dark Bramble; they settled the system, attempted to find the Eye via the Ash Twin Project, and were wiped out by Ghost Matter from the Interloper before succeeding.",
+  "facts": {
+    "biology": [
+      "Nomai are tall, slender, digitigrade beings with three eyes.",
+      "Nomai faces closely resemble goats from the Bovidae family or Caprinae subfamily.",
+      "Nomai have triple-digit hands and short tails.",
+      "Nomai are covered in fur.",
+      "Nomai heads are adorned with three antlers: two on each side and one extending from the top in two points.",
+      "Nomai require oxygen to breathe.",
+      "Nomai have a shockingly fragile bone structure according to the Observatory museum.",
+      "Nomai may have originated from a low-gravity world or have lived in zero gravity before developing artificial gravity.",
+      "Nomai wear traditional life-support apparatus for protection in the local environment."
+    ],
+    "behavior": [
+      "Nomai philosophy holds two tenets: 'Identify and Explain' — to seek out and to understand.",
+      "Nomai have a strong preference for non-interference toward lesser-evolved life forms.",
+      "Nomai take extreme care when extracting resources from inhabited worlds to avoid disturbing native life.",
+      "Nomai display some degree of apparent telekinesis when interacting with technology, demonstrated by Solanum stacking rocks to communicate."
+    ],
+    "location": [
+      "Nomai artifacts and structures can be found on all celestial bodies in the solar system.",
+      "Nomai first settled on Ember Twin and Brittle Hollow after the Vessel crash.",
+      "Surviving modern Nomai clans elsewhere broadcast travel to the Gloaming Galaxy, where stars remain relatively stable."
+    ],
+    "lore": [
+      "The Nomai race consists of multiple clans.",
+      "Each Nomai clan lives within a Nomai Vessel, a spaceship equipped with an Advanced Warp Core for interstellar exploration.",
+      "Every ten years, the Nomai clans meet at a festival to celebrate their species' discoveries.",
+      "Each clan sends an envoy to present their discoveries since the last festival.",
+      "Most Nomai have names based on plant species.",
+      "Idaea's opposition to the Sun Station demonstrated the Nomai preference for non-interference; he argued failure would destroy all life in the solar system.",
+      "The Nomai took precautions when mining Timber Hearth so as not to disrupt the primitive prehistoric Hearthians.",
+      "The Nomai language is written in curving branches, often with each new branch coming from a different individual.",
+      "Nomai write text by 'typing' it on a staff-like sceptre and pressing the opposite end onto a surface.",
+      "Nomai text appears on walls, on circular hovering disc displays, on scrolls, tablets, and recording devices.",
+      "Some Nomai text is written as if spoken in the moment, possibly via voice-to-text technology.",
+      "The traditional Nomai sceptre symbolically functions as a piano for the Protagonist in the ending.",
+      "Nomai demonstrated mastery of faster-than-light travel, quantum mechanics, zero-G construction, and time manipulation.",
+      "Nomai had the capacity to create and manipulate black holes.",
+      "Nomai could build spaceships, travel between galaxies, and at their peak could send information back in time.",
+      "Early Nomai history before arrival in the Hearthian solar system is largely unknown.",
+      "What little is known about early Nomai history is recorded in the Observatory and in writings spread throughout the solar system.",
+      "The Nomai followed a signal from the Eye of the Universe to the Hearthian solar system.",
+      "The Eye signal received by the Nomai was only a temporary pulse, caused by the Stranger's signal blocker being briefly disabled by the Prisoner.",
+      "The brief signal prevented the Nomai from precisely locating the Eye and stranded them in Dark Bramble.",
+      "After the Vessel was disabled, the Nomai built the Sunless City on Ember Twin and the Hanging City on Brittle Hollow.",
+      "When their initial Eye Signal Locators on the Attlerock and Brittle Hollow failed, they built more sophisticated machines: the Orbital Probe Cannon, Sun Station, and Ash Twin Project.",
+      "The Nomai's plan: induce a supernova via the Sun Station, which would power the Ash Twin Project, which would send probe-launch data back 22 minutes for re-aiming.",
+      "Nomai explorers discovered the Interloper after the Sun Station's initial failure and identified its core as highly unstable.",
+      "Before the Nomai explorers could warn their kin, the Interloper's core ruptured and released Ghost Matter, killing all Nomai in the solar system instantly.",
+      "Remaining Nomai clans elsewhere became aware that universe-wide stars were rapidly going supernova — what they called the imminent death of the Universe.",
+      "Surviving Nomai began broadcasting warnings encouraging clans to travel to the Gloaming Galaxy.",
+      "The Vessel's Escape Pod 1 carried Filix, Kousa, Plume, and Thatch to Brittle Hollow.",
+      "The Vessel's Escape Pod 2 carried Annona, Bur, Coleus, Melorae, and Rhus to Ember Twin.",
+      "The Vessel's Escape Pod 3 carried Escall, Din, and Secca; it crashed in Dark Bramble.",
+      "Foli and Keek died in the original Vessel crash.",
+      "Modern Nomai broadcasting from elsewhere include Bromi, Canna, Clem, Hyssop, and Neem."
+    ],
+    "mechanics": [
+      "Nomai navigation signs on Brittle Hollow can self-correct after being knocked over, indicating their telekinesis-like interactions are technological rather than innate."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Hanging City",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Black Hole Forge",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Stranger",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Prisoner",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Translation tool",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Escall",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Filix",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Annona",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Cycad",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Poke",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Pye",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Clary",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Idaea",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Privet",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "member_of"
+    }
+  ],
+  "source": {
+    "page": "Nomai",
+    "url": "https://outerwilds.fandom.com/wiki/Nomai",
+    "fetched_at": "2026-05-28T10:51:09",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

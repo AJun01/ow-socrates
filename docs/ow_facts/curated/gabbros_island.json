@@ -1,0 +1,62 @@
+{
+  "entity": "Gabbro's Island",
+  "entity_type": "location",
+  "aliases": [],
+  "categories": [
+    "Locations on Giant's Deep"
+  ],
+  "tags": [
+    "giants_deep",
+    "travelers"
+  ],
+  "summary": "Gabbro's Island is a floating island on Giant's Deep where Gabbro has set up their camp. It is recognizable by the trail of campfire smoke rising from above the island.",
+  "facts": {
+    "biology": [
+      "Gabbro's Island has a gravity of approximately 2 g.",
+      "Gabbro's Island floats on Giant's Deep's ocean."
+    ],
+    "behavior": [
+      "Gabbro's Island can be thrown into the atmosphere when a cyclone passes overhead, just like the other islands on Giant's Deep."
+    ],
+    "location": [
+      "Gabbro's Island is one of the islands on Giant's Deep.",
+      "Gabbro's Island is recognizable by the campfire smoke trailing above it.",
+      "Gabbro's Island has a small mountain on it.",
+      "A nearby cave on Gabbro's Island contains a small amount of Ghost Matter.",
+      "Gabbro lounges in a hammock under the small island mountain near the island's shore.",
+      "Gabbro's camp is located slightly higher on the island than the hammock, around the back side of the mountain from the shore.",
+      "Gabbro's camp has oxygen refill, fuel refill, and a campfire."
+    ],
+    "lore": [
+      "Gabbro is the inhabitant of Gabbro's Island.",
+      "Gabbro is not concerned when their island is thrown into the atmosphere by a cyclone."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Giant's Deep",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Statue Island",
+      "relation": "near"
+    }
+  ],
+  "source": {
+    "page": "Gabbro's Island",
+    "url": "https://outerwilds.fandom.com/wiki/Gabbro%27s_Island",
+    "fetched_at": "2026-05-28T10:51:03",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

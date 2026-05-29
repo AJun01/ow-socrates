@@ -1,0 +1,176 @@
+{
+  "entity": "Pye",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "sun_station",
+    "interloper",
+    "warp"
+  ],
+  "summary": "Pye was a Nomai from Ember Twin who confirmed the negative time interval at the High Energy Lab and co-designed the Sun Station with Idaea. She died on the Interloper, choosing to stay behind to study its lethal exotic-matter core while ordering Poke to flee with the warning.",
+  "facts": {
+    "biology": [
+      "Pye is a Nomai.",
+      "Pye is female."
+    ],
+    "behavior": [
+      "Pye is initially skeptical of unprecedented findings and considers them equipment errors before being convinced.",
+      "Pye favors pushing technology further than ever before, calling it the defining characteristic of the Nomai species.",
+      "Pye enjoys word puns and makes light of grim subjects, including jokes about the Sun exploding.",
+      "Pye argues frequently with Idaea over the ethics of the Sun Station.",
+      "Pye has a friendly joking relationship with Ramie, exchanging gas-themed puns.",
+      "Pye sacrificed herself on the Interloper, choosing to stay and learn about the alien matter while ordering Poke to escape and warn the Nomai."
+    ],
+    "location": [
+      "Pye originally lived in the Sunless City on Ember Twin.",
+      "Pye worked at the High Energy Lab on Ember Twin with Ramie.",
+      "Pye and Idaea worked at the Sun Station to construct it.",
+      "Pye went to the Interloper with Poke and Clary after the Sun Station's failure.",
+      "Pye's corpse can be found near the ruptured core of the Interloper, close to her last recording."
+    ],
+    "lore": [
+      "Pye is a member of the Nomai.",
+      "Pye is the aunt of Laevi and Lami.",
+      "Pye studied the Anglerfish fossil in the Sunless City at some point.",
+      "Pye told Laevi and Lami that real Anglerfish are blind, leading them to add a blindfold rule to their anglerfish game.",
+      "Pye and Ramie reviewed Poke's records of the negative time interval at the warp between White Hole Station and Brittle Hollow.",
+      "Pye initially considered the negative time interval impossible, stating the implications would be absurd.",
+      "Pye and Ramie designed an experiment at the High Energy Lab to recreate the negative time anomaly.",
+      "Pye remained skeptical even after the first experiment reproduced the anomaly, suspecting equipment error.",
+      "Pye and Ramie strengthened the effect by rerouting energy from the Sunless City to the experiment.",
+      "Pye confirmed the existence of the negative time interval after the energy-boosted experiment.",
+      "Pye determined that creating a 22-minute interval was theoretically possible but required exponentially more energy and advanced warp technology.",
+      "Pye argued that fitting the new energy and warp technologies together required an enormous space, with Ash Twin being the only suitable candidate.",
+      "Pye proposed warp towers as the way to travel quickly between Ash Twin and crucial Ash Twin Project locations.",
+      "Pye disagreed with Idaea's ethical opposition to the Sun Station, arguing the Nomai must push technology further than ever before.",
+      "Pye believed there was no other practical way to generate supernova-level power within the Nomai's lifetimes.",
+      "Pye and Idaea built the Sun Station together despite their constant disagreements.",
+      "Pye computed shuttle trajectories to the Sun Station as a 'purely theoretical exercise' even though the warp was the only intended route.",
+      "Pye wrote the Sun Station's mission statement: 'Science compels us to explode the sun.'",
+      "Pye accused Idaea of lacking a sense of humor when he objected to the morbid mission statement.",
+      "Pye argued the mission statement was accurate since they were creating a supernova for scientific progress.",
+      "Yarrow proposed time away from the Sun Station for both Pye and Idaea, which they agreed with.",
+      "Pye was 'beside herself with joy' when the Advanced Warp Core was finished.",
+      "Pye's mood changed quickly when the Sun Station fired but caused only infinitesimal surface-level changes on the Sun.",
+      "Pye declared the Sun Station useless and incapable of ever causing the Sun to explode.",
+      "Pye believed redesigning the Sun Station was still the only viable option, since supernova-level power required a supernova.",
+      "Pye noted that waiting for the Sun's natural supernova would require halting the Nomai aging process.",
+      "Spire spotted the Interloper approaching the star system, which Yarrow asked Pye to investigate.",
+      "On the Interloper, Pye and Poke descended through an ice fissure on the sunward side to investigate strange energy readings.",
+      "Pye determined the Interloper's exotic matter was disturbingly volatile and protected only by an unfamiliar stone casing.",
+      "Pye recognized the lethal matter would expand to blanket the star system if the casing ruptured.",
+      "Pye ordered Poke back to the shuttle and stayed behind to learn more about the alien matter.",
+      "Pye reasoned that the more they knew about the alien matter, the better the Nomai's chances of survival."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "High Energy Lab",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Idaea",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Clary",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Spire",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Laevi",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Lami",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Pye",
+    "url": "https://outerwilds.fandom.com/wiki/Pye",
+    "fetched_at": "2026-05-28T10:51:35",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "entity": "Sun Station",
+  "entity_type": "location",
+  "aliases": [],
+  "categories": [
+    "Locations"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "supernova",
+    "ethics"
+  ],
+  "summary": "Sun Station is a Nomai satellite in an extremely close orbit around the Sun, designed by Pye and Idaea to trigger a supernova that would power the Ash Twin Project. It ultimately failed to affect the Sun in any meaningful way, leaving the Ash Twin Project without power for 281,042 years.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "Sun Station has 0.4g to 0.7g gravity.",
+      "Sun Station has been offline in sleep mode for 281,042 years after receiving no user commands for over ten minutes following the Nomai's death.",
+      "Sun Station's hull integrity approaches critical levels late in the loop as solar activity rises; emergency doors close.",
+      "Sun Station is destroyed approximately 10.5 minutes into the loop when the Sun grows into a Red Giant and engulfs it."
+    ],
+    "location": [
+      "Sun Station is in an extremely close and rapid orbit around the Sun.",
+      "Sun Station is composed of two huge modules connected by a destroyed passageway.",
+      "Sun Station contains many gravity tiles so users can walk instead of free-falling.",
+      "Sun Station contains two inactive Nomai Statues, one on the upper floor and one on the lower floor.",
+      "Idaea's corpse can be found inside the Sun Station.",
+      "The Sun Station warp tower on Ash Twin connects to the Sun Station."
+    ],
+    "lore": [
+      "Sun Station was designed to induce a supernova in the Sun to power the Ash Twin Project.",
+      "A supernova was the only power source capable of producing enough energy to send information 22 minutes into the past.",
+      "Pye proposed building the Sun Station; Idaea firmly opposed it on ethical grounds.",
+      "Idaea argued the potential annihilation of an entire star system was too severe a cost regardless of the knowledge to be gained.",
+      "Pye agreed she would not support firing the station unless they were all but certain it would not cause destruction.",
+      "Idaea and Pye ended up building the Sun Station together despite their continued ethical arguments.",
+      "Construction of the Sun Station was the only Nomai project that caused major division and debate among the Nomai.",
+      "The ethics debate is recorded behind the Sunless City energy controls and inside the Sun Station itself.",
+      "Pye wrote the original mission statement: 'Science compels us to explode the sun.'",
+      "Idaea proposed an alternative mission statement: 'Determine if it's possible to prompt the sun to explode.'",
+      "A Nomai mural on the station depicts a Nomai holding scales with the Sun on one side and the Eye of the Universe on the other.",
+      "The Nomai's intended cycle: Sun Station fires, supernova powers Ash Twin Project, ATP sends Orbital Probe Cannon's launch order 22 minutes back, and the cycle repeats every 22 minutes until a probe finds the Eye.",
+      "The Nomai planned to cancel the supernova once the Eye's coordinates were found, by receiving the coordinates 22 minutes before firing the station.",
+      "When fired, Sun Station caused only infinitesimal surface-level changes on the Sun, even to the third eye.",
+      "Pye concluded that the Sun Station was useless and could never cause the Sun to explode.",
+      "Yarrow asked Pye and Idaea to return to Ash Twin and pivot to investigating Spire's newly-spotted Interloper.",
+      "All Nomai were killed by the Interloper's Ghost Matter before they could find an alternative power source.",
+      "281,042 years later, the Sun reached the end of its natural life cycle and went supernova on its own.",
+      "The natural supernova powered the Ash Twin Project automatically, starting the protagonist's time loop."
+    ],
+    "mechanics": [
+      "The primary intended way to access Sun Station is via the Sun Station warp tower on Ash Twin.",
+      "Information about the Sun Station warp tower is revealed in the Anglerfish Overlook district of the Sunless City on Ember Twin.",
+      "The Sun Station warp tower on Ash Twin is exposed exactly 5 minutes into the loop when sand crosses it.",
+      "Only the balcony-side door of the Sun Station warp tower is accessible; the bridge-side door is broken.",
+      "Inside the warp tower, the player navigates around spiked plants to reach a zero-g elevator leading up to the warp pad.",
+      "The warp pad activates once the Sun Station is centered in the platform's viewport.",
+      "A secondary access method is manually landing the ship on Sun Station, granting the 'Hotshot' achievement.",
+      "Manual landing requires accounting for the Sun's immense gravity and the Sun Station's rapid orbit.",
+      "Using the ship is highly recommended over EVA jetpack for manual landing because jetpack thrusters are too weak.",
+      "Players can lock onto the entrances, match velocity to 'park' the ship, and then jetpack inside.",
+      "Ejecting the cockpit may help exit the ship since artificial gravity behaves oddly near the Sun.",
+      "An in-station readout displays the time until Sun Station is destroyed and the time until the Sun goes supernova."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Sun",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Ash Twin",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Towers",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Pye",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Idaea",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Spire",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spaceship",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Sun Station",
+    "url": "https://outerwilds.fandom.com/wiki/Sun_Station",
+    "fetched_at": "2026-05-28T10:50:56",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

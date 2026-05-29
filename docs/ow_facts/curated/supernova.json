@@ -1,0 +1,93 @@
+{
+  "entity": "Supernova",
+  "entity_type": "event",
+  "aliases": [],
+  "categories": [
+    "Gameplay"
+  ],
+  "tags": [
+    "time_loop",
+    "endgame",
+    "ash_twin_project"
+  ],
+  "summary": "Supernova is the game event that ends every 22-minute loop. The Sun collapses under its own gravity and explodes outward, killing everyone in the Solar System. The released energy powers the Ash Twin Project, sending the protagonist's memories back 22 minutes to restart the loop.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "The supernova occurs 22 minutes after the protagonist wakes up.",
+      "In the last 2 minutes before the supernova, the song 'End Times' plays and can be heard from any location.",
+      "Upon 'End Times' finishing, the Sun goes supernova.",
+      "The Sun collapses in on itself into a small sphere for a brief moment before exploding outward with a blue flash.",
+      "The supernova grows and accelerates to quickly encompass the entire Solar System.",
+      "The supernova kills the Protagonist and everyone else in the Solar System."
+    ],
+    "location": [],
+    "lore": [
+      "Stars fuse hydrogen into helium for light and heat until hydrogen runs out, then begin to contract.",
+      "A contracting star's core gets hotter while its outer layers expand into a Red Giant.",
+      "A sufficiently hot core fuses helium into carbon, and if massive enough, into heavier elements such as iron.",
+      "Eventually, a sufficiently massive star collapses under its own gravity and explodes in a supernova.",
+      "281,042 years before the start of the game, the Nomai attempted to artificially trigger the Sun's supernova to power the Ash Twin Project.",
+      "The Nomai constructed the Sun Station specifically to shoot at the Sun and trigger an artificial supernova.",
+      "The Nomai plan: a triggered supernova provides enough energy for the Ash Twin Project to send a 22-minute time-travel order to the Orbital Probe Cannon.",
+      "The intended Nomai cycle: every 22 minutes the Sun Station fires, supernova occurs, Ash Twin Project sends the cannon a new launch order, until a probe finds the Eye of the Universe.",
+      "The Sun Station failed: when fired at, the Sun only showed infinitesimal surface-level changes, even to the third eye.",
+      "281,042 years later, the universe entered its dying phase with more and more stars going supernova.",
+      "The Sun reached the end of its natural lifespan and exploded into a supernova on its own.",
+      "The natural supernova powered the Ash Twin Project, which began sending the Orbital Probe Cannon's launch order back in time.",
+      "Probe 9,318,054 finally found the Eye of the Universe after over 9 million loops.",
+      "When the probe found the Eye, a Nomai Statue linked with the Protagonist, sending the Protagonist's memories back in time and making them aware of the time loop."
+    ],
+    "mechanics": [
+      "Players who fly outside the supernova's blast radius still die with an alternative screen fade as their memories are uploaded to the Ash Twin Project.",
+      "Escaping the supernova after removing the core of Ash Twin triggers the Isolation Ending.",
+      "The game's pause-during-text option does not apply during the supernova; once 'End Times' begins, the cycle advances even when pause-during-text is enabled."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Sun",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai Statue",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Time Loop",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Supernova",
+    "url": "https://outerwilds.fandom.com/wiki/Supernova",
+    "fetched_at": "2026-05-28T10:51:12",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "entity": "Interloper",
+  "entity_type": "celestial_body",
+  "aliases": [
+    "The Interloper"
+  ],
+  "categories": [
+    "Planets",
+    "Locations"
+  ],
+  "tags": [
+    "interloper",
+    "nomai_history",
+    "ghost_matter",
+    "comet"
+  ],
+  "summary": "The Interloper is a comet on a highly elliptical orbit around the Sun and the newest celestial object in the solar system. It is the origin of all Ghost Matter, which erupted from its ruptured core hundreds of thousands of years ago and killed every Nomai in the system.",
+  "facts": {
+    "biology": [
+      "The Interloper is a comet on a highly elliptical orbit around the Sun.",
+      "The Interloper is composed of approximately 90% ice and 10% unknown material.",
+      "The Interloper has a gravity ranging from 0 to 0.4 g.",
+      "The Interloper has a closest distance of approximately 395 m from the Sun and a farthest distance of approximately 22 km.",
+      "The Interloper's ion tail is approximately 5 km in length.",
+      "The Interloper is the newest celestial object in the solar system."
+    ],
+    "behavior": [
+      "Approximately 20 minutes into each loop (about 2 minutes before the supernova), the Interloper collides with the Sun and is destroyed.",
+      "An ice chasm on the Interloper's sun-facing side melts and opens up as the comet approaches the Sun.",
+      "The Interloper is not affected by other planets' gravity, so its trajectory differs from the player's ship near other bodies.",
+      "Depending on elapsed time, the Interloper can pass very close to Giant's Deep during its orbit (on its second and third laps)."
+    ],
+    "location": [
+      "The Interloper has a sun-facing side and a dark side.",
+      "The Interloper's sun-facing side never faces away from the Sun, regardless of orbital position.",
+      "The Interloper's sun-facing side has a chasm of ice that opens to access the comet's interior.",
+      "The Interloper's dark side is encased in the glow of its ion tail.",
+      "The Interloper's dark side consists mostly of icy pillars.",
+      "The Frozen Nomai Shuttle is stuck inside one of the icy pillars on the Interloper's dark side.",
+      "The Interloper's interior is filled with swirling passages of ice that can make navigation difficult.",
+      "Some interior passages of the Interloper lead to Ghost Matter.",
+      "Interior passages of the Interloper eventually lead to the Ruptured Core.",
+      "Inside the Ruptured Core, crystals reminiscent of those near Ghost Matter pockets elsewhere can be seen.",
+      "The corpses of Poke and Pye can be found near the Ruptured Core."
+    ],
+    "lore": [
+      "The Frozen Nomai Shuttle on the Interloper carried the three Nomai explorers Poke, Pye, and Clary.",
+      "Clary remained in the shuttle while Pye and Poke investigated below the surface.",
+      "Pye and Poke descended through a fissure on the Interloper's sunward side after detecting strange energy readings.",
+      "Pye and Poke discovered the Ruptured Core was a spherical stone casing containing exotic matter.",
+      "Pye determined the stone casing was muting the energy readings tenfold.",
+      "Pye and Poke determined the exotic matter was orders of magnitude more dangerous than anticipated, under immense pressure, and would expand to blanket the solar system if released.",
+      "Pye ordered Poke to return to the shuttle to warn the others while Pye stayed to learn more.",
+      "Poke and Pye apparently failed to warn the rest of the Nomai before the core ruptured.",
+      "The Interloper's ruptured core released Ghost Matter that wiped out all Nomai in the solar system instantaneously.",
+      "Clary stayed in the Shuttle and recorded her dilemma about whether to follow Pye and Poke after losing contact with them.",
+      "The Interloper's arrival interrupted the Nomai's search for the Eye of the Universe before they could continue."
+    ],
+    "mechanics": [
+      "To enter the Interloper, the player must stand near the icy area on the sun-lit side and wait until it melts due to proximity to the Sun.",
+      "Photographing with the Scout Launcher's photo mode is recommended for navigating inside the Interloper to avoid sliding into Ghost Matter.",
+      "Exploring the Interloper is safer at the highest part of its orbit, since at lower altitudes the Sun can pull the player's ship off the surface.",
+      "If the Interloper passes close to Giant's Deep while the player is on its surface, the player and their ship may be pulled off by Giant's Deep's strong gravity with little hope of escape.",
+      "The Frozen Nomai Shuttle on the Interloper is inaccessible while frozen, but can be recalled to Ember Twin's Gravity Cannon for entry."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Sun",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gravity Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Pye",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Clary",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Interloper",
+    "url": "https://outerwilds.fandom.com/wiki/Interloper",
+    "fetched_at": "2026-05-28T10:50:48",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

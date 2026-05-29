@@ -1,0 +1,241 @@
+{
+  "entity": "Timber Hearth",
+  "entity_type": "planet",
+  "aliases": [],
+  "categories": [
+    "Locations",
+    "Planets"
+  ],
+  "tags": [
+    "early_game",
+    "home_planet",
+    "hearthian_culture",
+    "nomai_history"
+  ],
+  "summary": "Timber Hearth is the home planet of the Hearthians and where the player begins every loop. A small rocky world dotted with forests, mountains, and Geyser peaks, it hosts the Village, the Quantum Grove, Youngbark Crater's Dark Bramble seed, the Ash Twin warp receiver, and the Nomai Mining Site 2b that supplied the Ash Twin Project's protective shell.",
+  "facts": {
+    "biology": [
+      "Timber Hearth has 1.0g surface gravity.",
+      "Timber Hearth is the 2nd planet from the Sun.",
+      "Timber Hearth has a mainly rocky composition accented with forests, ridges, and waterfalls.",
+      "Timber Hearth has terrain of grassy plains, mountains, rivers, and large craters.",
+      "Timber Hearth's fauna includes fireflies, crickets, several varieties of fish, and Hearthians.",
+      "Timber Hearth's grass sphere has a radius of approximately 250 meters, with highest point near 330 and lowest reasonable point near 180.",
+      "Timber Hearth has 16 Hearthian inhabitants."
+    ],
+    "behavior": [
+      "Geyser Mountains scattered around Timber Hearth periodically spout water columns capable of launching objects through the atmosphere.",
+      "A loop of strong underground water currents runs beneath Timber Hearth's crust.",
+      "Underground water currents connect the cavern beneath the Village, the cavern beneath Quantum Grove Crater, and the pool at the bottom of the largest Geyser Mountain.",
+      "The four smaller Geyser Mountain geysers connect to the underground current between the Village cavern and the Quantum Grove cavern."
+    ],
+    "location": [
+      "Four smaller Geyser Mountains sit northwest of the Village.",
+      "A single larger Geyser Mountain sits south of the Village as part of the Nomai Ruins.",
+      "The Ash Twin Tower warp receiver on Timber Hearth leads from the corresponding warp tower on Ash Twin.",
+      "A path leads from the Ash Twin warp receiver through the Geyser Mountain to the Nomai Mines.",
+      "The Nomai Mining Site 2b is accessible via an entrance inside the largest Geyser Mountain.",
+      "Mining Site 2b is a large dark cavern lake with pockets of mined-out ore and volcanic vents that spout geyser columns.",
+      "Mining Site 2b is ringed with platforms leading to a central gravity lift that lifts the player to the top platform.",
+      "The First Encounter Mural is in the reservoir under the bridge to the Nomai Mines at the bottom of the large Geyser Mountain.",
+      "A water current leads from the First Encounter Mural area to the cavern below the Village.",
+      "The Village is in a large crater on Timber Hearth's surface.",
+      "Quantum Grove Crater is a forested crater south of the Village.",
+      "The Grove inside Quantum Grove Crater contains the Grove Shard.",
+      "A quantum geyser in Quantum Grove Crater leads to the underground water caverns.",
+      "Youngbark Crater is a large crater north of the Village containing a Dark Bramble Seed rooted in the planet's surface.",
+      "The Radio Tower and a small shack are northeast of the Village.",
+      "The Zero-G Cave is at the center of Timber Hearth, accessible via a mine shaft actively used by Tuff.",
+      "Three Backer Graveyard gravestones (naming financial backers of the game) stand behind a building near the launch tower."
+    ],
+    "lore": [
+      "Timber Hearth's Mining Site 2b is the only source of metal strong enough to temporarily withstand the heat of a supernova.",
+      "The Nomai mined Timber Hearth's ore exclusively to construct the impenetrable shell sealing off the Ash Twin Project's central chamber.",
+      "The Nomai (Coleus + Cycad + Oeno) observed prehistoric Hearthians during mining and relocated their work to protect them.",
+      "Mining Site 2a was the original target but was abandoned to protect the native Hearthian ancestors living in its cave pools.",
+      "Mining Site 2b was chosen as a safe alternative based on similar formations and strata.",
+      "Coleus described the early Hearthians as four-eyed, semi-aquatic, and very hardy.",
+      "Cycad wondered what the early Hearthians' fourth eye does.",
+      "An ancient mural near the First Encounter site depicts three Hearthian ancestors emerging from a pool while two space-suited Nomai look on.",
+      "Coleus felt his clan's choice to use only Timber Hearth ore for the shell preserved Hearthian potential to develop advanced metallurgy.",
+      "Yarrow and Ramie planned a final safety check of the Ash Twin Project shell, looking for cracks or openings.",
+      "Oeno offered to help with the final shell safety check after his mining work was complete.",
+      "Feldspar was the first Hearthian to be intentionally launched into space.",
+      "Feldspar completed the first orbit around Timber Hearth and the first landing on the Attlerock.",
+      "Outer Wilds Ventures' founding members are Hornfels, Gossan, Slate, and Feldspar.",
+      "The Museum's Nomai bust is the most detailed look at Nomai anatomy, showing antlers, fur, and decorative jewelry.",
+      "The Museum's Nomai skeleton shows the Nomai had antlers and only three eyes.",
+      "The Museum confirms Nomai had shockingly fragile bone structure, ruling out Hearthian descent from Nomai ancestors.",
+      "Hornfels' observatory notes describe discovering that points of light in deep images are galaxies, not stars.",
+      "Hornfels' redshift calculations imply the universe is expanding, with farther galaxies receding faster.",
+      "Hornfels worries about how far back in time the expansion can be extrapolated and whether the universe had a beginning.",
+      "Hornfels noticed an anomaly in one of three Deep Space Satellite photos that only appears in that single photo.",
+      "Hornfels initially attributed the photo anomaly to equipment malfunction and asked Gabbro to examine the satellite's lens.",
+      "The Museum's anglerfish specimen was found attached to the landing gear of a ship that flew close to Dark Bramble.",
+      "The Museum's gravity crystal was taken from a Nomai ruin on Brittle Hollow.",
+      "The Museum's Quantum Shard demonstrates motion when unobserved; Gabbro's framing 'exists in all possible states until observed' is on display.",
+      "The Museum's Nomai pottery and art depict celestial objects not found in the local solar system, suggesting Nomai origin elsewhere.",
+      "The Museum's Sky Shutter projector links to the Hearthian Satellite, letting visitors take snapshots of the Village.",
+      "The Radio Tower stores the first-ever photos taken of the entire solar system.",
+      "The Deep Space Satellite's vertical polar orbit enables full solar-system photos and the real-time map used by new astronauts.",
+      "The Radio Tower is closed due to fire damage from Slate and Mica's unsanctioned model-rocket testing (when Echoes of the Eye is not installed).",
+      "Gabbro's poem in the Quantum Grove changes line order each time the player looks away, with 24 unique variations.",
+      "Chert detected a strange signal in the Quantum Grove similar to the Quantum Moon's signal.",
+      "Tektite left the Village to investigate smoke seen rising from Youngbark Crater.",
+      "Tektite plans to shoot a Scout into the Youngbark Crater Dark Bramble Seed.",
+      "Feldspar's harmonica music can be heard from the Youngbark Crater Seed via the Signalscope on the Outer Wilds Ventures frequency.",
+      "The campsite near the Radio Tower contains 'Gabbro's 3 foolproof steps for dozing off': light a campfire, gaze into the warmth, let time slip away."
+    ],
+    "mechanics": [
+      "Timber Hearth's Ash Twin Tower warp receiver can only be entered from the corresponding warp tower on Ash Twin.",
+      "Firing a Scout into the Youngbark Crater Dark Bramble Seed reveals a much larger interior space containing an Anglerfish skeleton.",
+      "Feldspar's camp inside the Youngbark Seed is barely visible through the Scout's view.",
+      "The Scout-Launcher Platform near the Village has signage telling players what they will see if they fire the Scout in particular directions.",
+      "The Sky Shutter satellite has two onboard cameras and can be controlled from the Observatory exhibit.",
+      "Inside the Grove, trees, rocks, and the Grove Shard exhibit quantum behavior and change positions when unobserved.",
+      "The Backer Graveyard is typically only accessible by flight."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Solar System",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Sun",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Attlerock",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Village",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Launch Tower",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Ash Twin",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Towers",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Slate",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gossan",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Mica",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tektite",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tuff",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Rutile",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Arkose",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Chert",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Deep Space Satellite",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hearthian Satellite",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cycad",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Oeno",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Timber Hearth",
+    "url": "https://outerwilds.fandom.com/wiki/Timber_Hearth",
+    "fetched_at": "2026-05-28T10:50:42",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

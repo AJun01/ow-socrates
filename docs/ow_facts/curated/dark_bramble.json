@@ -1,0 +1,190 @@
+{
+  "entity": "Dark Bramble",
+  "entity_type": "planet",
+  "aliases": [],
+  "categories": [
+    "Locations",
+    "Planets"
+  ],
+  "tags": [
+    "dark_bramble",
+    "anglerfish",
+    "hostile_environment"
+  ],
+  "summary": "Dark Bramble is the fifth planet from the Sun, a network of twisted vines and space-bending teleportation passages — the imploded remnants of a former ice planet now overrun by plant growth. It is the only planet with hostile wildlife (the Anglerfish) and contains The Vessel, Feldspar's camp, and the lost Escape Pod 3.",
+  "facts": {
+    "biology": [
+      "Dark Bramble's interior has zero gravity.",
+      "Dark Bramble's exterior has approximately 0.4 g of gravity.",
+      "Dark Bramble is the only planet in the solar system that features hostile wildlife.",
+      "Dark Bramble's exterior consists of an enormous seed covered with numerous glowing openings, surrounded by thick fog.",
+      "Thick vines branch from the central seed, connecting to imploded fragments of an ice crust.",
+      "The interior of Dark Bramble contains expansive spaces far larger than its exterior would indicate, due to space-bending properties.",
+      "Each interior node is an enormous enclosed zero-gravity space filled with long winding vines and thick fog that impairs vision.",
+      "Dark Bramble seeds emit visible light through the fog, with two exceptions: the Nomai Grave seed and the Vessel Node seeds emit no light.",
+      "Dark Bramble seeds come in two sizes: large seeds with openings wide enough for a spaceship, and small seeds only large enough for a Scout."
+    ],
+    "behavior": [
+      "Pieces of light from Dark Bramble seeds and Anglerfish lures look identical, making them indistinguishable at a distance.",
+      "Signals from objects inside Dark Bramble nodes can be detected from outside via the Signalscope and Scout Launcher.",
+      "Duplicate signals can appear when multiple seeds and openings lead to the same node.",
+      "The Vessel emits a beacon that, due to Dark Bramble's space-bending, can be detected as originating from multiple locations simultaneously.",
+      "Anglerfish in Dark Bramble are generally inactive and still until awakened by sound.",
+      "Anglerfish are blind and rely on sound to hunt their prey."
+    ],
+    "location": [
+      "Dark Bramble is the fifth planet from the Sun.",
+      "Dark Bramble was originally an ice planet before being infected and torn apart by the space-bending plant growth.",
+      "Dark Bramble has eight unique interior nodes, interconnected by a network of seed portals.",
+      "The interior can be accessed by entering openings in the central seed at the planet's core.",
+      "A hidden Frozen Jellyfish is embedded in a crack of crust at Dark Bramble's South Pole.",
+      "The Hub Node is the first and most connected chamber of Dark Bramble.",
+      "The Hub Node contains a single Anglerfish waiting near its center.",
+      "The Hub Node has four seeds leading to the Nest, the Escape Pod Node, the Dead End Node, and Feldspar's Maze Node.",
+      "The Dead End Node contains no exit seeds and a single Anglerfish.",
+      "The Dead End Node can only be exited through its entrance opening.",
+      "The Escape Pod Node contains the lost Nomai Escape Pod 3 embedded in a thicket of vines.",
+      "The seed leading to the Escape Pod Node emits the Nomai distress signal.",
+      "The Escape Pod Node contains two Anglerfish and fragments of broken ice crust.",
+      "A trail of Nomai lights leads from Escape Pod 3 to the Nomai Grave.",
+      "The Nomai Grave is a hidden small seed in the Escape Pod Node that emits no light.",
+      "The Nomai Grave's seed is only large enough for a Scout to enter.",
+      "The Nomai Grave is surrounded by the suffocated corpses of the inhabitants of Escape Pod 3 and their final messages.",
+      "The Nomai Grave's seed leads to the Vessel Node.",
+      "Feldspar's Maze Node has nine distinct seeds and contains no Anglerfish.",
+      "Feldspar's Maze Node emits Feldspar's harmonica music.",
+      "Of the nine seeds in Feldspar's Maze, six lead to the Recursion Node and three lead to Feldspar's Camp.",
+      "Only the three Camp-bound seeds emit Feldspar's harmonica music.",
+      "Of the three seeds leading to Feldspar's Camp, only two are large enough for a ship; the third is small (Scout-sized).",
+      "The Recursion Node contains a single Anglerfish and a single seed that connects back to itself.",
+      "Flying into the Recursion Node's self-looping seed produces an infinite loop.",
+      "The Recursion Node can only be exited through its entrance opening.",
+      "Feldspar's Camp Node contains no Anglerfish.",
+      "Feldspar has set up camp inside an Anglerfish skeleton in this node.",
+      "The Anglerfish skeleton's light lure still functions and emits light.",
+      "The Anglerfish skeleton contains a small Dark Bramble Seed that the Anglerfish swallowed before dying.",
+      "Feldspar's damaged ship is parked near a hollow vine behind the skeleton.",
+      "The hollow vine behind Feldspar's ship leads back to the exterior of Dark Bramble, in the hidden crust section containing the Frozen Jellyfish.",
+      "The Nest Node is the largest and most dangerous node in Dark Bramble.",
+      "The seeds leading to the Nest Node glow bright red due to the Anglerfish eggs at the node's center.",
+      "The Nest Node is guarded by five Anglerfish.",
+      "Three of the Nest Node's Anglerfish are always positioned at the node's entrance.",
+      "The Nest Node contains four seeds: three lead back to the Recursion Node, and one leads to the Vessel Node.",
+      "The Vessel Node seed within the Nest Node is hidden among the vines and emits no light.",
+      "The Vessel Node contains The Vessel, the final resting place of the Nomai's spaceship.",
+      "The Vessel Node contains no Anglerfish.",
+      "The Vessel sits in the center of the node, entangled in a thicket of vines.",
+      "Seeds leading to the Vessel Node emit no light."
+    ],
+    "lore": [
+      "Dark Bramble was originally a fifth ice planet in the solar system.",
+      "Dark Bramble grew into the space of the destroyed fifth planet and destroyed it from the inside-out.",
+      "The Jellyfish were originally inhabitants of the destroyed fifth planet before Dark Bramble's growth.",
+      "Feldspar, a lost member of Outer Wilds Ventures, lives in Feldspar's Camp Node deep within Dark Bramble.",
+      "Feldspar's Camp Node is reached by following Feldspar's harmonica music with the Signalscope or by launching a Scout into the Dark Bramble Seed on Timber Hearth.",
+      "The Frozen Jellyfish provides a clue for reaching the core of Giant's Deep, and Feldspar's notes about it elaborate the mechanism.",
+      "Feldspar attempted to eat the Frozen Jellyfish, found the outer rubbery layer inedible, and concluded the jellyfish are only useful for electrical insulation.",
+      "Escape Pod 3 was the only one of the Vessel's three Escape Pods to fail to escape Dark Bramble.",
+      "The crew of Escape Pod 3 left the pod when air ran low to seek the nearest Vessel beacon.",
+      "The Nomai Grave records Secca's final message: the seed leading to the Vessel was too small for a Nomai to enter, but the Vessel's beacon was still faintly emitting from within it.",
+      "Secca theorized that the gruesome place could manipulate space itself, which may have been their undoing.",
+      "The Vessel is an ancient Nomai spaceship that was damaged and evacuated shortly after the Nomai's arrival in the solar system.",
+      "The Vessel originally followed a signal from the Eye of the Universe but exited warp inside Dark Bramble instead of at the signal source."
+    ],
+    "mechanics": [
+      "When traveling through a Dark Bramble seed, the player enters the destination node at a reduced fixed speed and a fixed direction, regardless of inbound angle or speed.",
+      "Returning through a node's entrance opening (embedded in the walls of the current node) returns the player to the exterior of the planet.",
+      "Firing a Scout into a small seed reveals the duplicate Scout signal, which can be used to locate the same node from a different seed.",
+      "The seed leading to the Vessel Node within the Nest Node can be reliably found by following Escape Pod 3's trail to the Nomai Grave and firing a Scout into the small seed there.",
+      "Anglerfish are awakened by sound from any kind of thrusters or by launching probes too close to them.",
+      "Further sound after an Anglerfish is awakened enrages it, causing it to charge faster than a spaceship can accelerate.",
+      "Following Feldspar's harmonica music with a Signalscope leads to the seed entering Feldspar's Camp Node.",
+      "Launching a Scout into the Dark Bramble Seed on Timber Hearth and following the Scout's location also leads to Feldspar's Camp Node.",
+      "Escape Pod 3 can be located by tracking its distress signal with the Signalscope.",
+      "The Vessel can be located by following Escape Pod 3's light trail to the Nomai Grave seed, shooting a Scout through it, and following the Scout's pings.",
+      "The Frozen Jellyfish is reached by asking Feldspar about Giant's Deep, then following the hollow vine behind Feldspar's ship."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Sun",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Jellyfish",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Bramble Island",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Escall",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Secca",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Din",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Filix",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Annona",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Dark Bramble",
+    "url": "https://outerwilds.fandom.com/wiki/Dark_Bramble",
+    "fetched_at": "2026-05-28T10:50:45",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

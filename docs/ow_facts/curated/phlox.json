@@ -1,0 +1,109 @@
+{
+  "entity": "Phlox",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "giants_deep"
+  ],
+  "summary": "Phlox was a Nomai scientist and craftsman who designed the Nomai Memory Statues central to the Ash Twin Project. Born on Brittle Hollow as Plume's son, Phlox set up the Statue Workshop on Giant's Deep with Daz to sculpt the statues.",
+  "facts": {
+    "biology": [
+      "Phlox is a Nomai.",
+      "Phlox is male."
+    ],
+    "behavior": [
+      "Phlox philosophizes about whether sending memories back in time is equivalent to sending a person back in time."
+    ],
+    "location": [
+      "Phlox set up the Statue Workshop on Giant's Deep together with Daz.",
+      "Phlox's remains can be found in the Statue Workshop on Giant's Deep."
+    ],
+    "lore": [
+      "Phlox is a member of the Nomai.",
+      "Phlox was born on Brittle Hollow.",
+      "Phlox's father was Plume, who told him many Nomai died when the Vessel crashed in Dark Bramble.",
+      "Phlox was involved in the design of the Ash Twin Towers on Ash Twin.",
+      "Phlox proposed that each Ash Twin Tower visually reflect its warp destination — the Giant's Deep tower as a cyclone, the Timber Hearth tower as a geyser mountain.",
+      "Phlox sculpted the Nomai Memory Statues at the Statue Workshop on Giant's Deep.",
+      "Phlox's memory statues pair Nomai with corresponding memory masks in the Ash Twin Project to send information back in time.",
+      "Daz helped Phlox with the statues but primarily worked on the memory storage masks.",
+      "Phlox added the fail-safe activation rule so the memory statues would also activate in the event of Ash Twin Project equipment failure.",
+      "Phlox explained the fail-safe to Ramie: 'if anything goes wrong with the Ash Twin Project, the statues and their masks will make us aware of the situation and enable us to fix it.'",
+      "Phlox raised the question of whether transmitting memories backward in time was philosophically equivalent to sending a person's 'essence' backward in time."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Statue Island",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Plume",
+      "relation": "apprentice_of"
+    },
+    {
+      "entity": "Daz",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Phlox",
+    "url": "https://outerwilds.fandom.com/wiki/Phlox",
+    "fetched_at": "2026-05-28T10:51:33",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

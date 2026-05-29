@@ -1,0 +1,126 @@
+{
+  "entity": "Idaea",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "sun_station"
+  ],
+  "summary": "Idaea was a Nomai who worked at the Sun Station as part of the Ash Twin Project, partnered with Pye on its construction despite firmly opposing the project's ethics. He was Privet's brother and died on the Sun Station from Ghost Matter.",
+  "facts": {
+    "biology": [
+      "Idaea is a Nomai.",
+      "Idaea is male."
+    ],
+    "behavior": [
+      "Idaea opposed the construction of the Sun Station on ethical grounds despite working on it.",
+      "Idaea found Pye's puns about exploding the sun unfunny.",
+      "Idaea argued with Pye constantly throughout the Sun Station's design and construction.",
+      "Idaea criticized Pye's morbid mission statement and proposed a more neutral alternative.",
+      "Idaea looked forward to working with Pye but was relieved that the warp platforms allowed him to return to Ash Twin regularly."
+    ],
+    "location": [
+      "Idaea worked at the Sun Station along with Pye.",
+      "Idaea's remains, holding the Ash Twin Project stone, can be found at the bottom of the Sun Station facing the Sun.",
+      "A Nomai Statue accompanies Idaea's remains at the bottom of the Sun Station, also facing the Sun."
+    ],
+    "lore": [
+      "Idaea is Privet's brother; Privet worked at the Orbital Probe Cannon.",
+      "Idaea supported building a new Advanced Warp Core for the Ash Twin Project as the safest path for the clan.",
+      "Idaea firmly opposed building the Sun Station, calling it an idea that 'went against every standard the Nomai held themselves to' and 'everything they believed in as a species.'",
+      "Idaea argued that the potential annihilation of an entire star system was too severe a cost for the knowledge of the Eye of the Universe's location.",
+      "Pye disagreed with Idaea and argued that pushing new technology further than ever before was a defining characteristic of the Nomai species.",
+      "The Idaea–Pye disagreement was the start of their continuous arguments.",
+      "Other Nomai believed the Sun Station was the only practical way to generate enough energy for the Ash Twin Project.",
+      "Idaea and Pye built the Sun Station together even though Idaea never supported it.",
+      "Pye wrote on the Sun Station the mission statement: 'science compels us to explode the sun.'",
+      "Idaea wanted the Sun Station's mission statement changed to: 'Determine if it's possible to prompt the sun to explode.'",
+      "Yarrow proposed that Idaea and Pye spend time apart from the Sun Station due to their constant arguments; both agreed.",
+      "After the Sun Station failed to induce a supernova, Idaea expressed that he never wished the device would fail despite disagreeing with the project.",
+      "Idaea responded to Pye's redesign proposal that this would be easier expressed than accomplished.",
+      "Privet left the Orbital Probe Cannon to visit Idaea on the Sun Station after its failure, fearing he might feel responsible.",
+      "It is unknown whether Privet reached Idaea before all Nomai were killed by Ghost Matter from the Interloper."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Privet",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Pye",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Avens",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Idaea",
+    "url": "https://outerwilds.fandom.com/wiki/Idaea",
+    "fetched_at": "2026-05-28T10:51:32",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

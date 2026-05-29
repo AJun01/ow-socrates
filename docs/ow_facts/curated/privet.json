@@ -1,0 +1,133 @@
+{
+  "entity": "Privet",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "orbital_probe_cannon",
+    "eye_signal"
+  ],
+  "summary": "Privet was a Nomai from Brittle Hollow who served as Filix's apprentice and worked on the Probe Tracking Module of the Orbital Probe Cannon. She was Idaea's sister and warned Mallow that overpowering the Cannon would destroy the very module needed to receive its data.",
+  "facts": {
+    "biology": [
+      "Privet is a Nomai.",
+      "Privet is female."
+    ],
+    "behavior": [
+      "Privet expressed worry about the Orbital Probe Cannon's structural integrity and the moral integrity of its crew.",
+      "Privet repeatedly urged Mallow not to overpower the Cannon to the point of breaking it."
+    ],
+    "location": [
+      "Privet originally lived on Brittle Hollow before the Ash Twin Project work.",
+      "Privet traveled to the Orbital Probe Cannon to install the Probe Tracking system.",
+      "Privet left the Orbital Probe Cannon after the Ash Twin Project was put on hold to visit her brother Idaea at the Sun Station."
+    ],
+    "lore": [
+      "Privet is the sister of Idaea, who worked at the Sun Station.",
+      "Privet was the apprentice of Filix, a high-ranking Nomai from the Vessel.",
+      "Privet helped Filix make adjustments to the Eye Signal Locator on the Attlerock.",
+      "Privet helped build the more sensitive Eye Signal Locator at the Southern Observatory on Brittle Hollow.",
+      "Privet argued that, since two Eye Signal Locators failed, the Nomai should discontinue the signal-based search method.",
+      "After the Ash Twin Project was set up, Privet began work on the Orbital Probe Cannon's probe tracking system.",
+      "Privet installed the Probe Tracking Module to record each launch's flight trajectory and automatically transmit data to the Ash Twin Project.",
+      "Privet was scheduled to send an alert directly to Yarrow and Ramie once the probe found the Eye of the Universe.",
+      "Privet would have been the first to see the Eye's coordinates if the system had worked as intended.",
+      "Privet worked alongside Mallow at the Orbital Probe Cannon.",
+      "Mallow argued the probe only needed to fire once, so minor Cannon damage was acceptable.",
+      "Privet protested that destroying the Probe Tracking Module would prevent receipt of the probe's data.",
+      "When the Ash Twin Project was put on hold, Cassava recalled Privet and Mallow from the Cannon.",
+      "Privet left to visit Idaea at the Sun Station because she feared he felt responsible for the Sun Station's failure.",
+      "It is unclear whether Privet reached Idaea before all Nomai died from Ghost Matter, since Idaea's skeleton appears alone in the Sun Station.",
+      "Privet's structural-integrity concerns about the Orbital Probe Cannon were validated: the Cannon breaks apart immediately upon launch and the Probe Tracking Module sinks into Giant's Deep's core."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Attlerock",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Southern Observatory",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Filix",
+      "relation": "apprentice_of"
+    },
+    {
+      "entity": "Idaea",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Mallow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Avens",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Privet",
+    "url": "https://outerwilds.fandom.com/wiki/Privet",
+    "fetched_at": "2026-05-28T10:51:34",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

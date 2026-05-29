@@ -1,0 +1,291 @@
+{
+  "entity": "Hourglass Twins",
+  "entity_type": "planet",
+  "aliases": [
+    "The Twins"
+  ],
+  "categories": [
+    "Planets"
+  ],
+  "tags": [
+    "hourglass_twins",
+    "nomai_history",
+    "ash_twin_project",
+    "warp",
+    "quantum"
+  ],
+  "summary": "The Hourglass Twins are a binary planet system orbiting very close to the Sun: Ember Twin (a desert world with deep caves) and Ash Twin (covered in sand over a rocky core). Sand flows between them like an hourglass over each 22-minute loop, revealing Ash Twin's Nomai warp towers and the Ash Twin Project hidden in its core.",
+  "facts": {
+    "biology": [
+      "The Hourglass Twins are a binary planet system whose two members orbit each other.",
+      "The Hourglass Twins are the closest celestial bodies to the Sun, excluding the Interloper at its periapsis and the Sun Station.",
+      "Both planets have low gravity compared to Timber Hearth.",
+      "The semi-major axis of the Hourglass Twins' barycenter is approximately 5 km.",
+      "Ember Twin is primarily made of red canyons and cliffs with cacti and various rock formations on the surface.",
+      "Ember Twin has a wide equatorial canyon that divides the planet into two halves and leads down to its core.",
+      "Ember Twin is likely a former ocean world, evidenced by aquatic-animal and plant fossils in its caves and northern lakebed.",
+      "Ash Twin is initially covered with sand laid over a black rocky core.",
+      "Both planets orbit very close to the Sun."
+    ],
+    "behavior": [
+      "The Twins' gravitational pull on each other changes periodically, causing sand to flow from one to the other over approximately 20 minutes like an hourglass.",
+      "At the start of each loop, all the sand is on Ash Twin.",
+      "Two minutes into each loop, Ember Twin begins pulling sand from Ash Twin.",
+      "Once the flow of sand stops, the current loop will soon end (the Sun supernovas).",
+      "By loop's end, all sand has filled Ember Twin's deep cave systems, while Ash Twin is reduced to a rocky core and a few skeletal stone pillars.",
+      "The pillar of sand does not damage the player directly, but can drag the player and their ship from Ash Twin up to Ember Twin.",
+      "If the player is caught in the sand pillar inside their ship on Ember Twin, they will be pinned to the ground and immobilized for the duration of being covered.",
+      "Ember Twin's interior caves and tunnels progressively fill with sand and become inaccessible as the loop progresses."
+    ],
+    "location": [
+      "The Hourglass Twins are home to the traveler Chert.",
+      "Ember Twin has an intricate cave system with multiple entrances and Nomai structures.",
+      "Escape Pod 2 is embedded into Ember Twin's crust near the south pole and creates an opening into the Crash Site Caves beneath.",
+      "The Crash Site Caves under Escape Pod 2 contain trails of Nomai writing chronicling the survivors' arrival and pointing toward the Sunless City.",
+      "The Sunless City is a large ruined Nomai settlement in the cave systems of Ember Twin.",
+      "The Sunless City is built into a massive vertical cavern.",
+      "The Sunless City is divided into four districts: the Anglerfish Overlook District, the Stepping Stone District, the High Energy Lab Trailhead, and the Eye Shrine District.",
+      "The Sunless City's districts are connected by stairways and gravity lifts.",
+      "The Sunless City has a central hub built into the cavern wall with trees and a Nomai control panel that lights each district individually.",
+      "Erosion has opened holes in the Sunless City, causing it to flood with sand from bottom to top during each loop, sealing off districts and pathways.",
+      "The Anglerfish Overlook District is the second-highest district in the Sunless City.",
+      "The Anglerfish Overlook District serves as the main entrance from the Crash Site Caves trail.",
+      "A return trip from the Anglerfish Overlook District is often impossible due to falling sand.",
+      "A hidden Nomai scroll in the Anglerfish Overlook District reveals an easy method of reaching the Sun Station exists on Ash Twin.",
+      "The Stepping Stone District is the second-lowest district and contains ruined Nomai children's homes.",
+      "The Stepping Stone District connects to the Stepping Stone Cave: a large chamber with minimal footing and stepping-stone-like platforms.",
+      "The bottom of the Stepping Stone Cave leads to the High Energy Lab Trail.",
+      "The Stepping Stone Cave loops back to the Sunless City.",
+      "The Eye Shrine District is the highest district in the Sunless City and acts as a temple to the Eye of the Universe.",
+      "The Eye Shrine District contains information regarding the Nomai's search for the Eye of the Universe.",
+      "The Eye Shrine District's ground floor is filled with pockets of Ghost Matter.",
+      "A trail from the Eye Shrine District leads to the surface Gravity Cannon through cacti and Ghost Matter.",
+      "The High Energy Lab Trailhead is the lowest district in the Sunless City and marks the start of the trail to the High Energy Lab.",
+      "The High Energy Lab Trail is marked by a long energy cable snaking through the caverns.",
+      "The High Energy Lab Trail's first half is at the bottom of the Stepping Stone Cave.",
+      "The High Energy Lab Trail's second half is initially blocked by a powerful sandfall and a cactus field.",
+      "The Anglerfish Fossil is a large cavern containing a giant fossil of an Anglerfish.",
+      "The Anglerfish Fossil was called Fossil Fish Cave by Nomai children.",
+      "The Anglerfish Fossil has multiple viewing openings but only one entrance: a hidden crack on the ceiling found in the Stepping Stone Cave.",
+      "A gravity lift above the Anglerfish Fossil leads to a chamber with Nomai research on the fossil's blindness.",
+      "Ember Twin's Gravity Cannon is a huge cylindrical Nomai structure near the planet's equator.",
+      "The Ember Twin Gravity Cannon is linked to the Frozen Nomai Shuttle on the Interloper.",
+      "Recalling the Frozen Nomai Shuttle frees it from ice and allows access to its interior.",
+      "The High Energy Lab is an intact Nomai research facility built into Ember Twin's equatorial canyon.",
+      "The High Energy Lab is marked by a massive solar panel energy tower.",
+      "The High Energy Lab's main entrance is sealed from the inside.",
+      "The High Energy Lab's testing area has two input slots for spare black hole and white hole warp cores and a viewport large enough for a Scout to pass through.",
+      "The High Energy Lab's controls can redirect power between the Sunless City and the warp core testing area.",
+      "Chert's Camp is on a tall pillar at Ember Twin's north pole, in the center of a deep dry lakebed.",
+      "Chert's Camp has astronomy equipment and oxygen/jetpack refills.",
+      "The Quantum Caves are two Nomai cave entrances in the dry lakebed around Chert's Camp, opposite each other.",
+      "Each Quantum Cave entrance can contain the Cave Shard in a small chamber, depending on observation.",
+      "Quantum objects, including cacti, appear in proximity to the Cave Shard.",
+      "The Lakebed Cave is a deep winding cave at the very bottom of Ember Twin's north dry lakebed.",
+      "The Lakebed Cave fills with sand in the first minutes of each loop.",
+      "The first level of the Lakebed Cave is a maze with many paths blocked by stalactites.",
+      "Stalactites and cactus fields in the Lakebed Cave are quantum objects that disappear when unobserved.",
+      "A large chamber at the end of the Lakebed Cave maze is the third possible location of the Cave Shard.",
+      "Nomai writings in the Lakebed Cave reveal it as the location of Coleus's disappearance.",
+      "A fourth Cave Shard location is a hidden underground chamber with no entrances or exits, containing Coleus's musings after his rediscovery.",
+      "The Quantum Moon Locator is on the south pole of Ember Twin.",
+      "The Quantum Moon Locator has concentric rings with five symbols, each depicting a different celestial body in the solar system.",
+      "A fifth symbol on the Quantum Moon Locator shows the Moon's current orbit, moving to align with the corresponding body.",
+      "Ash Twin contains the Ash Twin Towers, a network of five teleporter towers built by the Nomai on a massive ring around Ash Twin's equator.",
+      "Each Ash Twin Tower visually represents the planet it connects to.",
+      "The five Ash Twin Towers warp to: Sun Station, Brittle Hollow, Giant's Deep, Timber Hearth, Ember Twin, and the Ash Twin Project.",
+      "The Sun Station Tower is shaped like a sun and is the tallest, the first to appear as sand recedes.",
+      "The path to the Sun Station Tower's warp platform is blocked by cacti late in the loop and must be traversed early through the sand.",
+      "The Giant's Deep Tower is shaped like a cyclone and connects to a warp receiver on Statue Island.",
+      "The Timber Hearth Tower is shaped like Geyser Mountain and connects to a warp receiver near the Nomai Mines; it contains trees for oxygen.",
+      "The Brittle Hollow Tower is shaped like a vertical section of the planet's crust and connects to the warp receiver in the Black Hole Forge District.",
+      "The Hourglass Twins tower is two towers with a bridge between them, representing the Twins and sand funnel.",
+      "The Hourglass Twins tower has two warp platforms (one for Ember Twin, one for Ash Twin Project), both activated when Ember Twin passes overhead.",
+      "The Ember Twin warp tower is larger and segmented in two, connecting to the warp receiver outside the High Energy Lab.",
+      "The Ash Twin Project warp tower is smaller and connects directly to a warp receiver inside the Ash Twin Project in the planet's core.",
+      "The Ash Twin Project tower has a broken ceiling that allows the sand funnel's pull to reach inside.",
+      "The Ash Twin Project is housed within an excavated shell at the core of Ash Twin.",
+      "Two solar panel energy towers stand at Ash Twin's north and south poles, connected to the Ash Twin Project."
+    ],
+    "lore": [
+      "Annona, Coleus, Cycad, Oeno, Pye, Idaea, and other Nomai of Escape Pod 2 made their long-term shelter in the Sunless City after the Vessel crash.",
+      "Coleus and Melorae studied the Anglerfish Fossil in the Sunless City and discovered Anglerfish are blind and the specimen died from starvation.",
+      "Nomai children frequented the Stepping Stone District and used a secret crack-in-the-ceiling to enter the Anglerfish Fossil chamber.",
+      "Nomai writings in the Lakebed Cave chronicle the disappearance and rediscovery of Coleus, who discovered the new quantum-entanglement rule.",
+      "Coleus's quantum-entanglement rule: contacting a quantum object and ceasing observation (such as by entering complete darkness) allows one to travel with the quantum object.",
+      "The Nomai correctly surmised from the Quantum Moon Locator's gap that the Moon has a sixth location it can travel to.",
+      "Pye and Ramie were assigned to the High Energy Lab to recreate the negative time phenomenon first observed at the White Hole Station.",
+      "Ramie believed there was time warping going on, while Pye initially insisted it was equipment measurement error.",
+      "After rerouting Sunless City power to the Lab, Pye and Ramie proved the warps occurred before the actual departure, exciting both scientists.",
+      "The Southern Observatory's Nomai then asked whether the negative time interval could be increased to 22 minutes.",
+      "Extending the time interval required a more advanced warp core, much more space, and an exponentially larger energy source — becoming the basis of the Ash Twin Project.",
+      "The Ash Twin Tower network was designed at the High Energy Lab based on the White Hole Station, with five murals depicting the six tower designs.",
+      "Phlox is presumed to have designed the Ash Twin Towers based on the High Energy Lab plans.",
+      "The six warp cores inside the Ash Twin Towers were created at the Black Hole Forge.",
+      "The Nomai had intended to use the Ash Twin Project to discover the Eye of the Universe by pairing a Nomai Statue with the Orbital Probe Cannon's Probe Tracking Module.",
+      "The Nomai planned to artificially induce a supernova using the Sun Station to power the Ash Twin Project.",
+      "The Nomai's plan involved firing probes randomly, sending all probe data back 22 minutes via the Project, then selecting a new trajectory each loop until the Eye was found by chance.",
+      "When activated by the Nomai, the Sun Station failed to induce a supernova and the Project was put on hold.",
+      "The Ash Twin Project later activated accidentally when the Sun reached the natural end of its lifespan and supernovaed.",
+      "Chert at their north-pole camp gradually realizes over each loop that the universe is dying as stars supernova en masse."
+    ],
+    "mechanics": [
+      "The Ash Twin Project is only accessible from the Ash Twin warp tower on Ash Twin's equator.",
+      "Removing the Ash Twin Project's Advanced Warp Core deactivates the Project and ends the time loop until reinserted.",
+      "Both Hourglass Twins tower platforms (Ember Twin and Ash Twin Project) activate simultaneously when Ember Twin passes overhead because the Twins share a center of gravity.",
+      "The Ash Twin Project warp tower's broken ceiling allows the sand funnel to suck the player out before the platform activates.",
+      "Reaching the Ash Twin Project requires sheltering under the adjoining bridge or hiding in the closet opposite the room during the sand pillar's center alignment.",
+      "Removing the Cave Shard's observation (by switching off the flashlight while standing on it) randomly teleports the Shard and the player to its fourth location.",
+      "The High Energy Lab's testing area produces a black hole and a white hole when paired warp cores are installed in the two slots.",
+      "Firing a Scout into the High Energy Lab's black hole causes it to exit the white hole slightly before entering the black hole.",
+      "Briefly two Scouts exist at once after firing, causing a Signal Duplication error.",
+      "Redirecting power from the Sunless City to the High Energy Lab experiment greatly pronounces the negative time effect.",
+      "Shooting a Scout at the High Energy Lab's black hole and removing the black hole core before the Scout actually enters the black hole creates a temporal paradox and triggers the Breaking Spacetime Ending.",
+      "Recalling the Frozen Nomai Shuttle from the Interloper to Ember Twin's Gravity Cannon allows entry to its interior.",
+      "Hiding under the Hourglass Twins tower's adjoining bridge protects the player from the sand funnel's pull during alignment.",
+      "Autopilot is not recommended near the Twins due to risk of crashing into the Sun or one of the Twins."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Sun",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "located_in"
+    },
+    {
+      "entity": "High Energy Lab",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Gravity Cannon",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Black Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Black Hole Forge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Chert",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cycad",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Annona",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Oeno",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Idaea",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Pye",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Melorae",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Hourglass Twins",
+    "url": "https://outerwilds.fandom.com/wiki/Hourglass_Twins",
+    "fetched_at": "2026-05-28T10:50:45",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "entity": "Gravity Cannon",
+  "entity_type": "technology",
+  "aliases": [
+    "Gravity Cannons"
+  ],
+  "categories": [
+    "Technology",
+    "Locations"
+  ],
+  "tags": [
+    "nomai_history",
+    "brittle_hollow",
+    "hourglass_twins",
+    "warp"
+  ],
+  "summary": "Gravity Cannons are Nomai structures that launch shuttles with gravitational force and recall them using paired white hole warp cores. Two exist in the solar system: one on Brittle Hollow's equator (linked to Solanum's shuttle on the Quantum Moon) and one on Ember Twin's equator (linked to the shuttle on the Interloper).",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "Gravity Cannons can also launch other objects, including the player's spaceship, when activated.",
+      "Recalled Nomai shuttles can only receive thrust once from the Gravity Cannon and are very hard to aim."
+    ],
+    "location": [
+      "Gravity Cannons exist on planets where the Nomai initially crash-landed: Brittle Hollow and Ember Twin.",
+      "Each Gravity Cannon has only two controls, located on a platform outside and under the firing platform.",
+      "The Brittle Hollow Gravity Cannon is at the planet's equator and aims directly upward.",
+      "The Brittle Hollow Gravity Cannon can be accessed from the planet's surface or from the Crossroads.",
+      "The Brittle Hollow Gravity Cannon usually falls into the planet's black hole near the end of the loop.",
+      "The Ember Twin Gravity Cannon is at the planet's equator and fires at an angle.",
+      "The Ember Twin Gravity Cannon can be accessed from the surface or from the Sunless City's Eye Shrine District.",
+      "The Brittle Hollow Gravity Cannon is linked to Solanum's Shuttle, currently resting on the Quantum Moon.",
+      "The Ember Twin Gravity Cannon is linked to a shuttle currently resting on the Interloper.",
+      "The shuttle on the Interloper contains Clary's corpse and a recording from her."
+    ],
+    "lore": [
+      "Gravity Cannons may have been built by the early Nomai settlers as an early form of interplanetary travel before warp technology was reinvented.",
+      "The structural design and launch method of the Orbital Probe Cannon appears similar to the Gravity Cannons, suggesting they were an early precursor.",
+      "Solanum used the Brittle Hollow Gravity Cannon to launch toward the Quantum Moon for her pilgrimage.",
+      "Clary, Poke, and Pye landed on the Interloper using the Ember Twin Gravity Cannon's paired shuttle.",
+      "Clary's shuttle recording reports that Pye and Poke descended into a fissure on the Interloper's sunward side after detecting strange energy readings.",
+      "Clary lost contact with Pye and Poke after they descended into the Interloper and recorded her dilemma about whether to follow them.",
+      "Solanum's shuttle recording on the Quantum Moon describes her landing at the moon's south pole and her sense of readiness."
+    ],
+    "mechanics": [
+      "Triggering the right control on a Gravity Cannon sends a signal to the paired shuttle's warp core to recall the shuttle.",
+      "Triggering the left control on a Gravity Cannon activates it, firing the shuttle out if it is currently in the cannon.",
+      "Both Gravity Cannon shuttles lack propulsion of their own and require the cannon to launch.",
+      "Once a shuttle has been recalled, the player can enter it, fire it from inside, recall it again, or stop it via the inside panel.",
+      "Recalling Solanum's shuttle from the Quantum Moon reveals her pilgrimage recording.",
+      "Recalling the Interloper shuttle reveals Clary's corpse and recording.",
+      "The Ember Twin shuttle returns to Ember Twin's Gravity Cannon when recalled.",
+      "The Brittle Hollow shuttle returns to Brittle Hollow's Gravity Cannon when recalled."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Brittle Hollow",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Crossroads",
+      "relation": "near"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "near"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Clary",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Pye",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Bells",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Gravity Cannon",
+    "url": "https://outerwilds.fandom.com/wiki/Gravity_Cannon",
+    "fetched_at": "2026-05-28T10:51:08",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

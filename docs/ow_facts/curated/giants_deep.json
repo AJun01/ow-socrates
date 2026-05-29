@@ -1,0 +1,214 @@
+{
+  "entity": "Giant's Deep",
+  "entity_type": "planet",
+  "aliases": [],
+  "categories": [
+    "Locations",
+    "Planets"
+  ],
+  "tags": [
+    "giants_deep",
+    "nomai_history",
+    "orbital_probe_cannon"
+  ],
+  "summary": "Giant's Deep is the fourth planet from the Sun and the largest body in the solar system — an ocean world covered in a green gaseous atmosphere with massive cyclones that hurl five drifting islands into the air. Hidden at its coral core is the Nomai's Probe Tracking Module, which holds the coordinates to the Eye of the Universe.",
+  "facts": {
+    "biology": [
+      "Giant's Deep is an ocean planet with three layers: a gaseous turbulent outer shell, a liquid inner shell with strong surface currents, and a dense liquid core.",
+      "Giant's Deep is the largest and heaviest planet in the solar system.",
+      "Giant's Deep has a thick, effectively opaque, gaseous green outer atmosphere.",
+      "Giant's Deep has a coral core surrounded by very dense fluid.",
+      "Giant's Deep has a surface gravity of approximately 2.0 g and a deeper gravity up to 3 g.",
+      "Giant's Deep has no day/night cycle; the atmosphere's faint glow lights everything in the same green haze regardless of time.",
+      "Giant's Deep's atmosphere can be flown through with ease despite its opacity."
+    ],
+    "behavior": [
+      "Giant's Deep has at most 11 cyclones circling its global waters at once.",
+      "Most of Giant's Deep's cyclones rotate clockwise and generate upward winds that fling objects through the atmosphere.",
+      "One of Giant's Deep's cyclones always rotates counter-clockwise and pushes objects downward with enough force to bypass the deep water current.",
+      "Cyclones on Giant's Deep typically originate in a cluster at the South Pole, then move along the surface following unknown patterns.",
+      "Cyclones disappear and reappear after launching an island.",
+      "A giant, stationary, impassable cyclone exists at the North Pole of Giant's Deep.",
+      "The North Pole cyclone hides the fifth island, which contains the Tower of Quantum Trials.",
+      "Islands on Giant's Deep are briefly thrown above the planet by passing cyclones, exiting the atmosphere completely before falling back to the ocean.",
+      "Islands violently fall back to the ocean after being launched, often briefly submerging on landing.",
+      "Touching a Jellyfish's tentacles or the core's electric barrier causes a powerful shock that damages the ship's electrical systems or suit's HUD.",
+      "The Orbital Probe Cannon fires in a random direction at the beginning of every loop, shattering into pieces as it does so."
+    ],
+    "location": [
+      "Giant's Deep is the fourth planet from the Sun.",
+      "Giant's Deep has five small islands on its surface.",
+      "The five islands of Giant's Deep are Bramble Island, Construction Yard, Statue Island, Gabbro's Island, and the island containing the Tower of Quantum Trials.",
+      "Four of the five islands freely meander around the planet's ocean on their latitudes.",
+      "The fifth island (Tower of Quantum Trials) is hidden behind the impassable North Pole cyclone.",
+      "Gabbro's ship can be found drifting on the ocean surface.",
+      "The Orbital Probe Cannon orbits Giant's Deep at the equator.",
+      "The ruins of the Orbital Probe Cannon continue to orbit the planet for the duration of each loop after firing.",
+      "The Ocean Depths are the section of ocean between the deep water current and the planet's core.",
+      "The Ocean Depths are inhabited by Jellyfish, who are immune to the powerful electrical currents surrounding the core.",
+      "An electric barrier surrounds Giant's Deep's core, preventing direct entry from the Ocean Depths.",
+      "Giant's Deep's core is a dark forest of coral, only lit by sparks of electricity and Jellyfish.",
+      "The Probe Tracking Module is found in one of the coral branches at Giant's Deep's core, where it sank at the start of the loop after the Cannon's destruction.",
+      "Older Orbital Probe Cannon components, which fell into the core during initial construction, are found to the north-east of the Probe Tracking Module, close to the equator.",
+      "Nomai cyclone shelters are scattered throughout the Nomai ruins on the islands."
+    ],
+    "lore": [
+      "Gabbro is the only Hearthian inhabitant of Giant's Deep.",
+      "Jellyfish are a foreign species on Giant's Deep; they originally inhabited the destroyed fifth ice planet.",
+      "The Nomai built cyclone shelters to protect themselves on the islands.",
+      "The Nomai initially could not figure out how some Orbital Probe Cannon components sank past the surface current.",
+      "Spire built a model of Giant's Deep at the Southern Observatory on Brittle Hollow to investigate the sinking phenomenon.",
+      "Spire's investigation revealed that a rare anticlockwise cyclone could drive objects below the current.",
+      "Cassava, Daz, and Conoy were among the Nomai working on the Orbital Probe Cannon at the Construction Yard.",
+      "Phlox built the memory statues on Giant's Deep at the Statue Workshop on Statue Island.",
+      "Daz was the first Nomai to be successfully paired with a memory statue during testing.",
+      "Phlox designed the statues to choose the nearest creature when pairing.",
+      "The Statue Workshop is inside an island on Giant's Deep; Phlox lived in a dwelling there.",
+      "Lami, Taget, and Laevi were Nomai children who wanted to sneak in to watch the memory statue tests despite Phlox's warnings.",
+      "Phlox added the fail-safe activation to the statues so the Nomai would remain aware of any Ash Twin Project malfunctions.",
+      "The Tower of Quantum Trials teaches the rule of quantum imaging required for the Quantum Moon pilgrimage.",
+      "The Tower of Quantum Trials' final inscription says the visitor walks in the footsteps of those who came before and guides those who follow.",
+      "Feldspar's log on Bramble Island brags about reaching the core of Giant's Deep without being electrocuted.",
+      "Feldspar reached the core by force (high-speed plunge) rather than via the counter-clockwise cyclone.",
+      "Giant's Deep was named 'Gale Giant' in the pre-alpha of the game."
+    ],
+    "mechanics": [
+      "The counter-clockwise cyclone on Giant's Deep is the intended route to bypass the deep water current and reach the Ocean Depths.",
+      "It is possible to force entry into the Ocean Depths by flying the ship at more than 10 km/s toward the planet's center.",
+      "Forcing entry via high-speed plunge requires flying so far from the planet to gain speed that the planet un-renders.",
+      "Forcing entry has a small chance of landing on an island instead of water, which obliterates the ship immediately.",
+      "A Nomai shuttle can pass through the surface current if successfully flown to Giant's Deep, but cannot penetrate the core's electric barrier.",
+      "Reaching the core via a Nomai shuttle grants an achievement.",
+      "Inside the core, the ship and player are slowed to a top speed of 5 m/s by the dense water.",
+      "It is possible to hide inside a Jellyfish's body to safely pass through the electric barrier as they periodically ascend and descend.",
+      "Jellyfish's bodies are insulated from electricity, allowing them to pass through the barrier freely.",
+      "Cyclone shelters create a small cylinder of artificial gravity, oxygen, and silence when an island is launched into space.",
+      "Cyclone shelter oxygen is provided but does not refill the player's oxygen tank.",
+      "Cyclone shelters shut off once the island falls back to Giant's Deep.",
+      "The Probe Tracking Module records each launch's flight trajectory and transmits relevant data to the Ash Twin Project automatically.",
+      "When the probe locates the Eye of the Universe, the Probe Tracking Module sends an alert to the Ash Twin Project."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Sun",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Bramble Island",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Construction Yard",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Statue Island",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Gabbro's Island",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Tower of Quantum Trials",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Jellyfish",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Daz",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Conoy",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Spire",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Mallow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Avens",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Privet",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Lami",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Giant's Deep",
+    "url": "https://outerwilds.fandom.com/wiki/Giant%27s_Deep",
+    "fetched_at": "2026-05-28T10:50:44",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

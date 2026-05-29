@@ -1,0 +1,157 @@
+{
+  "entity": "Quantum Moon",
+  "entity_type": "moon",
+  "aliases": [
+    "The Quantum Moon"
+  ],
+  "categories": [
+    "Locations",
+    "Planets",
+    "Moons"
+  ],
+  "tags": [
+    "quantum",
+    "endgame",
+    "eye_signal",
+    "nomai_history"
+  ],
+  "summary": "The Quantum Moon is a planetary object in constant quantum superposition, orbiting six different astral bodies at once until observed. It is the Eye of the Universe's moon; visiting it requires applying three Nomai-taught quantum rules (Imaging, Entanglement, and the Sixth Location) culminating in a meeting with Solanum.",
+  "facts": {
+    "biology": [
+      "The Quantum Moon has approximately 0.4 g gravity.",
+      "The Quantum Moon is covered in a thick grey cloud layer that completely obscures its surface.",
+      "The Quantum Moon's surface changes appearance to resemble the planet it currently orbits, with six possible variations.",
+      "All objects on the Quantum Moon's surface display quantum properties, moving when unobserved.",
+      "The Quantum Moon emits a signal on the Quantum Fluctuations frequency that can be detected by the Signalscope."
+    ],
+    "behavior": [
+      "The Quantum Moon exists in orbit around six different large astral bodies at once until observed by a conscious observer.",
+      "The Quantum Moon randomly phases between its six positions when not being observed.",
+      "Attempting to land on the Quantum Moon conventionally causes the player to pass through it; the Moon disappears mid-landing.",
+      "When properly landed on, the player always emerges at the Moon's south pole, regardless of original entry vector.",
+      "After the Sun goes supernova, the Quantum Moon is always located at the Eye of the Universe.",
+      "As the Sun becomes a Red Giant, the Quantum Moon stops orbiting the Hourglass Twins to avoid crashing into the Sun."
+    ],
+    "location": [
+      "The Quantum Moon's six orbital positions are: Hourglass Twins, Timber Hearth, Brittle Hollow, Giant's Deep, outside Dark Bramble, and the Eye of the Universe.",
+      "The Quantum Moon is the moon of the Eye of the Universe; it shares the Eye's quantum properties, which is why it can be seen at the other locations.",
+      "The Quantum Moon's surface contains a dead Nomai corpse belonging to Solanum (in the first five locations).",
+      "Solanum's Nomai Shuttle rests on the Quantum Moon unless recalled by Brittle Hollow's Gravity Cannon.",
+      "The Quantum Shrine is a Nomai-built quantum structure on the Quantum Moon that allows users to force the Moon to move between its six locations.",
+      "The Quantum Shrine, like other surface objects, moves and changes locations on the Moon when unobserved.",
+      "The Quantum Shrine has a door, an interior lantern, and a locator on its wall indicating the Moon's current orbital location.",
+      "The Sixth Location of the Quantum Moon has a smooth ground covered in purple strata.",
+      "The Sixth Location features outcroppings of strange crater-marked obsidian stone in odd geometries, identical in composition to the Quantum Shards.",
+      "An open pathway leads from the Quantum Shrine across the Sixth Location's surface to the south pole.",
+      "At the Sixth Location's south pole, a still-living Solanum stands under a large vortex in the Moon's cloud layer leading into deep space."
+    ],
+    "lore": [
+      "The Nomai built numerous Quantum Moon Locators throughout the solar system to pinpoint the Moon's location.",
+      "Quantum Moon Locators exist on the south pole of Ember Twin and inside the Tower of Quantum Knowledge.",
+      "Quantum Moon Locators can find the Moon at any of its first five locations but not at the Sixth Location.",
+      "The Tower of Quantum Trials on Giant's Deep teaches the rule of Quantum Imaging.",
+      "The Cave Shard on Ember Twin teaches the rule of Quantum Entanglement, which the Quantum Shrine operates on.",
+      "The Tower of Quantum Knowledge on Brittle Hollow teaches the rule of the Sixth Location.",
+      "Solanum's recordings near her shuttle express her wonder at finally standing on the Quantum Moon for the first time.",
+      "Solanum recorded that the Quantum Moon always welcomes its visitors at the south pole, but the Nomai did not know why.",
+      "Solanum recorded her acceptance of unknowns in adulthood: 'The universe is, and we are. I am ready.'",
+      "Five Quantum Shards broken from the Quantum Moon are scattered throughout the solar system."
+    ],
+    "mechanics": [
+      "To land on the Quantum Moon, the player must take a photo of the Moon before entering the atmosphere and keep observing the photo during landing to prevent the Moon from disappearing.",
+      "The Quantum Imaging rule applied to the Moon: observing an image of a quantum object counts as observing the object itself.",
+      "The Quantum Shrine forces the Moon to move between its six locations: enter the Shrine, shut the door, and turn off the lantern to enter complete darkness.",
+      "When in complete darkness inside the Shrine, the Moon moves to a new random location while the Shrine remains the entanglement reference.",
+      "Reaching the Sixth Location requires using the Quantum Shrine while it is at the Moon's North Pole.",
+      "Attempting to use the Shrine for the Sixth Location while it is not at the North Pole results in the Shrine's door being blocked by obsidian stone identical to the Quantum Shards.",
+      "The Moon's North Pole is blocked by terrain features in five of its six variations, requiring iterative Shrine use to find a path to it.",
+      "A typical Sixth-Location strategy: use the Shrine at Brittle Hollow, Giant's Deep, or Dark Bramble variations to travel north, then switch to Hourglass Twins or Timber Hearth variation to access the open North Pole.",
+      "Exiting the Sixth Location through the vortex in the cloud layer drops the player near the south pole of the Timber Hearth variation, on Solanum's corpse.",
+      "It is impossible to use the Sixth Location to reach the Eye of the Universe early; the atmosphere blocks progress and the vortex returns the player to the Sixth Location.",
+      "The fog effect on the Moon's surface can be removed by boosting up into the cloud layer and back down again, at least on the Hourglass Twins variant.",
+      "Keeping the Quantum Moon orbiting the Hourglass Twins as the Sun becomes a Red Giant causes the Moon to 'crash' into the Sun, killing the player on that variant; the Quantum Moon itself emerges practically unharmed."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Eye of the Universe",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "near"
+    },
+    {
+      "entity": "Quantum Shrine",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tower of Quantum Trials",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tower of Quantum Knowledge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gravity Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Bells",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Quantum Moon",
+    "url": "https://outerwilds.fandom.com/wiki/Quantum_Moon",
+    "fetched_at": "2026-05-28T10:50:46",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

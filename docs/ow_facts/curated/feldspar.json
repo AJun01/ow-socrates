@@ -1,0 +1,191 @@
+{
+  "entity": "Feldspar",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians",
+    "Outer Wilds Ventures Members",
+    "Travelers"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "travelers",
+    "dark_bramble",
+    "owv_founder"
+  ],
+  "summary": "Feldspar is a Hearthian astronaut and one of the founders of Outer Wilds Ventures, revered as the greatest pilot in Hearthian history. They have been stranded inside Dark Bramble for years after their ship crashed, and now live inside an abandoned Anglerfish skeleton. They play the harmonica.",
+  "facts": {
+    "biology": [
+      "Feldspar is a Hearthian.",
+      "Feldspar plays the harmonica."
+    ],
+    "behavior": [
+      "Hornfels describes Feldspar as 'absolutely fearless' and remarks 'it's a wonder Feldspar lived to see space.'",
+      "Feldspar is an explorer at heart and is eager to hear about the Protagonist's adventures.",
+      "Feldspar is not keen on returning to Timber Hearth, claiming to like the peace and solitude of their camp in Dark Bramble.",
+      "Feldspar describes themselves as needing a break from being 'the best that ever was.'",
+      "Feldspar refuses to accompany the Protagonist back home when offered rescue.",
+      "Feldspar is generally tolerant of dangerous stunts and concealed many of them from Hornfels to avoid lectures about ship integrity.",
+      "Feldspar's behavior is widely considered uncontainable and incomprehensible among Outer Wilds Ventures.",
+      "Feldspar gladly performs the harmonica at the campfire during the Eye of the Universe ending."
+    ],
+    "location": [
+      "Feldspar is located deep inside Dark Bramble in Feldspar's Camp Node.",
+      "Feldspar's camp is set up inside an abandoned Anglerfish skeleton.",
+      "Feldspar's damaged ship is parked near a hollow vine behind the Anglerfish skeleton in their camp.",
+      "Feldspar's first pilot chair is preserved as an exhibit in the Observatory on Timber Hearth.",
+      "A flag with the Outer Wilds Ventures logo marks Feldspar's first landing site on the Attlerock.",
+      "Feldspar left tape machines on multiple planets during their travels.",
+      "Feldspar left a spare jetpack fuel cache on Brittle Hollow's Northern Glacier with notes attached."
+    ],
+    "lore": [
+      "Feldspar is one of the founders of Outer Wilds Ventures (along with Gossan, Slate, and Hornfels).",
+      "Feldspar is the first Hearthian to be intentionally launched into space.",
+      "Feldspar completed the first Hearthian orbit around Timber Hearth.",
+      "Feldspar made the first Hearthian landing on the Attlerock.",
+      "Feldspar is revered as the greatest pilot in Hearthian history.",
+      "Feldspar's first intentional launch is described by a museum exhibit as falling under 'a breathtakingly liberal definition of flight.'",
+      "Feldspar extensively explored the Attlerock, the Hourglass Twins, Brittle Hollow, and Giant's Deep before attempting Dark Bramble.",
+      "Feldspar reached the core of Giant's Deep before any other Hearthian.",
+      "Feldspar reached the core of Giant's Deep by accidentally discovering the cyclone-surfing technique.",
+      "Feldspar concealed their cyclone-surfing from Hornfels to avoid Hornfels' concern about the ship's structural integrity.",
+      "Feldspar chose Dark Bramble as their next challenge because no Hearthian had ever explored it.",
+      "Feldspar's ship was clipped by a giant Anglerfish in Dark Bramble, knocked into a vine, and crashed.",
+      "Feldspar abandoned their ship just before its electrical systems caught fire after the crash.",
+      "Feldspar initially camped inside the Frozen Jellyfish before relocating to the Anglerfish skeleton.",
+      "Feldspar reasoned that the Anglerfish skeleton's still-functioning light lure would repel other Anglerfish due to their territorial nature.",
+      "Feldspar planted emergency tree seeds at their camp to provide oxygen.",
+      "Feldspar attempted to eat the Frozen Jellyfish, found the outer rubbery layer inedible, and concluded the jellyfish are only useful for electrical insulation.",
+      "Feldspar theorized that space in Dark Bramble expands as you pass through each sphere, explaining why seeds are bigger inside.",
+      "Feldspar's harmonica was made by Gneiss, as were all the Hearthian travelers' instruments.",
+      "Gneiss remembers Feldspar playing the harmonica around the village campfire as if it were yesterday.",
+      "Hornfels remembers Feldspar well and notes the new astronaut 'winging it' continues Outer Wilds Ventures' best tradition.",
+      "Learning that Feldspar is alive fills Hornfels with heartfelt joy.",
+      "Hornfels plans to have Gossan prepare a ship to bring Feldspar home after learning Feldspar is alive.",
+      "Tephra learned from Hornfels that Feldspar was the best pilot ever but 'got lost.'",
+      "Tephra warns the Protagonist not to make Hornfels sad by getting lost in space like Feldspar.",
+      "Riebeck judges their landing on Brittle Hollow good enough that Feldspar would barely have laughed at it.",
+      "Gabbro notes that the Orbital Probe Cannon's overenthusiasm/excess-power destruction sounds like something Slate or Feldspar would do.",
+      "Self and the Protagonist joke during the Self Ending that they are 'the Feldspar of weird time stuff.'",
+      "If Tektite hears about Feldspar's harmonica from Timber Hearth, they advise against telling Gneiss, because Gneiss would never let the Dark Bramble seed be removed if they thought it had musical talent.",
+      "From the start of the game, the Signalscope's Outer Wilds Ventures frequency detects Feldspar's harmonica from both Dark Bramble and Timber Hearth.",
+      "The Dark Bramble seed in Youngbark Crater on Timber Hearth also emits Feldspar's harmonica music due to the seed's signal duplication."
+    ],
+    "mechanics": [
+      "Asking Feldspar about reaching the core of Giant's Deep results in a hint pointing the player to the hollow vine behind Feldspar's old ship.",
+      "Following the flickering light past the Anglerfish skeleton's tail leads to Feldspar's old ship.",
+      "The hollow vine behind Feldspar's old ship leads to the hidden section of Dark Bramble exterior containing the Frozen Jellyfish."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Dark Bramble",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Travelers",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Jellyfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Attlerock",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gossan",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Slate",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gneiss",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Tephra",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Tektite",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Riebeck",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Chert",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Esker",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Feldspar",
+    "url": "https://outerwilds.fandom.com/wiki/Feldspar",
+    "fetched_at": "2026-05-28T10:51:23",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

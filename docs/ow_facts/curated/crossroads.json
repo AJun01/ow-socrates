@@ -1,0 +1,40 @@
+{
+  "entity": "Crossroads",
+  "entity_type": "location",
+  "aliases": ["The Crossroads"],
+  "categories": ["Locations on Brittle Hollow"],
+  "tags": ["brittle_hollow", "nomai_history"],
+
+  "summary": "The Crossroads is a two-level central Nomai hub beneath Brittle Hollow's surface, containing Riebeck's camp and a mural map of the planet's Nomai sites. It serves as the connecting node between the Hanging City, Gravity Cannon, and Tower of Quantum Knowledge.",
+
+  "facts": {
+    "biology": [],
+    "behavior": [],
+    "location": [
+      "The Crossroads is a sub-location of Brittle Hollow.",
+      "Full facts about the Crossroads are recorded in brittle_hollow.json (location bucket — search 'Crossroads')."
+    ],
+    "lore": [],
+    "mechanics": []
+  },
+
+  "see_also": ["brittle_hollow"],
+
+  "related_entities": [
+    {"entity": "Brittle Hollow", "relation": "located_in"},
+    {"entity": "Hanging City", "relation": "near"},
+    {"entity": "Gravity Cannon", "relation": "near"},
+    {"entity": "Tower of Quantum Knowledge", "relation": "near"},
+    {"entity": "Riebeck", "relation": "lives_in"}
+  ],
+
+  "source": {
+    "page": "Crossroads",
+    "url": "https://outerwilds.fandom.com/wiki/Brittle_Hollow#Crossroads",
+    "fetched_at": "2026-05-28T10:50:55",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high",
+    "is_redirect_stub": true
+  }
+}

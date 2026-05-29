@@ -1,0 +1,173 @@
+{
+  "entity": "Ash Twin Project",
+  "entity_type": "location",
+  "aliases": [
+    "ATP"
+  ],
+  "categories": [
+    "Locations on the Hourglass Twins"
+  ],
+  "tags": [
+    "hourglass_twins",
+    "time_loop",
+    "nomai_history",
+    "ash_twin_project",
+    "endgame"
+  ],
+  "summary": "The Ash Twin Project is a Nomai facility hidden inside the core of Ash Twin, powered by an Advanced Warp Core. It is the source of the 22-minute time loop: when the Sun goes supernova, the project sends the linked creatures' memories and the probe's coordinates 22 minutes into the past via a generated black hole.",
+  "facts": {
+    "biology": [],
+    "behavior": [],
+    "location": [
+      "The Ash Twin Project is located within the core of Ash Twin, one of the Hourglass Twins.",
+      "The Ash Twin Project is encased in a large spherical shell that completely seals off the central chamber.",
+      "The spherical shell has no physical entrances; the only route in is via warp.",
+      "The Ash Twin Project itself is a large ring-shaped platform circling a central Advanced Warp Core.",
+      "Along the ring are Nomai research notes, artwork, and multiple Projection Stones.",
+      "At the ring's center is a small open room with a console and eight Nomai Masks surrounding it.",
+      "Three of the eight Nomai Masks are active during the player's loop; the other five remain inactive.",
+      "At the end of the ring are two sphere consoles: one stops the platform's rotation (disabling artificial gravity); the other opens the casing around the Advanced Warp Core to allow its removal.",
+      "A northern array on the surface of Ash Twin powers the Ash Twin Project during the supernova event.",
+      "The Ash Twin Project is reached via one specific teleportation tower on Ash Twin — the broken one of the two paired towers connected by a bridge.",
+      "Outside the warp tower leading to the Ash Twin Project lies the corpse of a Nomai.",
+      "During the Self ending, the player character themselves becomes the inhabitant of the Ash Twin Project."
+    ],
+    "lore": [
+      "The Ash Twin Project is a facility built by the Nomai.",
+      "The Ash Twin Project was designed by the Nomai to harness the energy of a supernova to send data 22 minutes into the past.",
+      "The purpose of the Ash Twin Project was to make locating the Eye of the Universe faster by allowing the Orbital Probe Cannon to retain probe-launch data across resets.",
+      "Yarrow led the excavation of the Ash Twin core where the facility was built.",
+      "Coleus and Ramie relocated subterranean plants encountered during the excavation.",
+      "Poke crafted the Advanced Warp Core for the Ash Twin Project at the Black Hole Forge.",
+      "Clary and Root assisted in crafting the Advanced Warp Core at the Black Hole Forge.",
+      "Cassava and Avens crafted the Orbital Probe Cannon on Giant's Deep.",
+      "Phlox and Daz sculpted the memory statues.",
+      "Pye and Idaea designed and built the Sun Station to artificially trigger the Sun's supernova.",
+      "Ramie installed the Nomai Masks inside the Ash Twin Project.",
+      "Oeno helped Yarrow and Ramie check the spherical shell for cracks during the final safety inspection.",
+      "When the Nomai first activated the Sun Station, it failed to induce a supernova; the Ash Twin Project could not be powered.",
+      "The Nomai paused their supernova research to investigate the newly arrived Interloper comet.",
+      "Shortly after, Ghost Matter erupted from the Interloper's core and killed every Nomai in the solar system.",
+      "The Nomai never saw the Ash Twin Project function during their lifetimes.",
+      "Hundreds of thousands of years after the Nomai's death, the Sun reaches the end of its lifespan and goes supernova naturally, finally triggering the Ash Twin Project.",
+      "After many loops with only the Orbital Probe Cannon active, the probe locates the Eye of the Universe, prompting the other Nomai Statues to activate.",
+      "The Timber Hearth statue activated and synced with the Protagonist because the Protagonist was the closest creature to it at that moment."
+    ],
+    "mechanics": [
+      "The Ash Twin Project is powered by an Advanced Warp Core whose design is based on the one used by The Vessel.",
+      "The Advanced Warp Core can be physically removed from the project.",
+      "Removing the Advanced Warp Core shuts down the Ash Twin Project and ends the 22-minute time loop until the core is reinserted.",
+      "If the player dies while the Advanced Warp Core is removed, the game ends and returns the player to the main menu.",
+      "The Advanced Warp Core is required for the intended ending of the game.",
+      "Each time loop created by the Ash Twin Project lasts precisely 22 minutes.",
+      "The Ash Twin Project has two major components: the Nomai Masks and the Nomai Statues.",
+      "Each Nomai Statue, when activated, links with the closest living creature, then continuously transmits that creature's memories to its paired mask.",
+      "One mask is linked not to a creature but to the Orbital Probe Cannon's Tracking Module, receiving probe coordinates instead of memories.",
+      "Upon supernova activation, the Ash Twin Project generates a black hole in the center of the ring and transmits all stored mask data into it.",
+      "Stored memories and coordinates are sent backward in time through warp technology to the linked creature or module, placing them in a perceived 22-minute time loop.",
+      "Initially only the Cannon's statue is active; the other statues activate either when the Eye is located or as a fail-safe if equipment fails.",
+      "The fail-safe activation of statues was added by Phlox so the Nomai would remain aware of any malfunctions.",
+      "The platform spins rapidly around the core to produce rotational artificial gravity, preventing the player from falling off.",
+      "The Ash Twin Project depends on the Sun Station triggering a supernova to provide its activation energy.",
+      "The Ash Twin warp tower leading to the project only becomes traversable when Ember Twin is directly above and the tower is uncovered by Ash Twin's sand."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Hourglass Twins",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Black Hole Forge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Black Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Clary",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Pye",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Idaea",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Ash Twin Project",
+    "url": "https://outerwilds.fandom.com/wiki/Ash_Twin_Project",
+    "fetched_at": "2026-05-28T10:50:57",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "entity": "Travelers",
+  "entity_type": "group",
+  "aliases": [
+    "The Travelers"
+  ],
+  "categories": [
+    "Travelers"
+  ],
+  "tags": [
+    "endgame",
+    "hearthian_culture",
+    "characters"
+  ],
+  "summary": "Travelers is the name given to those who walk among the stars: the six Hearthian astronauts of Outer Wilds Ventures, Solanum (the last Nomai of her clan), and the Prisoner (an inhabitant of the Stranger). Each Traveler plays a musical instrument.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "Each Traveler plays a musical instrument."
+    ],
+    "location": [],
+    "lore": [
+      "The Travelers are those who walk among the stars.",
+      "The Travelers include the Hearthian astronauts of Outer Wilds Ventures.",
+      "The Travelers include Solanum, the last Nomai of her clan.",
+      "The Travelers include the Prisoner, an inhabitant of the Stranger who let the Eye of the Universe's signal transmit for the last time.",
+      "The Hearthian travelers are: the Protagonist, Chert, Esker, Feldspar, Gabbro, and Riebeck."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "The Protagonist",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Chert",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Esker",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Riebeck",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Prisoner",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Stranger",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Travelers",
+    "url": "https://outerwilds.fandom.com/wiki/Travelers",
+    "fetched_at": "2026-05-28T10:51:10",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

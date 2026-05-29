@@ -41,8 +41,8 @@ No locations. No answers. Just the right question at the right moment.
 uv sync
 
 # 2. Baseline — generate replies from the un-fine-tuned model
-python scripts/run_baseline.py
-# → writes data/processed/baseline.json
+python -m src.baseline_test
+# → writes data/processed/baseline_results.json
 
 # 3. One-off query
 python -m src.inference "我感觉线索都拿齐了，下一步去哪？"
@@ -59,10 +59,9 @@ ow-socrates/
 ├── src/
 │   ├── prompts.py        # System prompts encoding the 4 Socratic strategies
 │   ├── inference.py      # SocratesEngine — MLX model wrapper
+│   ├── baseline_test.py  # control-group generation over 10 stuck points
 │   ├── data_prep.py      # raw → normalize → augment → chat-jsonl
 │   └── finetune.py       # mlx_lm.lora wrapper (QLoRA)
-├── scripts/
-│   └── run_baseline.py   # control-group generation over 10 stuck points
 ├── data/                 # raw / processed / training (git-ignored)
 ├── models/               # base / adapters (git-ignored)
 ├── tests/                # smoke tests, no MLX required
@@ -118,8 +117,8 @@ Socrates   ："你知道 Nomai 存在过吧？他们为什么要来？
 uv sync
 
 # 2. 基线测试
-python scripts/run_baseline.py
-# → 输出 data/processed/baseline.json
+python -m src.baseline_test
+# → 输出 data/processed/baseline_results.json
 
 # 3. 单次提问
 python -m src.inference "我感觉线索都拿齐了，下一步去哪？"

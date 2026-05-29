@@ -1,0 +1,63 @@
+{
+  "entity": "Spacesuit",
+  "entity_type": "technology",
+  "aliases": [],
+  "categories": [
+    "Gameplay",
+    "Technology"
+  ],
+  "tags": [
+    "early_game",
+    "survival"
+  ],
+  "summary": "The Spacesuit is the protagonist's vacuum-rated gear, allowing survival in space. It carries a small oxygen tank for about six minutes of breathing, a multi-directional jetpack with a small fuel tank, and the Signalscope, Translation tool, and Scout Launcher.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "The Spacesuit's oxygen tank provides roughly six minutes of breathing before death.",
+      "When the jetpack's main fuel tank is empty, oxygen can be used as a weak emergency propellant.",
+      "Using oxygen as a propellant long enough grants the 'Cutting it Close' achievement."
+    ],
+    "location": [
+      "The Spacesuit is stored on a stand inside the spaceship.",
+      "The protagonist must put on the Spacesuit before going into space."
+    ],
+    "lore": [
+      "The Spacesuit features a scarf, padded gloves, brown boots, patched clothing, and a kettle-shaped helmet."
+    ],
+    "mechanics": [
+      "The Spacesuit's jetpack has miniature multi-directional thrusters and a small dedicated fuel tank.",
+      "The Spacesuit's utility tools include the Signalscope, the Translation tool, and the Scout Launcher."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Spaceship",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Translator",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Spacesuit",
+    "url": "https://outerwilds.fandom.com/wiki/Spacesuit",
+    "fetched_at": "2026-05-28T10:51:17",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

@@ -68,8 +68,16 @@ class SocratesEngine:
         """
         self._ensure_loaded()
         from mlx_lm import generate  # type: ignore
+        from mlx_lm.sample_utils import (  # type: ignore
+            make_logits_processors,
+            make_sampler,
+        )
 
-        messages: list[dict] = [{"role": "system", "content": self.system_prompt}]
+        # Build messages. Skip the system slot entirely if `system_prompt` is "",
+        # so baseline runs see the same chat template as a user-only request.
+        messages: list[dict] = []
+        if self.system_prompt:
+            messages.append({"role": "system", "content": self.system_prompt})
         if history:
             messages.extend(history)
         messages.append({"role": "user", "content": user_message})
@@ -81,12 +89,21 @@ class SocratesEngine:
             enable_thinking=self.gen.enable_thinking,
         )
 
-        # mlx-lm 0.31's generate API — kwargs may evolve; keep the call thin.
+        # mlx-lm 0.31 dropped the `temp=` shortcut in favor of an explicit
+        # sampler. Build one from our GenerationConfig so the temperature /
+        # top_p values stored in the baseline JSON actually take effect.
+        sampler = make_sampler(temp=self.gen.temperature, top_p=self.gen.top_p)
+        logits_processors = make_logits_processors(
+            repetition_penalty=self.gen.repetition_penalty,
+        )
+
         text = generate(
             self._model,
             self._tokenizer,
             prompt=prompt,
             max_tokens=self.gen.max_tokens,
+            sampler=sampler,
+            logits_processors=logits_processors,
             verbose=False,
         )
         return text.strip()

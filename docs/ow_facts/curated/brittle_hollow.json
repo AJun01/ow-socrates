@@ -1,0 +1,333 @@
+{
+  "entity": "Brittle Hollow",
+  "entity_type": "planet",
+  "aliases": [],
+  "categories": [
+    "Locations",
+    "Planets"
+  ],
+  "tags": [
+    "brittle_hollow",
+    "warp",
+    "nomai_history",
+    "quantum"
+  ],
+  "summary": "Brittle Hollow is the third planet from the Sun. Its brittle rocky crust surrounds a hollow interior with a natural black hole at the core, and is constantly bombarded by lava from its moon Hollow's Lantern. Home to major Nomai structures including the Hanging City, Black Hole Forge, and Tower of Quantum Knowledge, plus the traveler Riebeck.",
+  "facts": {
+    "biology": [
+      "Brittle Hollow has a gravity range of approximately 0.8 g to 1.1 g.",
+      "Brittle Hollow's surface is dry, rocky, purple-tinged, and slightly protruding.",
+      "Brittle Hollow's crust is fractured and prone to collapse.",
+      "Brittle Hollow formed naturally around the black hole at its center.",
+      "Brittle Hollow's two poles are topped with snow.",
+      "Brittle Hollow's north pole has flowing water.",
+      "Beneath Brittle Hollow's north pole are ice formations into which the Hanging City is built.",
+      "Brittle Hollow's interior is composed of a mixture of blue metallic and red crystalline rock formations.",
+      "The geometric lattice of Brittle Hollow's interior rock exhibits clear fracture points and planes of weakness."
+    ],
+    "behavior": [
+      "Over the course of each 22-minute cycle, most of Brittle Hollow's crust progressively breaks away and falls into the planet's core black hole.",
+      "The crust's collapse is precipitated by balls of lava ejected from Hollow's Lantern, which rain down steadily and crash into Brittle Hollow's surface.",
+      "Pieces of Brittle Hollow that fall into the black hole re-emerge at the White Hole next to the White Hole Station.",
+      "Sections of bridges and pathways collapse over the course of the loop due to ongoing bombardment.",
+      "The gravity panel pathway leading to the upper levels of the Tower of Quantum Knowledge is broken at the start of each loop."
+    ],
+    "location": [
+      "Brittle Hollow is the third of six planets in the Outer Wilds solar system.",
+      "Brittle Hollow has a natural black hole serving as its planetary core.",
+      "Brittle Hollow is orbited by the volcanic moon Hollow's Lantern.",
+      "Riebeck lives on Brittle Hollow.",
+      "The Northern Glacier is the icy north pole region of Brittle Hollow.",
+      "The Northern Glacier contains several ruined Nomai structures lying above the Hanging City.",
+      "The Northern Glacier contains a Nomai warp receiver connected to the White Hole Station's warp tower.",
+      "Nomai writings near the Northern Glacier's warp receiver discuss a negative time discrepancy between warps.",
+      "A larger ruined building on the Northern Glacier has two gravity lifts connected to the Hanging City, but the lift down into the city is blocked and non-functional.",
+      "A river runs through the Northern Glacier and flows into a hidden hole, creating a waterfall that leads into the Hanging City's Meltwater District.",
+      "The Hanging City is the largest Nomai settlement in the entire solar system.",
+      "The Hanging City hangs from the thick ice under the Northern Glacier where the planet's crust is stable enough for long-term settlement.",
+      "The Hanging City is divided into four districts arranged vertically, all accessible by a tall vertical passageway with gravity panels.",
+      "From highest to lowest, the Hanging City's districts are the Black Hole Forge District, the Eye Shrine District, the Meltwater District, and the School District.",
+      "The vertical passageway connecting the Hanging City's districts is broken near the top, cutting off conventional access to the Black Hole Forge District.",
+      "The Black Hole Forge District is constructed entirely from gravity panels attached to the underside of the planet's crust, making it upside-down.",
+      "The Black Hole Forge District contains a warp receiver connected to Brittle Hollow's corresponding warp tower on Ash Twin.",
+      "The Black Hole Forge is a massive Nomai structure suspended on rails attached next to the Hanging City.",
+      "The Black Hole Forge can be raised up to the highest level of the Hanging City or lowered down to the black hole at the planet's core, where it rests by default.",
+      "Writings and a diagram inside the Black Hole Forge explain the mechanics of warp alignment.",
+      "The Meltwater District is the second-lowest level of the Hanging City.",
+      "The Meltwater District is connected to the Crossroads by two bridges.",
+      "The Meltwater District houses the control room that raises and lowers the Black Hole Forge.",
+      "Ruined Nomai buildings in the Meltwater District contain writings detailing methods of procuring an advanced Warp Core for the Ash Twin Project.",
+      "The Meltwater District is named after the waterfall caused by the Northern Glacier's river flowing into the hidden cavern adjacent to it.",
+      "The Eye Shrine District contains derelict Nomai buildings and a small shrine.",
+      "The Eye Shrine writing details the Nomai's thoughts and knowledge about the Eye of the Universe.",
+      "The School District is the lowest level of the Hanging City, built for the Nomai children who lived on Brittle Hollow.",
+      "The School District contains classrooms with writing explaining the Nomai's history of being stuck in the solar system.",
+      "The School District contains writing about the Nomai tradition of 'festivals'.",
+      "A long gravity crystal path runs from the School District along the underside of Brittle Hollow's crust to the Old Settlement on the equator.",
+      "The Gravity Crystal Workshop is a small collection of buildings on Brittle Hollow's surface equator, where the Nomai first designed and constructed Gravity Crystals.",
+      "Riebeck's first camp is located at the Gravity Crystal Workshop, with directions to their current camp written nearby.",
+      "Inside one building of the Gravity Crystal Workshop, overgrown by a tree, is a gravity crystal passage leading to the underground Crossroads.",
+      "Another nearby workshop building is caked entirely in Ghost Matter.",
+      "The Crossroads is a two-leveled central hub location under Brittle Hollow's surface.",
+      "The Crossroads contains Riebeck's current camp.",
+      "The Crossroads contains a mural map depicting the important Nomai locations on Brittle Hollow and the pathways between them.",
+      "The Crossroads can be accessed from the surface via the Gravity Crystal Workshop's gravity crystal passage on the planet's equator.",
+      "The Crossroads' bottom level has a gravity lift leading up from the black hole, intended to save any who accidentally fall toward the core by returning them to the Crossroads.",
+      "Two large Nomai bridges lead north from the Crossroads' top level to the Hanging City's Meltwater District.",
+      "An eastward pathway from the Crossroads, made of natural crust fragments, leads to the Gravity Cannon.",
+      "A highway of initially unbroken gravity lifts leads west from the Crossroads' bottom level to the Tower of Quantum Knowledge.",
+      "The Gravity Cannon is a massive Nomai structure on Brittle Hollow's equator, intended to launch Nomai shuttles with gravitational force.",
+      "The Gravity Cannon is linked to a shuttle belonging to Solanum, which is currently parked on the Quantum Moon.",
+      "From the Gravity Cannon, the Southern Observatory can be reached via a series of gravity lifts and broken platforms of crust.",
+      "The gravity lifts between the Gravity Cannon and the Southern Observatory are misaligned due to the planet's deterioration.",
+      "Escape Pod 1, the first Nomai Escape Pod, is crash-landed at Brittle Hollow's equator.",
+      "Opening Escape Pod 1's emergency hatch reveals a treacherous pathway of stairs and bridges leading under the planet's crust to the Old Settlement.",
+      "The Old Settlement is located on the equator beneath Escape Pod 1, where the Nomai inhabiting the pod first made their home on Brittle Hollow.",
+      "The Old Settlement was built hidden under the surface to shelter from Hollow's Lantern's bombardment.",
+      "The Old Settlement consists of scattered Nomai houses and buildings embedded in the underside of Brittle Hollow's crust.",
+      "Nomai murals and writings throughout the Old Settlement detail the history of the Escape Pod's jettisoning from the Vessel.",
+      "Murals in the Old Settlement reveal the Vessel's ensnarement in Dark Bramble and the other Escape Pod locations.",
+      "The Tower of Quantum Knowledge is a massive Nomai tower suspended from a section of Brittle Hollow's crust.",
+      "The Tower of Quantum Knowledge was built where the Nomai found the Tower Shard, a Quantum Shard.",
+      "The Tower of Quantum Knowledge contains information crucial to the Quantum Moon pilgrimage.",
+      "A heavily ruined gravity highway leads from the Tower of Quantum Knowledge to the Southern Observatory.",
+      "The surface of the Tower of Quantum Knowledge contains the Tower Shard and other quantum objects affected by it.",
+      "A Nomai writing wall attached to the Tower Shard provides information about the rule of quantum entanglement.",
+      "The Tower of Quantum Knowledge's upper levels contain two scrolls and a Quantum Moon Locator built into its interior.",
+      "One scroll inside the Tower of Quantum Knowledge congratulates Solanum on reaching the last step before her travel to the Quantum Moon.",
+      "Another scroll inside the Tower of Quantum Knowledge reminds the pilgrim that they are participating in a tradition of curiosity and exploration.",
+      "The Southern Observatory is a domed Nomai observatory on Brittle Hollow's south pole.",
+      "The Southern Observatory's surface entrance is broken from the outside; the only accessible route is from beneath the surface.",
+      "Riebeck's ship and recorded notes lie outside the Southern Observatory's surface entrance.",
+      "The Southern Observatory contains an Eye Signal Locator that is more sophisticated than the one on the Attlerock.",
+      "The Southern Observatory's Eye Signal Locator can individually activate modules to show the orbits of each planet in the solar system, including the Eye of the Universe.",
+      "The Southern Observatory also contains two active models of Giant's Deep cyclones constructed by Spire to aid the Orbital Probe Cannon team.",
+      "A projection stone near the Southern Observatory's entrance allows a conversation with the team building the Orbital Probe Cannon on Giant's Deep."
+    ],
+    "lore": [
+      "The Hanging City was the Nomai's second settlement on Brittle Hollow; they moved there after the Old Settlement proved too exposed to Hollow's Lantern.",
+      "Plume, Thatch, and Filix were among the Nomai survivors who crashed in Escape Pod 1 on Brittle Hollow.",
+      "Plume's brother Keek did not arrive in Escape Pod 1 with the rest of his family.",
+      "Kousa's partner Foli also went missing during the Escape Pod separations.",
+      "Filix could hear distress signals from the other Escape Pods, indicating they were structurally intact, but could not establish communication with them.",
+      "The Nomai used Hollow's Lantern's lava to heat-test mineral samples supplied from the Nomai mines on Timber Hearth.",
+      "Root was the Nomai responsible for heat-testing mineral samples using Hollow's Lantern's lava.",
+      "The heat-tested mineral samples from Root's work were used to encase the Ash Twin Project.",
+      "The Nomai used the Black Hole Forge to craft warp cores throughout the solar system.",
+      "The Nomai used the Black Hole Forge to craft the Advanced Warp Core for the Ash Twin Project.",
+      "The Nomai successfully recreated warp travel at the Black Hole Forge after Annona's death.",
+      "Clary performed the first successful test of recreated warp travel from the White Hole Station.",
+      "Poke was apprenticed to Annona, the original designer of the Vessel's warp core.",
+      "Poke led the recreation of the Advanced Warp Core at the Black Hole Forge despite never having seen Annona's original.",
+      "Clary and Root assisted Poke at the Black Hole Forge.",
+      "The Eye Shrine writings document the Nomai's understanding that the Eye of the Universe's signal predates the universe itself.",
+      "The Nomai considered the Eye might be a relic from a previous universe, or that the universe might be older than previously assumed.",
+      "Solanum's recordings in the Eye Shrine express that the Eye may not have wishes at all, and the Nomai's arrival was likely circumstance.",
+      "The School District documents that Nomai clans traditionally meet every ten years for 'festivals' to share scientific and artistic discoveries.",
+      "Each Nomai clan had a 'festival envoy' to present their most interesting work; the local clan's envoy was Thatch.",
+      "Ilex, a Nomai child, authored School District writings proposing the clan build a new Vessel to leave the solar system.",
+      "Ilex's proposal suggested using parts from existing structures like the Ash Twin towers and adapting Poke's advanced warp core for the new Vessel.",
+      "Solanum authored School District writings explaining the formation and eventual heat-death of the universe.",
+      "Bells served as Solanum's mentor before her pilgrimage to the Quantum Moon.",
+      "The Tower of Quantum Knowledge documents the final rule for the Quantum Moon pilgrimage: the shrine must be on the moon's north pole.",
+      "The Nomai discovered that the Tower Shard, along with shards on Giant's Deep, Timber Hearth, and the Hourglass Twins, all emit signals identical to the Quantum Moon's.",
+      "The Nomai hypothesized that the Quantum Shards may be fragments from the Quantum Moon itself.",
+      "Spire built the cyclone models at the Southern Observatory to investigate why an Orbital Probe Cannon component sank below Giant's Deep's protective current.",
+      "Spire's models revealed two distinct cyclone varieties on Giant's Deep: a common clockwise/upward type, and a rare anticlockwise type that drives objects downward.",
+      "The Southern Observatory's Eye Signal Locator was unable to detect any trace of the Eye's signal despite being more sensitive than the Attlerock's.",
+      "Mallow proposed at the Southern Observatory that the Nomai launch a probe to visually find the Eye, an idea that led to the Orbital Probe Cannon project.",
+      "Cassava initially objected to Mallow's probe proposal due to the improbability of randomly hitting the Eye.",
+      "Conoy pointed out that the Ash Twin Project could remove the luck factor from the probe-launch approach.",
+      "Cassava suggested building the Orbital Probe Cannon in orbit around Giant's Deep because it was furthest from the Sun, providing the best launch angles, and was moonless."
+    ],
+    "mechanics": [
+      "The Black Hole Forge can be moved along its rails by controls in the Meltwater District control room.",
+      "The Black Hole Forge can only be accessed when raised to the Black Hole Forge District at the top of the Hanging City.",
+      "The Black Hole Forge has a boarding area that should be avoided when the Forge is in operation.",
+      "Warp towers align within an approximate five-degree window with their corresponding receiver's astral body.",
+      "The Hourglass Twins (Ember Twin and Ash Twin) are so close together that they function as a single astral body for warp alignment, sharing an alignment point between them.",
+      "The warp window between a tower and its receiver lasts roughly several seconds when both align correctly.",
+      "Stepping onto a warp platform during the active alignment window will immediately warp the user.",
+      "The Gravity Cannon's shuttle currently rests on the Quantum Moon and can be recalled using the cannon's controls.",
+      "Recalling Solanum's shuttle from the Quantum Moon reveals her notes from just after landing and just before setting foot on the moon.",
+      "The Gravity Cannon is likely to fall through the black hole near the end of the loop.",
+      "The Tower of Quantum Knowledge can drop through the black hole partway through the loop.",
+      "After the Tower of Quantum Knowledge re-emerges from the White Hole Station, it can be freely explored in zero-gravity.",
+      "When warping between the White Hole Station and Brittle Hollow's Northern Glacier, the arrival time is always one one-hundred-thousandth of a second earlier than the departure time.",
+      "The negative warp time discrepancy is reproducible at the High Energy Lab on Ember Twin.",
+      "The Southern Observatory's Eye Signal Locator is unable to locate the Eye's orbit and instead erratically generates models of potential orbits.",
+      "Spire's cyclone models in the Southern Observatory depict two cyclone types: clockwise/upward (common) and anticlockwise/downward (rare).",
+      "The rare anticlockwise cyclones on Giant's Deep push objects beneath the planet's normally-impassable current."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Sun",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Hollow's Lantern",
+      "relation": "near"
+    },
+    {
+      "entity": "Black Hole",
+      "relation": "located_in"
+    },
+    {
+      "entity": "White Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Black Hole Forge",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Hanging City",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Crossroads",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Tower of Quantum Knowledge",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Gravity Cannon",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "High Energy Lab",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Riebeck",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Bells",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Plume",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Thatch",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Filix",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Clary",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Root",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Spire",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Mallow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Conoy",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Privet",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Avens",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Annona",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ilex",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Brittle Hollow",
+    "url": "https://outerwilds.fandom.com/wiki/Brittle_Hollow",
+    "fetched_at": "2026-05-28T10:50:43",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

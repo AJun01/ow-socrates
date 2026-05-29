@@ -1,0 +1,65 @@
+{
+  "entity": "Black Hole",
+  "entity_type": "phenomenon",
+  "aliases": [
+    "black hole",
+    "black holes"
+  ],
+  "categories": [
+    "Phenomena"
+  ],
+  "tags": [
+    "warp",
+    "brittle_hollow"
+  ],
+  "summary": "Black Holes in Outer Wilds are regions of spacetime with gravity strong enough that nothing can escape. Brittle Hollow has a natural black hole at its core; most others in the solar system were artificially created by the Nomai at the Black Hole Forge for use in warp travel.",
+  "facts": {
+    "biology": [
+      "A black hole is a region of spacetime exhibiting gravity so strong that nothing — not even energy — can escape it."
+    ],
+    "behavior": [],
+    "location": [
+      "Brittle Hollow contains a natural black hole at its core.",
+      "The Black Hole Forge is located near the natural black hole at the center of Brittle Hollow."
+    ],
+    "lore": [
+      "Most of the black holes in Outer Wilds were created by the Nomai, not formed naturally.",
+      "The Nomai created black holes at the Black Hole Forge in order to craft warp cores.",
+      "In real-world physics, black holes most commonly form through the gravitational collapse of a massive star."
+    ],
+    "mechanics": [
+      "Black holes accept all matter that enters them; white holes reject all matter and prevent entry.",
+      "Warp travel in Outer Wilds uses a paired black hole and white hole."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Brittle Hollow",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Black Hole Forge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Black Hole",
+    "url": "https://outerwilds.fandom.com/wiki/Black_Hole",
+    "fetched_at": "2026-05-28T10:51:20",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

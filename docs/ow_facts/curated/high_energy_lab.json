@@ -1,0 +1,44 @@
+{
+  "entity": "High Energy Lab",
+  "entity_type": "location",
+  "aliases": ["HEL"],
+  "categories": ["Locations on the Hourglass Twins"],
+  "tags": ["hourglass_twins", "ember_twin", "warp", "quantum"],
+
+  "summary": "The High Energy Lab is a Nomai research facility in a canyon on Ember Twin's equator. It is where the Nomai investigated the negative time discrepancy in warp travel — sending an object to arrive at its destination slightly before it departed — leading directly to the Ash Twin Project concept.",
+
+  "facts": {
+    "biology": [],
+    "behavior": [],
+    "location": [
+      "The High Energy Lab is a sub-location on Ember Twin within the Hourglass Twins.",
+      "The High Energy Lab is in the canyon on Ember Twin's equator.",
+      "Full facts about the High Energy Lab and its warp time experiments are recorded in hourglass_twins.json; the originating discovery of negative warp time is recorded in brittle_hollow.json."
+    ],
+    "lore": [],
+    "mechanics": []
+  },
+
+  "see_also": ["hourglass_twins", "brittle_hollow"],
+
+  "related_entities": [
+    {"entity": "Hourglass Twins", "relation": "located_in"},
+    {"entity": "Ash Twin Project", "relation": "related_to"},
+    {"entity": "Warp Core", "relation": "related_to"},
+    {"entity": "Brittle Hollow", "relation": "related_to"},
+    {"entity": "White Hole Station", "relation": "related_to"},
+    {"entity": "Pye", "relation": "mentioned_by"},
+    {"entity": "Ramie", "relation": "mentioned_by"},
+    {"entity": "Poke", "relation": "mentioned_by"}
+  ],
+
+  "source": {
+    "page": "High Energy Lab",
+    "url": "https://outerwilds.fandom.com/wiki/Hourglass_Twins#High_Energy_Lab",
+    "fetched_at": "2026-05-28T10:51:39",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high",
+    "is_redirect_stub": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "entity": "Hanging City",
+  "entity_type": "location",
+  "aliases": ["The Hanging City"],
+  "categories": ["Locations on Brittle Hollow"],
+  "tags": ["brittle_hollow", "nomai_history"],
+
+  "summary": "The Hanging City is the largest Nomai settlement in the solar system, built into the thick ice beneath Brittle Hollow's Northern Glacier. It is divided into four vertically stacked districts: the Black Hole Forge District, Eye Shrine District, Meltwater District, and School District.",
+
+  "facts": {
+    "biology": [],
+    "behavior": [],
+    "location": [
+      "The Hanging City is a sub-location of Brittle Hollow.",
+      "Full facts about the Hanging City and its four districts are recorded in brittle_hollow.json (location bucket — search 'Hanging City')."
+    ],
+    "lore": [],
+    "mechanics": []
+  },
+
+  "see_also": ["brittle_hollow"],
+
+  "related_entities": [
+    {"entity": "Brittle Hollow", "relation": "located_in"},
+    {"entity": "Black Hole Forge", "relation": "near"},
+    {"entity": "Crossroads", "relation": "near"},
+    {"entity": "Nomai", "relation": "built_by"}
+  ],
+
+  "source": {
+    "page": "Hanging City",
+    "url": "https://outerwilds.fandom.com/wiki/Brittle_Hollow#Hanging_City",
+    "fetched_at": "2026-05-28T10:50:55",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high",
+    "is_redirect_stub": true
+  }
+}

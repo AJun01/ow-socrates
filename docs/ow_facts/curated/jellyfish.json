@@ -1,0 +1,78 @@
+{
+  "entity": "Jellyfish",
+  "entity_type": "creature",
+  "aliases": [],
+  "categories": [
+    "Races",
+    "Creatures"
+  ],
+  "tags": [
+    "giants_deep",
+    "dark_bramble"
+  ],
+  "summary": "Jellyfish are large aquatic creatures originally native to the fifth ice planet now known as Dark Bramble. They inhabit Giant's Deep's Ocean Depths and possess an electrically insulating rubbery exterior that allows them to pass through the planet's lethal electric core barrier.",
+  "facts": {
+    "biology": [
+      "Jellyfish are large non-hostile aquatic creatures.",
+      "Jellyfish have electrically-charged tentacles.",
+      "Jellyfish's hollow rubbery exterior provides insulation from powerful electric currents.",
+      "Jellyfish are significantly bigger than the player's ship."
+    ],
+    "behavior": [
+      "Jellyfish are non-hostile, but their tentacles temporarily shut down all electronic systems if touched.",
+      "Jellyfish repeat a pattern of rising above the electric field for a short time before floating back down into it.",
+      "Jellyfish freely pass through Giant's Deep's electric barrier into the core, as their bodies are insulated."
+    ],
+    "location": [
+      "Jellyfish are found on Giant's Deep, beneath the powerful upwards current in the Ocean Depths.",
+      "Frozen Jellyfish can be found on Bramble Island on Giant's Deep.",
+      "A lone frozen Jellyfish is hidden on Dark Bramble, embedded in a crevice in the fractured crust at the South Pole.",
+      "The lone Dark Bramble Jellyfish is accessed through a hollow vine behind Feldspar's old ship in Feldspar's Camp Node."
+    ],
+    "lore": [
+      "Jellyfish were native to the unnamed fifth ice planet that was fractured to become Dark Bramble.",
+      "The lone frozen Jellyfish on Dark Bramble indicates that the destroyed fifth planet used to have a subsurface ocean.",
+      "Feldspar attempted to eat the Frozen Jellyfish and recorded notes about the attempt.",
+      "Feldspar found the Jellyfish's rubbery skin very difficult to eat and strongly discourages eating them.",
+      "Feldspar will direct the player to the portal leading to the Frozen Jellyfish after the player meets him.",
+      "Jellyfish appear on multiple bodies because debris from the destroyed fifth ice planet scattered them throughout the solar system."
+    ],
+    "mechanics": [
+      "Proper utilization of Jellyfish is required to reach the core of Giant's Deep.",
+      "The player can hide inside a Jellyfish's body to pass safely through Giant's Deep's electric core barrier as the Jellyfish ascends and descends.",
+      "Anything carried inside a Jellyfish, including the player, is protected from the electrical storm around Giant's Deep's core.",
+      "Touching a Jellyfish's tentacles temporarily shuts down all the player's electronic systems.",
+      "As of Patch 1.0.2, the player's ship can no longer enter Jellyfish; only the player on foot can hide inside."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Giant's Deep",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Bramble Island",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Spacesuit",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Jellyfish",
+    "url": "https://outerwilds.fandom.com/wiki/Jellyfish",
+    "fetched_at": "2026-05-28T10:51:22",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

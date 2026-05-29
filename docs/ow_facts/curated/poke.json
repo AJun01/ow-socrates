@@ -1,0 +1,156 @@
+{
+  "entity": "Poke",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "interloper",
+    "warp",
+    "brittle_hollow"
+  ],
+  "summary": "Poke was a Nomai apprenticed to Annona who recreated Nomai warp technology after his death. She crafted the Advanced Warp Core for the Ash Twin Project at the Black Hole Forge and died on the Interloper alongside Pye after discovering its lethal exotic-matter core.",
+  "facts": {
+    "biology": [
+      "Poke is a Nomai.",
+      "Poke is female."
+    ],
+    "behavior": [
+      "Poke values precision and frequently asks for more time before declaring designs finished.",
+      "Poke frequently argues with Cassava, who often interrupts her work to ask for updates.",
+      "Poke believes in Pye and was confident that the Sun Station would work.",
+      "Poke encourages but also teases her sister Clary about her relationship with Yarrow."
+    ],
+    "location": [
+      "Poke was born in the Hearthian solar system.",
+      "Poke worked at the Black Hole Forge on Brittle Hollow with Clary and Root.",
+      "Poke went to investigate the Interloper with Pye and Clary after the Ash Twin Project was put on hold.",
+      "Poke's corpse can be found just outside the Interloper's core chamber."
+    ],
+    "lore": [
+      "Poke is a member of the Nomai.",
+      "Poke became Annona's apprentice at a very young age.",
+      "Poke is Clary's sister.",
+      "Poke never saw Annona's original warp core with her own three eyes, knowing only what he taught her.",
+      "Poke felt strange recreating Annona's warp core without him and continued to miss her old mentor deeply.",
+      "Poke recreated warp travel with Clary and Root after Annona's death.",
+      "Poke built the warp core connecting the White Hole Station to the Northern Glacier on Brittle Hollow.",
+      "Poke discovered that Nomai were arriving on Brittle Hollow slightly before they departed from White Hole Station.",
+      "Poke initially considered the negative-time-interval reading to be an equipment error since it would violate causality.",
+      "Poke sent the negative time interval records to Pye and Ramie for verification.",
+      "Pye and Ramie confirmed Poke's findings at the High Energy Lab.",
+      "Poke volunteered to craft the Advanced Warp Core for the Ash Twin Project with Clary and Root at the Black Hole Forge.",
+      "Poke quoted Annona's wisdom: should her best prove insufficient, the clan would find another way.",
+      "Poke also built the warp cores for the Ash Twin Towers that connect Ash Twin to all critical Ash Twin Project locations.",
+      "Poke explained to other Nomai that warp tower alignment angle only needs to be within five degrees of the astral body's center.",
+      "Poke explained that the warp window lasts roughly several seconds during alignment.",
+      "Poke warned that Nomai stepping onto a warp platform during an active window would be immediately warped, requiring care to avoid accidental transportation.",
+      "Poke corrected Yarrow's misunderstanding about warp tower alignment: a tower aligns with the center of its corresponding astral body, not the receiver itself.",
+      "Poke explained that the Hourglass Twins function as a single shared astral body for warp alignment because the Twins are so close.",
+      "Poke directed Root to deliver black hole cores to Ash Twin and white hole cores to the six warp receivers at different locations.",
+      "Cassava hypothesized that Poke purposefully built the Giant's Deep tower's warp core last to spite him.",
+      "Poke countered that the cores would have been forged faster if Cassava had interrupted her work less.",
+      "Clary mediated between Poke and Cassava, while Yarrow mediated among other disagreements.",
+      "When the Advanced Warp Core was ready for installation, Poke asked for more time to improve its durability.",
+      "Clary overruled Poke and told Yarrow the core was finished, knowing Poke's perfectionism.",
+      "On the Interloper, Poke and Pye descended through an ice fissure on the sunward side to investigate strange energy readings.",
+      "Poke and Pye discovered a stone casing inside the Interloper containing lethal exotic matter under immense pressure.",
+      "Poke noted she had never seen any matter as tightly compacted before.",
+      "Poke determined direct contact with the exotic matter would almost certainly be fatal.",
+      "Pye told Poke to leave her equipment and run back to the shuttle to warn the other Nomai.",
+      "Poke never made it back to the shuttle because the stone casing ruptured just as she left the core chamber."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Black Hole Forge",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "High Energy Lab",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Annona",
+      "relation": "apprentice_of"
+    },
+    {
+      "entity": "Clary",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Root",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Pye",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Poke",
+    "url": "https://outerwilds.fandom.com/wiki/Poke",
+    "fetched_at": "2026-05-28T10:51:36",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

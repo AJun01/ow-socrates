@@ -1,0 +1,81 @@
+{
+  "entity": "Black Hole Forge",
+  "entity_type": "location",
+  "aliases": [
+    "the Forge"
+  ],
+  "categories": [
+    "Locations on Brittle Hollow"
+  ],
+  "tags": [
+    "brittle_hollow",
+    "warp",
+    "nomai_history"
+  ],
+  "summary": "The Black Hole Forge is a Nomai facility suspended beneath the Hanging City on Brittle Hollow, hanging just above the planet's core black hole. It is the source of every Nomai warp core in the solar system, including the Advanced Warp Core that powers the Ash Twin Project.",
+  "facts": {
+    "biology": [],
+    "behavior": [],
+    "location": [
+      "The Black Hole Forge is suspended below the Hanging City on Brittle Hollow.",
+      "The Black Hole Forge hangs just above the natural black hole at Brittle Hollow's center.",
+      "The Forge itself can be raised and lowered from a control room on the second level of the Hanging City.",
+      "The uppermost level of the Hanging City provides access to the Forge, but is itself only reachable via the warp portal on Ash Twin."
+    ],
+    "lore": [
+      "The Black Hole Forge is the source of all the Nomai warp cores found around the solar system.",
+      "The Black Hole Forge was used by Clary, Poke, and Root to craft the Advanced Warp Core that powers the Ash Twin Project."
+    ],
+    "mechanics": [
+      "Although the Black Hole Forge can be accessed from the Hanging City's uppermost level, the pathway is broken and cannot be traversed directly.",
+      "Reaching the Forge requires first raising it from the control room, then warping via the corresponding Ash Twin tower.",
+      "The Forge can alternatively be reached by jumping from the roof of the control room immediately after activating the controls to lift it, but missing leads to a trip to the White Hole Station."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Brittle Hollow",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Hanging City",
+      "relation": "near"
+    },
+    {
+      "entity": "Black Hole",
+      "relation": "near"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Clary",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Black Hole Forge",
+    "url": "https://outerwilds.fandom.com/wiki/Black_Hole_Forge",
+    "fetched_at": "2026-05-28T10:50:58",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

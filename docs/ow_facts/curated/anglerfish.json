@@ -1,0 +1,99 @@
+{
+  "entity": "Anglerfish",
+  "entity_type": "creature",
+  "aliases": [
+    "anglerfish",
+    "anglerfishes"
+  ],
+  "categories": [
+    "Creatures",
+    "Races"
+  ],
+  "tags": [
+    "dark_bramble",
+    "hostile_creature"
+  ],
+  "summary": "Anglerfish are large hostile creatures found only inside Dark Bramble. They are blind and hunt by sound, are significantly larger than the player's ship, and can swallow it whole on contact.",
+  "facts": {
+    "biology": [
+      "Anglerfish are significantly larger than the player's ship.",
+      "Anglerfish have a bio-luminescent lure that closely resembles the glow of the portals inside Dark Bramble.",
+      "Anglerfish are blind.",
+      "Anglerfish hunt by sound.",
+      "Anglerfish likely feed on the centipede/caterpillar-like creatures seen in Dark Bramble.",
+      "Anglerfish may have a basic light-perception sense, despite being functionally blind to their prey."
+    ],
+    "behavior": [
+      "Upon detecting a sound, an Anglerfish releases an audible growl and moves toward the source to investigate.",
+      "If further sound is produced during the investigation, the Anglerfish will roar and begin actively pursuing the player.",
+      "If no further sound is produced, the Anglerfish returns to its idle state.",
+      "Anglerfish have a slower acceleration than the player's ship but a faster top speed.",
+      "Once the player creates enough distance, a pursuing Anglerfish returns to its idle state.",
+      "Anglerfish exhibit territorial behavior, avoiding the remains of other Anglerfish."
+    ],
+    "location": [
+      "Anglerfish are found exclusively within Dark Bramble.",
+      "Most nodes within Dark Bramble contain at least one Anglerfish.",
+      "Feldspar's node, the maze node, and the Vessel node contain no Anglerfish.",
+      "The Nest Node (distinguishable by its red glow) contains five Anglerfish; three of them guard the entrance.",
+      "A juvenile Anglerfish is held in containment inside the Observatory on Timber Hearth."
+    ],
+    "lore": [
+      "An Anglerfish fossil can be found on Ember Twin within the Hourglass Twins.",
+      "The juvenile Anglerfish in the Observatory was unintentionally brought to Timber Hearth after latching onto the hull of a passing Hearthian ship.",
+      "Feldspar mentions in dialogue that his Anglerfish skeleton repels other Anglerfish due to their territorial nature."
+    ],
+    "mechanics": [
+      "Anglerfish detect the player only through sound emitted by the player, not visually.",
+      "Rotational thrusters on the player's ship do not produce sound that Anglerfish detect.",
+      "Directional thrusters on the player's ship do produce sound that Anglerfish detect.",
+      "Suit thrusters worn by the player are significantly less detectable than ship thrusters.",
+      "Firing the Scout Launcher near an Anglerfish will alert it; the Scout impacting an object does not.",
+      "When passing through a Dark Bramble node, the player exits at a fixed direction and a fixed speed, regardless of entry angle or speed.",
+      "If an Anglerfish devours the player's ship but the player survives, that specific Anglerfish becomes permanently idle for the remainder of the current loop.",
+      "A pursuing Anglerfish can become stuck on the branches inside Dark Bramble due to its larger size."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Dark Bramble",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "near"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spaceship",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spacesuit",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Anglerfish",
+    "url": "https://outerwilds.fandom.com/wiki/Anglerfish",
+    "fetched_at": "2026-05-28T10:52:20",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

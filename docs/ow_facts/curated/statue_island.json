@@ -1,0 +1,118 @@
+{
+  "entity": "Statue Island",
+  "entity_type": "location",
+  "aliases": [],
+  "categories": [
+    "Locations on Giant's Deep"
+  ],
+  "tags": [
+    "giants_deep",
+    "nomai_history",
+    "ash_twin_project"
+  ],
+  "summary": "Statue Island is an island on Giant's Deep housing the Nomai Statue Workshop where Daz and Phlox built the Nomai Memory Statues. The workshop's broken door is bypassed via a hole in the floor above or by swimming up from the ocean below.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "Statue Island has 2x normal gravity.",
+      "Cyclones occasionally fling Statue Island into the upper atmosphere; cyclone shelters dot the island.",
+      "Rarely, a cyclone can drag Statue Island underwater instead of up into space, making it nearly impossible to navigate."
+    ],
+    "location": [
+      "Statue Island is located on Giant's Deep.",
+      "Statue Island consists of two landmasses connected by a natural stone arch.",
+      "The smaller landmass contains a gravity landing pad and a warp receiver connected to the Ash Twin warp tower.",
+      "The larger landmass contains a ruined settlement and is connected to the smaller by the arch or a gravity crystal path.",
+      "The Statue Workshop is built underneath the larger landmass, below the settlement.",
+      "The larger landmass is dome-shaped, with the Workshop forming a ring around the underside opening into the ocean below.",
+      "The Workshop has a single sealed entrance at the bottom of the gravity crystal path, broken from the outside.",
+      "The settlement above the Workshop has a hole in the floor, through which a Scout can be fired to view inside.",
+      "The Workshop can be entered by swimming or flying up through the ocean opening at the dome's center.",
+      "A platform inside the Workshop is too high to reach via jetpack under Giant's Deep gravity but can be briefly reached when a cyclone flings the island into space."
+    ],
+    "lore": [
+      "The Nomai Daz and Phlox created the Nomai Memory Statues in the Workshop.",
+      "Phlox welcomed visitors at the Workshop entrance and worked in his nearby dwelling when not in the Workshop.",
+      "Phlox forbade child Nomai from entering the Workshop during the dangerous memory-statue test.",
+      "Lami proposed sneaking into the test via the alternative route; Taget and Laevi refused.",
+      "Daz designed the memory storage prototype kept within Ash Twin.",
+      "Each Memory Statue pairs with a single Nomai by choosing whoever is in closest proximity during activation.",
+      "A paired statue's eyes open, indicating it has bonded to that Nomai.",
+      "Once paired, the statue records the Nomai's memories anywhere in the star system and sends them to the Ash Twin Project.",
+      "Each Nomai's stored memories live in a unique storage unit inside Ash Twin equipped with a mask, the statue's counterpart.",
+      "Ramie installed the masks inside the Ash Twin Project.",
+      "Statues are designed not to pair until the Ash Twin Project succeeds, sparing Nomai from prolonged time loops.",
+      "As a safety fail-safe, statues will also pair in the event of Ash Twin Project equipment failure to make Nomai aware of the situation.",
+      "Phlox once debated with Daz and Cassava whether sending memories back in time is the same as sending the being itself back in time.",
+      "Outside the sealed Workshop door, the Memory Statue that paired with Gabbro can be found with its eyes open.",
+      "The Workshop's warp platform notes that the arrival time is always one hundred-thousandth of a second earlier than the departure time."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Giant's Deep",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Nomai Statue",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Daz",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Lami",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Laevi",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Taget",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Statue Island",
+    "url": "https://outerwilds.fandom.com/wiki/Statue_Island",
+    "fetched_at": "2026-05-28T10:51:03",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "entity": "Orbital Probe Cannon",
+  "entity_type": "technology",
+  "aliases": [
+    "Probe Cannon"
+  ],
+  "categories": [
+    "Locations"
+  ],
+  "tags": [
+    "giants_deep",
+    "nomai_history",
+    "ash_twin_project",
+    "eye_signal"
+  ],
+  "summary": "The Orbital Probe Cannon is a large Nomai satellite in orbit around Giant's Deep designed to launch probes at the Eye of the Universe. The Cannon fires once at the start of every loop and immediately breaks apart from overpowered launch, scattering the Probe Tracking Module into Giant's Deep's core.",
+  "facts": {
+    "biology": [
+      "The Orbital Probe Cannon has zero gravity (orbital satellite)."
+    ],
+    "behavior": [
+      "The Orbital Probe Cannon fires a probe at the beginning of every time loop in a randomly selected direction.",
+      "The Cannon violently breaks apart immediately upon firing the probe due to its excess power setting.",
+      "The ruins of the Cannon, including most modules, continue to orbit Giant's Deep for the duration of the loop after firing.",
+      "The Probe Tracking Module is the only module missing from the Cannon's ruins after each loop's launch.",
+      "The Probe Tracking Module receives the probe's data and sends it to the Ash Twin Project."
+    ],
+    "location": [
+      "The Orbital Probe Cannon orbits Giant's Deep.",
+      "The Orbital Probe Cannon consists of three main modules plus the cannon structure: Control Module, Launch Module, and Probe Tracking Module.",
+      "The Cannon's modules are intended to be accessed from a central hub via individual airlocks.",
+      "The Control Module is the only module that remains undamaged with an unbroken connection to the central hub after firing.",
+      "The Launch Module is heavily damaged after firing and its central-hub connection is broken, but it can be entered from space through its broken viewport window.",
+      "The Probe Tracking Module sinks into Giant's Deep's core at the start of each loop after the Cannon's destruction.",
+      "The Probe Tracking Module is found in one of the coral branches at Giant's Deep's core.",
+      "Older Orbital Probe Cannon components, lost during initial construction, sit to the north-east of the Probe Tracking Module near Giant's Deep's core equator.",
+      "A still-functional gravity landing pad remains among the Cannon's ruins."
+    ],
+    "lore": [
+      "The Orbital Probe Cannon was built by the Nomai to search visually for the Eye of the Universe after Eye Signal Locators failed.",
+      "Mallow originally proposed launching a probe visually to find the Eye after the Eye Signal Locators failed.",
+      "The Construction Yard crew determined a strict maximum power setting that the Cannon was not to exceed.",
+      "Mallow and Avens deliberately exceeded the recommended safe power setting in hopes of finding the Eye faster.",
+      "Cassava had already lowered the Cannon's recommended setting in anticipation of Mallow and Avens's enthusiasm.",
+      "Privet warned Mallow that breaking the Cannon would destroy the Probe Tracking Module and prevent receipt of probe data.",
+      "Mallow argued the Cannon only needed to fire once, so minor structural compromise was acceptable.",
+      "The Probe Tracking Module data revealed that the 9,318,054th probe was the one that found the Eye of the Universe.",
+      "The Eye's coordinates were displayed in the form of three hexagonal Nomai characters.",
+      "An activated Nomai Memory Statue inside the Probe Tracking Module is connected to an active mask in the Ash Twin Project — this is the method by which probe data is sent back in time.",
+      "Reacquiring the Eye's coordinates is not necessary for the ending since they remain the same between loops.",
+      "Since exactly 9,318,054 probes were launched before finding the Eye, and each loop is 22 minutes, information was sent back in time for approximately 389 years, 276 days, 21 hours, and 48 minutes before the Protagonist and Gabbro became aware of the loop.",
+      "The Gravity Cannons likely served as precursors to the Orbital Probe Cannon's technology, given the similarities in structural design and launch method.",
+      "The Eye of the Universe probe can be physically caught up to with a very long burn in the player's spaceship."
+    ],
+    "mechanics": [
+      "The Cannon's launch sequence is initiated by a launch request received from the Ash Twin Project.",
+      "Upon receiving the launch request, the Cannon aligns with a randomly selected probe trajectory and activates its gravity field.",
+      "The Cannon's damage report after launch lists: Control Module intact, Launch Module viewport fractured, Probe Tracking Module missing.",
+      "The Probe Tracking Module records each launch's flight trajectory and automatically transmits relevant data to the Ash Twin Project.",
+      "When the probe locates the Eye of the Universe, the Probe Tracking Module sends an alert to the Ash Twin Project's Yarrow and Ramie."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Giant's Deep",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Construction Yard",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gravity Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spaceship",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Mallow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Avens",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Privet",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Daz",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Orbital Probe Cannon",
+    "url": "https://outerwilds.fandom.com/wiki/Orbital_Probe_Cannon",
+    "fetched_at": "2026-05-28T10:51:07",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

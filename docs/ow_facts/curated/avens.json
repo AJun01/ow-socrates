@@ -1,0 +1,107 @@
+{
+  "entity": "Avens",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "orbital_probe_cannon",
+    "giants_deep"
+  ],
+  "summary": "Avens was a male Nomai from Brittle Hollow, brother of Daz and husband of Mallow. He proposed the Orbital Probe Cannon, co-built it with Cassava, and pushed launch power past safe limits with Mallow, causing the cannon to break apart on its first real fire.",
+  "facts": {
+    "biology": [
+      "Avens is a Nomai.",
+      "Avens is male."
+    ],
+    "behavior": [
+      "Avens believed finding the Eye of the Universe was worth significant risk.",
+      "Avens consistently pushed for the maximum possible launch power on the Orbital Probe Cannon.",
+      "Avens was confident his friends had accounted for his and Mallow's nature in their power limits and used that as a reason to exceed them anyway.",
+      "Avens and Mallow were a famously affectionate couple, prompting Cassava's wry jokes."
+    ],
+    "location": [
+      "Avens originally came from Brittle Hollow.",
+      "Avens relocated to the Construction Yard on Giant's Deep to build the Orbital Probe Cannon.",
+      "Avens's remains are most likely with Mallow's at the Construction Yard."
+    ],
+    "lore": [
+      "Avens was a member of the Nomai and of the Ash Twin Project team.",
+      "Avens was the brother of Daz.",
+      "Avens was the husband of Mallow.",
+      "Avens hypothesized the Eye of the Universe had stopped emitting its signal.",
+      "Avens proposed building a probe-launching cannon in orbit around a celestial body to circumvent the need to escape gravity.",
+      "Avens accepted Cassava's suggestion that the cannon should orbit Giant's Deep because it offered the best launch angles and was moonless except for visits from the Quantum Moon.",
+      "Avens and Mallow tested the cannon and adjusted its launch power.",
+      "Cassava and Daz set Avens and Mallow's maximum power setting slightly below the absolute structural maximum to leave room for their enthusiasm.",
+      "Avens and Mallow joined Cassava and Daz at the Construction Yard after the Orbital Probe Cannon was put on indefinite hold.",
+      "Avens and Mallow's power adjustment was eventually catastrophic for the Orbital Probe Cannon.",
+      "The Orbital Probe Cannon now breaks apart immediately upon firing each loop due to that power adjustment.",
+      "The Probe Tracking Module fell into Giant's Deep's ocean core after the cannon broke apart."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Construction Yard",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Mallow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Daz",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Privet",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Avens",
+    "url": "https://outerwilds.fandom.com/wiki/Avens",
+    "fetched_at": "2026-05-28T10:51:47",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

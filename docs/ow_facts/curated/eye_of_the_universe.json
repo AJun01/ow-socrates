@@ -1,0 +1,274 @@
+{
+  "entity": "Eye of the Universe",
+  "entity_type": "celestial_body",
+  "aliases": [
+    "The Eye",
+    "the Eye"
+  ],
+  "categories": [
+    "Planets"
+  ],
+  "tags": [
+    "endgame",
+    "quantum",
+    "nomai_history",
+    "dlc_story",
+    "eye_signal"
+  ],
+  "summary": "The Eye of the Universe is a quantum planetary object older than the universe itself, located in a distant orbit around the Sun far beyond the supernova's reach. Reaching it represents the intended goal of the game and is the source of the signal that drew the Nomai (and the Stranger's inhabitants) to the solar system.",
+  "facts": {
+    "biology": [
+      "The Eye of the Universe is a quantum planetary object made of the same unknown quantum material as the Quantum Shards.",
+      "The Eye is older than the universe itself.",
+      "The Eye has a radius of approximately 314 meters.",
+      "The Eye has a gravity range of approximately 0.4 g to 2.5 g.",
+      "The Eye visually appears as a dark planet surrounded by a purple storm with occasional lightning strikes.",
+      "Strange branches fan out from the planet into the storm, matching the branches in the Nomai symbol for the Eye.",
+      "The Eye has a powerful quantum storm funneling quantum energy into a quantum maelstrom at its south pole.",
+      "The Eye has a large crater at its south pole containing the quantum maelstrom."
+    ],
+    "behavior": [
+      "The Eye of the Universe sends out a signal that resembles an eye — round, with a circle at the center like a pupil.",
+      "The Eye's quantum storm can sever the connection to the player's Scout probe, preventing it from being recalled permanently.",
+      "Conscious observation can cause endless possibilities for a new universe to appear at the Eye.",
+      "Observing the possibilities at the Eye collapses them into a single reality.",
+      "The collapse of possibilities at the Eye causes a Big Bang and brings a new universe into existence."
+    ],
+    "location": [
+      "The Eye of the Universe is in a distant orbit around the Sun.",
+      "The Eye is approximately 286 km from the Sun.",
+      "The Eye is the farthest celestial body in the solar system.",
+      "The Eye is far outside the reach of the supernova.",
+      "The Eye has one moon: the Quantum Moon.",
+      "The Eye cannot be found by conventional means and is normally unreachable.",
+      "The Eye has fixed coordinates and a stable orbit, despite the Southern Observatory's locator showing it constantly shifting.",
+      "The Eye is reached by removing the Advanced Warp Core from the Ash Twin Project, placing it in The Vessel on Dark Bramble, and warping to the Eye's coordinates.",
+      "The coordinates for reaching the Eye are discovered in the Probe Tracking Module at the core of Giant's Deep.",
+      "The Eye of the Universe is physically impossible to reach by conventional means because the player is loaded into a different level when they activate the Vessel's warp."
+    ],
+    "lore": [
+      "The Eye is indirectly the source of all Quantum Shards in the solar system.",
+      "The Quantum Moon is the Eye's moon; its proximity to the Eye made it quantum, just as the Quantum Shards made surrounding areas quantum on other planets.",
+      "Solanum proposed that the Quantum Moon is the Eye's moon and that the Eye's quantum properties propagated to it.",
+      "The Eye started sending its signal at some point in the past, which was first received by the inhabitants of the Stranger on their home moon.",
+      "The Stranger's inhabitants stripped their home moon of resources to build the Stranger, a giant artificial ring spaceship, to reach the Eye.",
+      "Upon analyzing the Eye, the Stranger's inhabitants discovered it was responsible for an inevitable cycle that would end everything they knew.",
+      "The Stranger's inhabitants built a signal blocker to prevent the Eye's signal from being broadcast, horrified by what they had discovered.",
+      "After activating the blocker, the Stranger moved to the center of the solar system and enabled its cloaking field.",
+      "The Stranger's inhabitants created a simulated reality resembling their home moon and went to sleep with their minds in the simulation.",
+      "One of the Stranger's inhabitants (the Prisoner) woke up and disabled the signal blocker, briefly allowing the signal to broadcast again.",
+      "The Prisoner was caught by the others and imprisoned in a vault hidden in a submerged structure.",
+      "The other inhabitants reactivated the signal blocker, burned its controls so it could not be deactivated again, and returned to the simulation.",
+      "During the brief deactivation, the Nomai of Escall's Vessel received the Eye's signal.",
+      "The Nomai immediately warped toward the signal source but exited warp inside Dark Bramble instead.",
+      "After surviving the Vessel crash, the Nomai named the source 'the Eye of the Universe' due to the signal's visual resemblance to an eye with a pupil.",
+      "The Nomai built an Eye Signal Locator on the Attlerock to find the Eye, but it rotated wildly and could not pinpoint the location.",
+      "The Nomai built a more sophisticated locator at the Southern Observatory on Brittle Hollow, which was likewise unable to find the Eye.",
+      "The Nomai discovered through Solanum that the Quantum Moon is the Eye's moon, giving them physical characteristics and approximate orbital range of the Eye.",
+      "Mallow proposed the Nomai send a probe to find the Eye visually instead of by signal.",
+      "Cassava noted that randomly launching a probe in the correct direction would have an absurdly small probability of success.",
+      "The Nomai discovered that warped objects arrive before they depart, and that adding energy to warp cores increases this negative time interval.",
+      "Yarrow led the construction of the Ash Twin Project to use repeated probe launches via the 22-minute time loop to overcome the probe-aiming problem.",
+      "The Nomai's plan was: Sun Station triggers supernova → Ash Twin Project sends probe-launch order back 22 minutes → Orbital Probe Cannon fires probe in new random direction → 22 minutes later, supernova fires again to send probe's flight data back.",
+      "When activated by the Nomai, the Sun Station was unable to cause the Sun to go supernova, leaving the Ash Twin Project unpowered.",
+      "Before the Nomai could find an alternative power source, Ghost Matter from the Interloper wiped them out.",
+      "Over 200,000 years after the Nomai's deaths, the Sun reached the end of its natural lifespan and went supernova, finally powering the Ash Twin Project.",
+      "The 9,318,054th probe launched from the Orbital Probe Cannon was the one that discovered the Eye of the Universe's location.",
+      "The Nomai Statues only paired with someone after the Eye was found; since no Nomai survived, the statues paired with the Protagonist and Gabbro.",
+      "The Eye of the Universe museum on the Eye contains exhibits about the Nomai, Outer Wilds Ventures, the Sun's lifecycle, and (if explored) the Stranger.",
+      "An Eye museum poem reads: 'The quiet shade / Across old bark / In the ancient glade / It's always dark.'",
+      "The Eye of the Universe museum exhibit confirms the Hearthian was able to reach the Eye thanks to the Nomai's efforts and technology."
+    ],
+    "mechanics": [
+      "The Eye Signal Locator on the Attlerock fails to find the Eye's location because of the signal blocker.",
+      "The Quantum Moon Locator on Ember Twin fails to find the Quantum Moon when it is orbiting the Eye of the Universe.",
+      "The Southern Observatory's more advanced Eye locator shows a constantly shifting orbit for the Eye far outside the solar system, due to the signal blocker.",
+      "The Eye signal blocker is a spacecraft in orbit around the Eye at an orbital radius of approximately 6.5 km.",
+      "The Eye signal blocker can be visually identified by its pale green light.",
+      "The Eye signal blocker was built by the Stranger's inhabitants to prevent the Eye's signal from being broadcast.",
+      "The Stranger's inhabitants destroyed the controls for the signal blocker after the Prisoner's rebellion.",
+      "The Stranger has lost its connection to the signal blocker since the controls were burned.",
+      "The Eye signal blocker can no longer be turned off, because its control mechanism was destroyed.",
+      "On the Eye, the Eye creates quantum versions of objects the Protagonist finds familiar, including trees, a quantum Observatory, and quantum versions of all the travelers.",
+      "If reached near the end of a loop, the Sun can be seen going supernova safely from the surface of the Eye of the Universe.",
+      "If the player loses their probe on the Eye of the Universe, the probe will be seen flying among the planets of the new universe during the post-credits scene.",
+      "If the player entered the black hole at the Ash Twin Project during the previous cycle, spacetime will eventually be destroyed at the end of the current cycle, even on the Eye itself.",
+      "To nullify the spacetime destruction from the Self Ending paradox, the player must enter the Eye's vortex before the loop would have ended.",
+      "The effects of the expired marshmallows from the Attlerock carry over to the Eye ending, making all the travelers' heads enlarged."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Quantum Moon",
+      "relation": "near"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Stranger",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Prisoner",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Attlerock",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Chert",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Riebeck",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Esker",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Escall",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Filix",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Mallow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Plume",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Privet",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Eye of the Universe",
+    "url": "https://outerwilds.fandom.com/wiki/Eye_of_the_Universe",
+    "fetched_at": "2026-05-28T10:50:50",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

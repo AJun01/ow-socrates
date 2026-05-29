@@ -1,0 +1,102 @@
+{
+  "entity": "Quantum Shrine",
+  "entity_type": "location",
+  "aliases": [
+    "The Quantum Shrine"
+  ],
+  "categories": [
+    "Locations",
+    "Locations on the Quantum Moon"
+  ],
+  "tags": [
+    "quantum",
+    "endgame",
+    "nomai_history"
+  ],
+  "summary": "The Quantum Shrine is a Nomai structure on the Quantum Moon that moves between the Moon's six positions when not observed. It is the primary tool for reaching the Quantum Moon's hidden Sixth Location and meeting the still-living Solanum.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "The Quantum Shrine moves between positions on the Quantum Moon when not being observed.",
+      "The Quantum Shrine's location on the Moon's surface changes along with the Moon's variation."
+    ],
+    "location": [
+      "The Quantum Shrine is located on the Quantum Moon.",
+      "The Quantum Shrine has a door that can be opened and resealed for use.",
+      "The Quantum Shrine has an interior switch that turns on a light and reveals translatable Nomai text inside.",
+      "A Quantum Moon Locator is built into the Shrine's wall showing the Moon's current orbital location.",
+      "When the Moon is at the Sixth Location, a pathway leads from the Shrine across the surface to the south pole where Solanum stands.",
+      "The vortex above the Sixth Location's south pole leads to the Timber Hearth variant of the Quantum Moon."
+    ],
+    "lore": [
+      "The Quantum Shrine was built by the Nomai.",
+      "The Quantum Shrine references all six of the Moon's locations in its in-game text: Hourglass Twins, Timber Hearth, Brittle Hollow, Giant's Deep, outside Dark Bramble, and the Sixth Location.",
+      "The Quantum Shrine operates on the rule of Quantum Entanglement taught by the Cave Shard."
+    ],
+    "mechanics": [
+      "Using the Quantum Shrine: close the door, turn off all lights (lantern off, scout recalled), then turn them back on to find the Moon has moved to a new location.",
+      "Reaching the Sixth Location requires using the Quantum Shrine while it is at the Moon's North Pole.",
+      "The Shrine must be used multiple times at different positions across different Moon variations to find a path that reaches the North Pole.",
+      "Once at the Sixth Location, the pathway from the Shrine leads directly to the south pole where Solanum can be conversed with.",
+      "Exiting the Sixth Location through the vortex drops the player at the Timber Hearth variant's south pole."
+    ]
+  },
+  "see_also": [
+    "quantum_moon"
+  ],
+  "related_entities": [
+    {
+      "entity": "Quantum Moon",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tower of Quantum Knowledge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    }
+  ],
+  "source": {
+    "page": "Quantum Shrine",
+    "url": "https://outerwilds.fandom.com/wiki/Quantum_Shrine",
+    "fetched_at": "2026-05-28T10:51:06",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high",
+    "is_redirect_stub": false
+  }
+}

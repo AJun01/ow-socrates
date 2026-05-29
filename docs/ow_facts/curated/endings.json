@@ -1,0 +1,163 @@
+{
+  "entity": "Endings",
+  "entity_type": "event",
+  "aliases": [],
+  "categories": [
+    "Gameplay"
+  ],
+  "tags": [
+    "endgame",
+    "time_loop",
+    "quantum",
+    "dlc"
+  ],
+  "summary": "Endings are the multiple distinct conclusions Outer Wilds can reach. The canonical Eye of the Universe ending requires removing the Advanced Warp Core from the Ash Twin Project and taking it to The Vessel; other endings (Isolation, Quantum Moon, Self, Breaking Spacetime, Stranger, Dream) trigger under specific player conditions.",
+  "facts": {
+    "biology": [],
+    "behavior": [],
+    "location": [],
+    "lore": [
+      "Outer Wilds has multiple distinct endings, some of which are cleverly hidden and must be discovered through exploration.",
+      "The Eye of the Universe ending is described as the intended canonical ending of the game.",
+      "Echoes of the Eye DLC adds two endings that improve the Eye of the Universe ending: the Stranger Ending and the Dream Ending.",
+      "Once the travelers finish playing their song in the Eye of the Universe ending, the quantum version of Chert remarks that 'the rules are about to change' regarding the new universe.",
+      "The new universe shown in the post-credits cutscene has inside-out planets, each with their own independent sun in their cores."
+    ],
+    "mechanics": [
+      "The Eye of the Universe ending requires removing the Advanced Warp Core from the Ash Twin Project and transporting it to The Vessel.",
+      "After inserting the Advanced Warp Core into The Vessel's housing unit, a console rises where the player must input coordinates retrieved from the Probe Tracking Module.",
+      "On the Eye of the Universe, the player walks from the North to the South pole, passing through a quantum storm and encountering quantum objects.",
+      "Falling into the large crater of quantum mass on the Eye transports the player to a quantum version of the Observatory, where exhibit notes reflect the player's discoveries.",
+      "Reaching the upper level of the quantum Observatory transports the player to a forest called the Ancient Glade.",
+      "In the Ancient Glade, the player must light a campfire, after which a quantum version of Esker appears and hints to follow music via the Signalscope.",
+      "After locating Riebeck, the player must find Feldspar, Gabbro, Chert, Solanum (if she was met on the Quantum Moon), and the Prisoner (if they were freed in the Stranger) and gather everyone around the campfire.",
+      "The Prisoner must specifically be invited to join the campfire in order to participate.",
+      "Once all travelers play together, a blue ball expands above the campfire; entering it transports the player to empty space where a new universe explodes into being.",
+      "The post-credits cutscene occurs 14.3 billion years after the ending and pans down to a newly-formed planet in the new universe.",
+      "Post-credits: if Solanum was found, a campfire with insectoid aliens roasting marshmallows appears on the planet.",
+      "Post-credits: if the Prisoner was found and invited, a blue pond surrounded by stones appears.",
+      "Post-credits: if both Solanum and the Prisoner were found, a tall lantern-carrying alien resembling a deep-sea fish also appears.",
+      "Post-credits: if the player lost their probe on the Eye of the Universe, the probe flies past the new planet.",
+      "The Game Over Ending occurs when the player dies while not linked to the Ash Twin Project through a Nomai mask.",
+      "The Game Over Ending most commonly happens when the player dies at the start of a save before linking with the Nomai statue upon leaving the Observatory.",
+      "The Game Over Ending also occurs if the player dies after removing the Advanced Warp Core from the Ash Twin Project.",
+      "The Game Over Ending displays 'You Are Dead' and returns the player to the main menu; the save can be resumed to continue from the previous loop.",
+      "The Isolation Ending is triggered by removing the Advanced Warp Core from the Ash Twin Project and flying far enough away from the Sun to avoid the supernova.",
+      "The Isolation Ending shows the player drifting through space until ship supplies are depleted.",
+      "The Quantum Moon Ending is triggered by removing the Advanced Warp Core from the Ash Twin Project, landing on the Quantum Moon, and traveling to its sixth location.",
+      "The Quantum Moon Ending shares the same fate as Solanum, who lives on the Quantum Moon.",
+      "The Breaking Spacetime Ending is triggered by breaking causality, most commonly at the High Energy Lab on Ember Twin by inserting black-hole and white-hole cores and removing one between probe entry and exit.",
+      "The Breaking Spacetime Ending can also be triggered by sending a Scout through the Ash Twin Project's black hole, starting a new loop, and not sending the Scout again.",
+      "The Breaking Spacetime Ending plays the credits at a sped-up rate with humorous edits and a kazoo cover of the main theme, awarding the 'You've met a terrible fate' achievement.",
+      "The Self Ending was added in Patch 1.0.4 and is a variation of the Breaking Spacetime Ending.",
+      "The Self Ending is triggered by jumping into the black hole at Ash Twin's core that opens when the Sun goes supernova, creating a paradox.",
+      "After the Self Ending paradox, the next loop has two 'You Are Here' markers on the map, with the second inside the Ash Twin Project.",
+      "Inside the Ash Twin Project during the Self Ending loop, an NPC named Self (a copy of the Protagonist) can be found near the script wall.",
+      "If the Protagonist does not re-jump into the black hole during the Self Ending, Self has no point of origin and the Breaking Spacetime Ending occurs.",
+      "The save resets to the beginning of the loop where the black hole was first entered, undoing the paradox.",
+      "The Stranger Ending (DLC) is triggered by removing the Advanced Warp Core from the Ash Twin Project, flying to the Stranger, and waiting for the Sun to explode once the Stranger has moved out of the blast radius.",
+      "The Stranger Ending shows the player alone on an abandoned world wondering if there is anything edible.",
+      "The Dream Ending (DLC) is triggered by removing the Advanced Warp Core from the Ash Twin Project and dying in front of the dream fire to permanently enter the dream world.",
+      "The Dream Ending requires that the player's dream artifact flame is not snuffed and that the player is not killed within the dream.",
+      "All non-canonical endings are intended to be permanent, but the player can resume their save and continue from the previous loop in all cases."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Stranger",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Prisoner",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Black Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Chert",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Esker",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Riebeck",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Echoes of the Eye",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Endings",
+    "url": "https://outerwilds.fandom.com/wiki/Endings",
+    "fetched_at": "2026-05-28T10:51:13",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

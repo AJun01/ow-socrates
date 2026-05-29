@@ -1,0 +1,131 @@
+{
+  "entity": "Slate",
+  "entity_type": "character",
+  "aliases": [
+    "Rocket Scientist"
+  ],
+  "categories": [
+    "Characters",
+    "Hearthians",
+    "Outer Wilds Ventures Members"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "launch_day",
+    "spaceship"
+  ],
+  "summary": "Slate is the Hearthian engineer of Outer Wilds Ventures, found at the Launch Tower on Timber Hearth. They built the player's spaceship and the Surveyor Probe Mk. IV, and are the first character the player speaks to upon waking up.",
+  "facts": {
+    "biology": [
+      "Slate is a Hearthian."
+    ],
+    "behavior": [
+      "Slate is considered reckless by others in the village.",
+      "Slate often argues with Gossan over safety.",
+      "Slate is enthusiastic about technical experimentation.",
+      "Slate jokes about the ship being a 'death-trap' but a 'powerful' one.",
+      "Slate dismisses many safety concerns as overblown.",
+      "Slate rates the ship's safety as a perfect ten if pilot error is excluded, but a four if it's included.",
+      "Slate defers astrophysics questions to Hornfels, including details about the upcoming supernova."
+    ],
+    "location": [
+      "Slate works at the Launch Tower on Timber Hearth.",
+      "Slate is the first character the player speaks to upon waking up at the start of every loop."
+    ],
+    "lore": [
+      "Slate is one of the founding members of Outer Wilds Ventures.",
+      "Slate is the space program's engineer responsible for building all the Hearthian spaceships.",
+      "Slate built the Surveyor Probe Mk. IV (Little Scout) that the protagonist carries.",
+      "Slate works on an iterative basis, using each new astronaut as a test subject to build a more powerful and better-equipped spaceship.",
+      "Slate addresses problems detected by previous astronauts in the field, such as the previous absence of working retro-thrusters.",
+      "Slate repurposed the spare oxygen tank on the player's ship into an extra combustion chamber.",
+      "Slate considers the autopilot's avoidance system a known problem and is working to fix it for the next ship.",
+      "Slate repurposed a stone chip from the Nomai statue for the ship's computer.",
+      "Slate told Mica that the protagonist was going to blast off today.",
+      "Slate and Mica together upgraded the model ship in the village with recalibrated controls and better thrusters.",
+      "Slate and Mica together caused fire damage to the Radio Tower with an unsanctioned model rocket test, leading to its closure (when Echoes of the Eye is not installed).",
+      "Slate's definition of a good date differs from Gossan's: Slate considers a date bad if 'nothing has exploded yet.'",
+      "Slate had some involvement in the incident resulting in Gossan losing an eye, according to the 'Self' ending.",
+      "Slate was known as the 'Rocket Scientist' during the game's alpha development.",
+      "Slate built the new landing hydraulics on the player's current ship for this launch.",
+      "Slate is working on fixing the autopilot's avoidance system for the next-generation ship.",
+      "Slate gives the impression that Gossan was once a greener astronaut candidate than the protagonist.",
+      "Gossan disputes Slate's claims about Gossan's training and says Slate is sore over Gossan insisting on a cockpit safety harness.",
+      "Feldspar's Giant's Deep journal notes two crashes and zero 'boring crashes' on a trip, with an addendum to discuss with Slate."
+    ],
+    "mechanics": [
+      "Slate tells the player they must get the launch codes from Hornfels at the Observatory before lifting off.",
+      "Slate intercepts the player if they try to use the launch lift without the codes.",
+      "Slate teaches the player to use the ship log to set destination markers for previously visited locations.",
+      "Slate explains the destination marker feature: open the ship log, select a visited location, sit in the pilot seat, and the ship will display a marker.",
+      "Slate teaches the player that the Little Scout can detect Ghost Matter and be used as a light source.",
+      "Slate explains that autopilot can occasionally get too close to the sun if the sun is between the player and their destination."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Launch Tower",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Spaceship",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Launch Codes",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gossan",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Mica",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hal",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Slate",
+    "url": "https://outerwilds.fandom.com/wiki/Slate",
+    "fetched_at": "2026-05-28T10:51:28",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

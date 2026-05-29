@@ -1,0 +1,68 @@
+{
+  "entity": "Bramble Island",
+  "entity_type": "location",
+  "aliases": [],
+  "categories": [
+    "Locations on Giant's Deep"
+  ],
+  "tags": [
+    "giants_deep",
+    "dark_bramble"
+  ],
+  "summary": "Bramble Island is an island on Giant's Deep made of a frozen ice chunk overgrown with brambles originating from Dark Bramble. It was Feldspar's final campsite before he set off for Dark Bramble, and contains pockets of Ghost Matter and frozen Jellyfish in the ice.",
+  "facts": {
+    "biology": [],
+    "behavior": [],
+    "location": [
+      "Bramble Island is an island on Giant's Deep.",
+      "Bramble Island is made of a large chunk of ice surrounded by enormous gnarled brambles.",
+      "Several frozen Jellyfish are visible inside the island's ice.",
+      "The brambles on the island originate from Dark Bramble.",
+      "Many of the brambles on the island are hollow and traversable.",
+      "Pockets of Ghost Matter are scattered throughout the bramble tunnels.",
+      "A campfire, fuel tank, and logs left by Feldspar can be found at the center of the island.",
+      "Bramble Island has a gravity of approximately 2 g."
+    ],
+    "lore": [
+      "Feldspar's log on Bramble Island reveals he reached the core of Giant's Deep by an unknown method before setting off for Dark Bramble.",
+      "Bramble Island was Feldspar's final campsite before he set off for Dark Bramble.",
+      "Chert's research implies Bramble Island is composed of debris from the original fifth ice planet that imploded to become Dark Bramble.",
+      "Chert's research further implies the Jellyfish frozen in the island's ice were the original inhabitants of the destroyed fifth planet."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Giant's Deep",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Jellyfish",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Chert",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Bramble Island",
+    "url": "https://outerwilds.fandom.com/wiki/Bramble_Island",
+    "fetched_at": "2026-05-28T10:51:01",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

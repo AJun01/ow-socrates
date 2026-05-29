@@ -1,0 +1,130 @@
+{
+  "entity": "Hollow's Lantern",
+  "entity_type": "moon",
+  "aliases": [],
+  "categories": [
+    "Locations",
+    "Moons"
+  ],
+  "tags": [
+    "brittle_hollow",
+    "hostile_environment"
+  ],
+  "summary": "Hollow's Lantern is a small but highly volcanic moon orbiting Brittle Hollow. Its four volcanoes hurl lava balls into space at chaotic angles, most of which crash into Brittle Hollow and progressively destroy its crust over each loop.",
+  "facts": {
+    "biology": [
+      "Hollow's Lantern has a gravity of approximately 0.5 g.",
+      "Hollow's Lantern is small relative to other bodies in the solar system.",
+      "Hollow's Lantern has a very unusual axis of rotation, making lava ball trajectories highly chaotic.",
+      "Hollow's Lantern has four volcanoes."
+    ],
+    "behavior": [
+      "Hollow's Lantern's four volcanoes throw out balls of lava into space at random short intervals.",
+      "Volcanic ejection slowly depletes the moon's lava reserves and progressively reveals the moon's surface over the loop.",
+      "Most of the lava balls fall onto Brittle Hollow and cause parts of the planet's crust to collapse into the central black hole.",
+      "Occasionally a fireball misses Brittle Hollow's crust and enters its black hole, causing fireballs to appear elsewhere in the solar system.",
+      "Lava balls explode on contact with anything except the Little Scout.",
+      "Hollow's Lantern's volcanic activity increased significantly when the Sun reached the end of its natural lifespan, accelerating Brittle Hollow's destruction."
+    ],
+    "location": [
+      "Hollow's Lantern orbits Brittle Hollow.",
+      "Hollow's Lantern is uninhabited.",
+      "The Volcanic Testing Site is located inside the volcano on Hollow's Lantern's north pole.",
+      "The Volcanic Testing Site is a Nomai ruin containing a Projection Pool, a projection stone, and a Nomai computer.",
+      "Once the lava has emptied enough, a Nomai skeleton can be found in a lava-lake giving a 'rock on' gesture with both hands.",
+      "Balls of lava from Hollow's Lantern can be found crash-landed on bodies far from the moon, due to fireballs falling through Brittle Hollow's black hole."
+    ],
+    "lore": [
+      "The Nomai first noticed Hollow's Lantern when they crash-landed on Brittle Hollow in Escape Pod 1.",
+      "At the time of the Nomai's arrival, Hollow's Lantern was already spewing ash and debris.",
+      "Hollow's Lantern's eruptions caused minor structural instabilities on Brittle Hollow.",
+      "The Nomai built below Brittle Hollow's crust to seek shelter from Hollow's Lantern's eruptions.",
+      "The Old Settlement, Hanging City, and Tower of Quantum Knowledge were all built underground for shelter from Hollow's Lantern.",
+      "After the Ash Twin Project began, the Nomai used Hollow's Lantern's volcanoes to heat-test ores from the Timber Hearth mines for the project's protective shell.",
+      "Root was the Nomai responsible for the ore-testing work at Hollow's Lantern's Volcanic Testing Site.",
+      "Oeno coordinated ore deliveries from the Timber Hearth Mines to Hollow's Lantern.",
+      "The ore Root tested had to survive direct heat long enough to seal off the Ash Twin Project during a supernova.",
+      "Root warned that the smallest crack in the protective shell would destroy everything inside.",
+      "The Volcanic Testing Site computer issued an evacuation warning when increased solar and volcanic activity made the location inhospitable.",
+      "The achievement 'Mica's Wrath' can be unlocked by destroying Mica's model rocket by flying it into either the Sun or Hollow's Lantern."
+    ],
+    "mechanics": [
+      "Lava balls from Hollow's Lantern can be disrupted in flight only by the Little Scout, since they do not detonate on Scout contact.",
+      "It is possible to prevent the destruction of Brittle Hollow's crust by Scout-disrupting incoming lava balls."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Brittle Hollow",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Hanging City",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tower of Quantum Knowledge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Black Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Root",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Oeno",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Thatch",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Plume",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Filix",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Mica",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Hollow's Lantern",
+    "url": "https://outerwilds.fandom.com/wiki/Hollow%27s_Lantern",
+    "fetched_at": "2026-05-28T10:50:53",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "entity": "Coleus",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "hourglass_twins",
+    "quantum"
+  ],
+  "summary": "Coleus was a Nomai geologist originally from The Vessel who arrived in the solar system via Escape Pod 2. He studied an Anglerfish fossil on Ember Twin, discovered the quantum entanglement rule with Melorae, and later worked on sourcing ore for the Ash Twin Project's supernova-resistant shell.",
+  "facts": {
+    "biology": [
+      "Coleus is a Nomai.",
+      "Coleus is male.",
+      "Coleus was a geologist."
+    ],
+    "behavior": [],
+    "location": [
+      "Coleus arrived on Ember Twin via Escape Pod 2 after The Vessel crashed in Dark Bramble.",
+      "Coleus later moved with Cycad and Oeno to Timber Hearth for mining work.",
+      "Coleus died when Ghost Matter from the Interloper flooded the solar system."
+    ],
+    "lore": [
+      "Coleus was originally a passenger of The Vessel.",
+      "Coleus was still young when he arrived in the solar system after the Vessel crash.",
+      "Coleus's mentor was Melorae, and his apprentice was Cycad.",
+      "Coleus helped guide the Escape Pod 2 survivors through the cave system to the Sunless City site.",
+      "Coleus left directions on cave walls for other Nomai to follow to the shelter site.",
+      "Coleus and Melorae studied an Anglerfish fossil in the Sunless City and discovered the Anglerfish died from starvation and was blind.",
+      "Coleus expressed delight when he observed Nomai children incorporating his anglerfish research into a rule of their game.",
+      "Coleus and Melorae discovered a wandering rock fragment in the caves of Ember Twin that vanished and reappeared like the Quantum Moon.",
+      "Coleus vanished without a trace when Melorae's lantern went out while he was standing on the wandering quantum rock.",
+      "Coleus was transported by the quantum rock to a cave room with no entrance or exit.",
+      "Coleus realized he had become quantum-entangled with the rock when the rock was no longer being observed.",
+      "Coleus freed himself by riding the rock back out while keeping himself in complete darkness so as not to observe his surroundings.",
+      "Melorae credited Coleus with discovering a new quantum rule and made him promise never to disappear again.",
+      "Coleus tested the Eye Signal Locator on the Attlerock and confirmed it could follow signals from the Sun, Giant's Deep, and Brittle Hollow.",
+      "Coleus observed that the Eye Signal Locator's indicator rotated wildly when asked to follow the Eye of the Universe's signal.",
+      "Coleus advised against building a more sophisticated Eye Signal Locator on Ember Twin due to the heat of the Sun.",
+      "Coleus believed the probability of the Sun Station succeeding was uncertain and that failure would destroy the star system.",
+      "Coleus stated he wanted to protect the species in the solar system from the risk of the Sun Station's failure.",
+      "Idaea agreed with Coleus on the severity of the Sun Station's potential cost.",
+      "Poke disagreed and argued that fear of failure was a poor reason not to attempt the Sun Station.",
+      "Coleus was apprehensive about a return to Dark Bramble because the anti-anglerfish hypothesis had never been tested on a living specimen.",
+      "Coleus helped Yarrow and Ramie excavate Ash Twin and relocated subterranean plants disturbed during the dig.",
+      "Coleus identified Timber Hearth mining sites for sourcing ore for the Ash Twin Project's supernova-resistant shell.",
+      "Coleus rejected mining site 2a because it was unsafe for the native semi-aquatic life — the Hearthians' ancestors — living in the cave pools.",
+      "Coleus chose mining site 2b and monitored mining impact on the local ecosystem.",
+      "Coleus expressed confidence that the Nomai's mining would not destroy the Hearthians' future capability for metallurgy."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Attlerock",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Melorae",
+      "relation": "apprentice_of"
+    },
+    {
+      "entity": "Cycad",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Annona",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Idaea",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Oeno",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Plume",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Bur",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Coleus",
+    "url": "https://outerwilds.fandom.com/wiki/Coleus",
+    "fetched_at": "2026-05-28T10:51:30",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "entity": "Attlerock",
+  "entity_type": "moon",
+  "aliases": [
+    "The Attlerock"
+  ],
+  "categories": [
+    "Locations",
+    "Locations on the Attlerock",
+    "Moons"
+  ],
+  "tags": [
+    "timber_hearth",
+    "early_game"
+  ],
+  "summary": "The Attlerock is the only natural satellite of Timber Hearth. It is largely barren and cratered, hosts the Hearthian traveler Esker at the Lunar Outpost, and contains the first Eye Signal Locator the player encounters.",
+  "facts": {
+    "biology": [
+      "The Attlerock has a gravity of approximately 0.3 g at the equator and 0.4 g at the poles.",
+      "The Attlerock's surface is almost entirely barren and mostly level except where pocked with deep craters.",
+      "The Attlerock's core composition is liquid water (H2O)."
+    ],
+    "behavior": [],
+    "location": [
+      "The Attlerock is the only natural satellite of Timber Hearth.",
+      "The Attlerock orbits Timber Hearth.",
+      "The Lunar Outpost is a small forested camp on the Attlerock where Esker lives.",
+      "The Lunar Outpost contains a wooden lodge, a campfire that can be used to roast marshmallows, and trees that refill the player's oxygen supply.",
+      "The Lunar Lookout is located at the Attlerock's north pole, not far from the Lunar Outpost.",
+      "The Lunar Lookout consists of a set of platforms set in the north pole crater, the last of which has a lamp and a notepad.",
+      "The Eye Signal Locator is a large Nomai device on the Attlerock used to locate signals.",
+      "A large impact crater on the dark side of the Attlerock contains shards of otherworldly ice, a lantern, Hearthian tools, and a recording from Chert."
+    ],
+    "lore": [
+      "The Lunar Outpost previously served as a pit-stop for Hearthians making their first space flight during the space program's earlier days.",
+      "Esker used the Lunar Lookout's signalscope to monitor the solar system, track other travelers, and listen to conversations on Timber Hearth.",
+      "Esker admits to occasionally shooting little scouts at the village to feel less lonely.",
+      "Esker's notes on the spacefaring Hearthians' instruments help direct the player toward Riebeck and Feldspar.",
+      "The Attlerock holds the first and most simple of the Nomai's Eye Signal Locators, attempted to pinpoint the location of the Eye of the Universe.",
+      "Nomai writing on the Eye Signal Locator's lower level provides directions to the second Eye Signal Locator at the Southern Observatory on Brittle Hollow.",
+      "Chert hypothesizes that a fifth ice planet once existed in the solar system before imploding from an infectious seed, becoming what is now Dark Bramble.",
+      "Chert hypothesizes that the Attlerock's large impact crater was formed by a fragment of the former ice planet sent hurtling after Dark Bramble's implosion.",
+      "Chert hypothesizes that similar ice shards from the former planet may be found on other astral bodies in the solar system."
+    ],
+    "mechanics": [
+      "The Eye Signal Locator on the Attlerock has four settings: Sun, Giant's Deep, Brittle Hollow, and Eye of the Universe.",
+      "When the Eye Signal Locator is set to Sun, Giant's Deep, or Brittle Hollow, the outer rings align successfully and the player can listen to the respective signal.",
+      "When the Eye Signal Locator is set to the Eye of the Universe, it rotates randomly and never settles on a location.",
+      "It is possible to fly from Timber Hearth's surface to the Attlerock using only the spacesuit (without the spaceship), and back.",
+      "Picking up the tin of expired marshmallows at Esker's house causes all marshmallows for the remainder of the loop to be green and moldy.",
+      "Eating one of the expired marshmallows causes all characters' heads to become enlarged for the remainder of the loop, including The Stranger's Inhabitants, Solanum, the Travelers, and the Prisoner.",
+      "There is an achievement for launching Mica's model rocket from Timber Hearth and successfully landing it on the Attlerock."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Timber Hearth",
+      "relation": "orbits"
+    },
+    {
+      "entity": "Esker",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Riebeck",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Chert",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Attlerock",
+    "url": "https://outerwilds.fandom.com/wiki/Attlerock",
+    "fetched_at": "2026-05-28T10:50:53",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

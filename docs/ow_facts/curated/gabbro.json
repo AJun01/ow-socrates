@@ -1,0 +1,183 @@
+{
+  "entity": "Gabbro",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians",
+    "Outer Wilds Ventures Members",
+    "Travelers"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "travelers",
+    "giants_deep",
+    "time_loop"
+  ],
+  "summary": "Gabbro is a Hearthian astronaut camped on an island on Giant's Deep, and the only Hearthian besides the Protagonist who remembers the 22-minute time loop. They play the flute and teach the Protagonist meditation, which can be used to end the current loop early.",
+  "facts": {
+    "biology": [
+      "Gabbro is a Hearthian.",
+      "Gabbro plays the flute."
+    ],
+    "behavior": [
+      "Gabbro is friendly toward the Protagonist and displays a casual, laid-back attitude.",
+      "Gabbro is competent and clever regarding quantum mechanics and the time loop, despite their relaxed demeanor.",
+      "Gabbro responds to repeated death calmly and takes new experiences in stride.",
+      "Gabbro stares at cyclones long enough to be hypnotized into a trance.",
+      "Gabbro radios Hornfels about their experiences but Hornfels dismisses Gabbro's reports as confusion or dreams.",
+      "Gabbro pretends there is signal interference and tunes out when Hornfels talks too long.",
+      "Gabbro waits at their camp during the Eye of the Universe ending until the Protagonist gathers all other travelers.",
+      "Gabbro encourages the Protagonist to take time and not rush, both in-loop and during the final ending sequence."
+    ],
+    "location": [
+      "Gabbro is located at their camp on Gabbro's Island on Giant's Deep.",
+      "Gabbro's spaceship is floating in the water near the cyclone around Giant's Deep's north pole.",
+      "Gabbro's camp has a campfire that the Protagonist can freely use to roast marshmallows.",
+      "Hornfels sent Gabbro to check the Deep Space Satellite at one point; Gabbro's log recording is found near the satellite."
+    ],
+    "lore": [
+      "Gabbro is a member of Outer Wilds Ventures.",
+      "Gabbro is one of the Hearthian travelers.",
+      "Gabbro found multiple Nomai Statues on Giant's Deep.",
+      "Gabbro brought the first intact Nomai Statue from Statue Island to the Observatory on Timber Hearth.",
+      "Gabbro chipped the Nomai Statue while hauling it back to Timber Hearth; Slate later incorporated the chipped fragment into the ship's computer.",
+      "On the beach of Statue Island, Gabbro's Nomai Statue activated and glowed, replaying Gabbro's recent memories.",
+      "Gabbro paired with the Nomai Statue during the same loop as the Protagonist.",
+      "Gabbro and the Protagonist are the only beings aware of the time loop because they were the closest creatures to two Nomai Statues at the moment of pairing.",
+      "Gabbro started remembering loops at loop 9,318,054 — the same loop the Protagonist starts remembering.",
+      "Gabbro's theory: 'no glowing statue, no time loop awareness.'",
+      "Gabbro hypothesizes that perhaps only consciousnesses experience the loops, while bodies technically have not — because the loops never happen.",
+      "Gabbro told Spinel about being unable to reach the core of Giant's Deep during their first visit there.",
+      "Gabbro's flute sound is very airy and quietly pitched, making it hard to hear even with the Signalscope.",
+      "Gabbro's flute was made by Gneiss, as were all the Hearthian travelers' instruments.",
+      "Esker remarks that Gabbro never visits the Attlerock, saying simply 'Gabbro is Gabbro.'",
+      "Hal asks the Protagonist to say hi to Gabbro for them if they meet.",
+      "Hal hopes someone tells Gabbro or Riebeck that the Nomai Statue at the museum has opened its eyes.",
+      "Hornfels considers Gabbro 'our resident expert in leisurely whiling away the hours.'",
+      "Hornfels recorded Gabbro's '3 Foolproof Steps for Dozing Off' in notes near the Radio Tower.",
+      "Hornfels remarks that Gabbro deliberately burns their marshmallows.",
+      "Gabbro wrote a quantum poem in the Quantum Grove on Timber Hearth that works out to be 24 poems when read in different observation orders.",
+      "Gabbro plans to make more quantum art, including a creature sculpture that appears and startles observers.",
+      "The Museum Shard placard mentions Gabbro's theory that the shard 'exists in all possible states until it is observed.'",
+      "Most Hearthians dismiss Gabbro's quantum theory about the Museum Shard as an optical illusion, though they agree it is creepy.",
+      "Gabbro found nothing wrong with the Deep Space Satellite when Hornfels sent them to investigate.",
+      "Gabbro nicknames the Deep Space Satellite 'Ol' Spacey.'",
+      "Gabbro told the Deep Space Satellite that it was doing a great job during their inspection.",
+      "Gabbro mused that they would not mind floating endlessly and napping in the velvety darkness among the stars.",
+      "The radio tower on Timber Hearth contains a photo of Gabbro from when Hornfels sent them to check the Deep Space Satellite.",
+      "If asked about the Orbital Probe Cannon's destruction by excess power, Gabbro notes it sounds like something Slate or Feldspar would do.",
+      "Gabbro considers it 'wild' upon learning that the Nomai built the time loop device inside Ash Twin's core."
+    ],
+    "mechanics": [
+      "Selecting Gabbro's 'How do you stay so calm in the face of repeated impending death?' dialogue option teaches the Protagonist how to meditate.",
+      "The meditation dialogue option is unlocked on the third loop and requires having spoken to Gabbro in a prior loop.",
+      "Meditating ends the current loop early and adds the meditation option to the pause menu.",
+      "Gabbro's first-loop dialogue is unique because they have not yet experienced death.",
+      "Gabbro's second-loop dialogue is unique because they have radioed Hornfels about dying.",
+      "On the third loop and later, Gabbro recognizes the time loop and discusses theories with the Protagonist.",
+      "Gabbro hints at Statue Island as a place to explore: it is the island with two pieces connected by a natural rock arch.",
+      "Gabbro warns that if a cyclone picks up the player on Giant's Deep, landing in water is less likely to kill them than landing on land.",
+      "Gabbro mentions that a strong current beneath Giant's Deep's surface prevents anything from sinking below it, and they could not find a way past it.",
+      "Gabbro mentions seeing a bright flash in the sky at the start of every loop, hinting at the Orbital Probe Cannon's destruction in orbit."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Giant's Deep",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Gabbro's Island",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Travelers",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Statue Island",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Slate",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gneiss",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Spinel",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Esker",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Hal",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Riebeck",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Gabbro",
+    "url": "https://outerwilds.fandom.com/wiki/Gabbro",
+    "fetched_at": "2026-05-28T10:51:24",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "entity": "Annona",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "warp",
+    "ember_twin"
+  ],
+  "summary": "Annona was a male Nomai bridge officer on Escall's Vessel and the original creator of Warp Core technology. He landed on Ember Twin with Escape Pod 2 after the crash, helped found the Sunless City, took Poke as his apprentice, and passed on his warp-core designs before his death.",
+  "facts": {
+    "biology": [
+      "Annona is a Nomai.",
+      "Annona is male."
+    ],
+    "behavior": [],
+    "location": [
+      "Annona was a bridge officer on Escall's Vessel.",
+      "Annona landed on Ember Twin with Escape Pod 2 after the Vessel crashed."
+    ],
+    "lore": [
+      "Annona was the original creator of the Warp Core technology.",
+      "Annona's advanced warp core designs were shared at Nomai festivals so all Nomai clans could warp long distances.",
+      "Annona served alongside Filix as a bridge officer on Escall's Vessel.",
+      "When the Vessel received the Eye's signal, Annona warned Escall the warp would be significant and the core would need time to recharge.",
+      "Annona and Filix checked the warp core and navigation systems before warping; both functioned properly.",
+      "After landing on Ember Twin, Annona agreed with Melorae that the survivors should build long-term shelter in the cave system.",
+      "Annona endorsed Melorae's chosen cavern as the site for the Sunless City.",
+      "Annona helped build a Quantum Moon Locator and observed the Moon's quantum properties.",
+      "Annona confirmed the Quantum Moon orbits multiple planets including Brittle Hollow and Timber Hearth.",
+      "Annona hypothesized the Quantum Moon was a form of macroscopic quantum mechanics due to its reluctance to move while consciously observed.",
+      "Annona participated in the search for the young Coleus when he got lost in a cave on Ember Twin's north pole.",
+      "Annona took Poke as his apprentice; Poke was a Nomai born in this solar system.",
+      "Annona explained many of his warp core designs to Poke before his death.",
+      "Annona's teachings allowed Poke to recreate his warp technology after his death."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ember Twin",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Escape Pods",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Escall",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Filix",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Melorae",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Annona",
+    "url": "https://outerwilds.fandom.com/wiki/Annona",
+    "fetched_at": "2026-05-28T10:51:47",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

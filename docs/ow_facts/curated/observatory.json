@@ -1,0 +1,149 @@
+{
+  "entity": "Observatory",
+  "entity_type": "location",
+  "aliases": [
+    "The Observatory"
+  ],
+  "categories": [
+    "Locations on Timber Hearth"
+  ],
+  "tags": [
+    "timber_hearth",
+    "early_game"
+  ],
+  "summary": "The Observatory is the Hearthian museum and scientific research station in The Village on Timber Hearth. It houses Outer Wilds Ventures' research artifacts, the active Nomai Statue, and serves as the launch-day briefing center where the player obtains the launch codes from Hornfels.",
+  "facts": {
+    "biology": [],
+    "behavior": [],
+    "location": [
+      "The Observatory is located in The Village on Timber Hearth.",
+      "The Observatory has approximately 1.0 g gravity (Timber Hearth surface).",
+      "The Observatory has two regular inhabitants: Hornfels and Hal.",
+      "The telescope room is a circular room at the top of the Observatory containing the telescope, astronomical clock, and observational notes.",
+      "The Observatory's telescope room is where Hornfels is found during the first loop.",
+      "An astronomical clock at the center of the telescope room can be used to open the solar system map.",
+      "A quantum version of the Observatory appears at the Eye of the Universe during the ending, containing many of the discoveries the player has made.",
+      "The museum contains a photo of the Outer Wilds Ventures founding members (Feldspar, Gossan, Slate, Hornfels) — Esker is signed but not pictured.",
+      "The museum contains the active Nomai Statue brought back by Gabbro from Giant's Deep.",
+      "The museum contains a piece of wall from the Attlerock used to demonstrate the Translation tool.",
+      "The museum contains Nomai pottery and a Nomai skeleton.",
+      "The museum contains a Little Scout with its warp core.",
+      "The museum contains a gravity crystal to demonstrate wallwalking.",
+      "The museum contains pictures of interesting parts of the solar system, including an intact Orbital Probe Cannon.",
+      "The museum contains an imprisoned baby Anglerfish in a containment chamber.",
+      "The museum contains models showing the life cycle of a main sequence star, preparing the player for the supernova.",
+      "The museum contains a small garden housing the Museum Quantum Shard.",
+      "The Museum Quantum Shard demonstrates how to track Quantum Shards with the Signalscope.",
+      "The museum contains a flat pool with round balls that demonstrate the Attlerock tidal effect and the game's N-body gravity simulation."
+    ],
+    "lore": [
+      "Hornfels is the curator of the Observatory.",
+      "The Attlerock wall piece in the museum was essential to deciphering the Nomai language, according to Hornfels' notes.",
+      "The Attlerock wall fragment was authored by Cassava and Filix during their Eye Signal Locator construction.",
+      "The Attlerock wall fragment was the first Nomai writing the Hearthians used to demonstrate that Nomai text branches from a central point, with each branch typically written by a different author.",
+      "The Outer Wilds Ventures founders' photo caption identifies them clockwise from top left: Hornfels (Control), Gossan (Flight Instructor), Slate (Engineer), and Feldspar (The First Pilot)."
+    ],
+    "mechanics": [
+      "Entering the Observatory is required on the first loop to receive the launch codes from Hornfels.",
+      "Players obtain the launch codes from Hornfels in the telescope room before being able to leave the launch tower."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Timber Hearth",
+      "relation": "located_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Launch codes",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Translation tool",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hal",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Filix",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gossan",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Slate",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Esker",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Observatory",
+    "url": "https://outerwilds.fandom.com/wiki/Observatory",
+    "fetched_at": "2026-05-28T10:50:55",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

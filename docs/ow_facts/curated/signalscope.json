@@ -1,0 +1,83 @@
+{
+  "entity": "Signalscope",
+  "entity_type": "technology",
+  "aliases": [],
+  "categories": [
+    "Gameplay"
+  ],
+  "tags": [
+    "early_game",
+    "exploration",
+    "navigation"
+  ],
+  "summary": "The Signalscope is a Hearthian utility-belt tool combining a telescope and a signal receiver. It can detect, identify, and locate audio signals from anywhere in the solar system, making it the player's primary instrument for finding hidden objects, characters, and quantum phenomena.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "The Signalscope's telescope has flexible amplification from no zoom up to 7x.",
+      "The Signalscope can detect signals from any place in the solar system regardless of distance.",
+      "While the telescope is in use, the player cannot walk or use the jetpack.",
+      "Two signals on the same frequency that fall in the same listening cone are superposed and sound like a single combined source."
+    ],
+    "location": [],
+    "lore": [
+      "The Signalscope is part of the Hearthian utility belt that the protagonist carries.",
+      "The Signalscope ships out of the box already tuned to the Outer Wilds Ventures frequency.",
+      "An unused 'White Hole' sixth frequency exists in the game files but does not respond to anything in normal play."
+    ],
+    "mechanics": [
+      "The Signalscope can name a signal source once the player gets close enough to discover what is producing it.",
+      "Discovered signals are remembered across time loops, making the Signalscope useful for pinpointing previously found objects of interest.",
+      "Using maximum amplification helps localize a signal not just to which planet but to where on the planet it is being broadcast.",
+      "Known frequencies are: Outer Wilds Ventures, Quantum Fluctuations, Distress Beacon, Hide and Seek, and Deep Space Radio.",
+      "The Hide and Seek frequency only activates after talking to Tephra and starting the hide-and-seek minigame.",
+      "Listening to the Outer Wilds Ventures frequency from far outside the solar system superposes all Travelers' instruments into one combined sound."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Travelers",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tephra",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Escape Pods",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Deep Space Satellite",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spacesuit",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Signalscope",
+    "url": "https://outerwilds.fandom.com/wiki/Signalscope",
+    "fetched_at": "2026-05-28T10:51:15",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

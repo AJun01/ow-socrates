@@ -1,0 +1,45 @@
+{
+  "entity": "Star System",
+  "entity_type": "celestial_body",
+  "aliases": [
+    "Solar System",
+    "Outer Wilds"
+  ],
+  "categories": [
+    "Outer Wilds",
+    "Locations"
+  ],
+  "tags": [
+    "overview",
+    "redirect_stub"
+  ],
+  "summary": "Star System is an alternate wiki name for the Solar System (also called the Outer Wilds), the in-game star system that contains nearly every location in the game. Full facts are recorded under solar_system.json.",
+  "facts": {
+    "biology": [],
+    "behavior": [],
+    "location": [
+      "Star System refers to the same in-game location as the Solar System.",
+      "Full facts about the Solar System are recorded in solar_system.json."
+    ],
+    "lore": [],
+    "mechanics": []
+  },
+  "see_also": [
+    "solar_system"
+  ],
+  "related_entities": [
+    {
+      "entity": "Solar System",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Star System",
+    "url": "https://outerwilds.fandom.com/wiki/Star_System",
+    "fetched_at": "2026-05-28T10:50:52",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high",
+    "is_redirect_stub": true
+  }
+}

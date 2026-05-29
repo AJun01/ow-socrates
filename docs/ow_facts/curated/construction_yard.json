@@ -1,0 +1,109 @@
+{
+  "entity": "Construction Yard",
+  "entity_type": "location",
+  "aliases": [],
+  "categories": [
+    "Locations on Giant's Deep"
+  ],
+  "tags": [
+    "giants_deep",
+    "nomai_history",
+    "orbital_probe_cannon"
+  ],
+  "summary": "The Construction Yard is a Nomai island on Giant's Deep where the Orbital Probe Cannon was assembled. The Nomai used Giant's Deep's natural cyclones to lift cannon components into orbit; after the Sun Station failed, the cannon was placed on indefinite hiatus.",
+  "facts": {
+    "biology": [],
+    "behavior": [],
+    "location": [
+      "The Construction Yard is an island on Giant's Deep.",
+      "The Construction Yard consists of multiple connected ringed walkways equipped with gravity panels for traversal between stations.",
+      "The outskirts of the island contain a gravity pad designed for parking the ship.",
+      "The outskirts of the island also contain cyclone shelters intended to protect against the island being thrown into orbit by a cyclone.",
+      "The Construction Yard has a gravity of approximately 2 g.",
+      "Nomai writing scattered across the Construction Yard documents the construction history of the Orbital Probe Cannon."
+    ],
+    "lore": [
+      "The Construction Yard is the island where the Nomai built the Orbital Probe Cannon.",
+      "The Nomai built the cannon components on the island and then used the planet's natural cyclones to lift them into orbit for assembly.",
+      "Cassava, Conoy, and Daz were lifting cannon components into orbit when one of them sank below the planet's current to the core — something previously thought impossible.",
+      "Spire constructed a model of Giant's Deep at the Southern Observatory on Brittle Hollow to investigate how an object could pass through the current.",
+      "Daz set the cannon's maximum power setting lower than its absolute maximum, anticipating that Mallow and Avens would push it to the limit.",
+      "Cassava completed building the final Orbital Probe Cannon module and led the assembly effort.",
+      "Privet was assigned to install the probe tracking system on the cannon.",
+      "Mallow and Avens were romantic partners; both worked on the Orbital Probe Cannon crew.",
+      "Cassava and Daz were romantic partners; both worked at the Construction Yard.",
+      "After the Sun Station failed and the cannon was put on hiatus, Privet left the Construction Yard to visit her brother Idaea, fearing Idaea would feel responsible for the failure.",
+      "After the Sun Station failed to induce a supernova, the Orbital Probe Cannon was placed on indefinite hiatus.",
+      "The Nomai never asked the Orbital Probe Cannon to fire during their lifetimes."
+    ],
+    "mechanics": [
+      "According to a Nomai computer on the Construction Yard, a long-range probe was recently launched from the Orbital Probe Cannon."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Giant's Deep",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Daz",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Conoy",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Spire",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Mallow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Avens",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Privet",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Idaea",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Construction Yard",
+    "url": "https://outerwilds.fandom.com/wiki/Construction_Yard",
+    "fetched_at": "2026-05-28T10:51:02",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

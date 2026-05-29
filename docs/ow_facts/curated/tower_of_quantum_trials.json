@@ -1,0 +1,90 @@
+{
+  "entity": "Tower of Quantum Trials",
+  "entity_type": "location",
+  "aliases": [],
+  "categories": [
+    "Locations"
+  ],
+  "tags": [
+    "giants_deep",
+    "quantum",
+    "nomai_history"
+  ],
+  "summary": "The Tower of Quantum Trials is a stationary Nomai island on Giant's Deep that teaches the rule of Quantum Imaging. It is a key step on the Nomai's Quantum Pilgrimage and houses the Island Shard, one of the five Quantum Shards.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "The Tower of Quantum Trials sits at the North Pole of Giant's Deep, hidden inside a permanent stationary cyclone.",
+      "The cyclone winds around the Tower are impassable.",
+      "The Tower has 2x normal gravity."
+    ],
+    "location": [
+      "The Tower of Quantum Trials is located on Giant's Deep.",
+      "The Tower can only be entered from above the cloud layer or from below via the ocean depths.",
+      "The Tower contains the Island Shard, one of the five Quantum Shards.",
+      "The Island Shard emits the Quantum Fluctuations frequency detectable by the Signalscope.",
+      "The Tower is entered from the top floor; each passed trial unlocks passage down to the next floor.",
+      "Empty floors containing the Island Shard sit between trial rooms."
+    ],
+    "lore": [
+      "The Tower of Quantum Trials is a key step on the Nomai's Quantum Pilgrimage.",
+      "Solanum prepared at the Tower of Quantum Trials before continuing her pilgrimage at the Tower of Quantum Knowledge on Brittle Hollow.",
+      "The Tower's entrance text instructs visitors to enter without friends, because these are lessons to learn for oneself.",
+      "The Tower's first trial is 'Seek the wandering arch.'",
+      "The Tower's second trial teaches: observing a quantum object and observing an image of a quantum object are the same.",
+      "The Tower's third trial reads 'The arch and the crystal do not naturally meet.'",
+      "The Tower's fourth and final trial is the hardest variant of the rule.",
+      "The Tower's final room reminds the pilgrim that the other Quantum Shards have other lessons to teach."
+    ],
+    "mechanics": [
+      "The Tower's puzzles teach 'Quantum Imaging': the rule that observing an image of a quantum object is equivalent to observing the object itself.",
+      "Trial puzzles require using the Scout Launcher to lock quantum objects in place by taking and observing photos of them."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Giant's Deep",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tower of Quantum Knowledge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shrine",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Tower of Quantum Trials",
+    "url": "https://outerwilds.fandom.com/wiki/Tower_of_Quantum_Trials",
+    "fetched_at": "2026-05-28T10:51:04",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

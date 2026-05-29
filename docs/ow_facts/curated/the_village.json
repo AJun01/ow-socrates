@@ -1,0 +1,96 @@
+{
+  "entity": "The Village",
+  "entity_type": "location",
+  "aliases": [
+    "Village"
+  ],
+  "categories": [
+    "Locations on Timber Hearth",
+    "Locations"
+  ],
+  "tags": [
+    "timber_hearth",
+    "early_game",
+    "tutorial"
+  ],
+  "summary": "The Village is the only Hearthian settlement in the solar system, located in a large crater on Timber Hearth. It is where the player wakes up at the start of every loop and serves as the tutorial area introducing core gameplay concepts.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "The Village has 1.0g gravity.",
+      "The Village experiences constant geyser eruptions caused by thermal vents forcing water up from submerged caverns."
+    ],
+    "location": [
+      "The Village resides within a large crater on Timber Hearth.",
+      "The Village was built in an area with heavy geyser activity.",
+      "The Village contains the Campfire, Launch Tower, Ghost Matter Field, Remote Control Model Ship, Observatory, Zero-G Cave, and Postcards From Orbit exhibit."
+    ],
+    "lore": [
+      "The Village is the only Hearthian settlement in the solar system.",
+      "The Campfire is where the player wakes up at the start of every loop.",
+      "Slate is at the Campfire at the start of every loop, offering marshmallows and conversation."
+    ],
+    "mechanics": [
+      "Launch codes for the lift to the player's spaceship must initially be acquired from Hornfels at the Observatory.",
+      "Once acquired, the launch codes are retained across loops, allowing immediate lift access on every subsequent loop.",
+      "The Ghost Matter Field at the Village teaches that Ghost Matter is lethal and invisible to the naked eye but visible through the Scout's probe camera.",
+      "The Remote Control Model Ship is a scaled replica of the spaceship that controls identically to the real ship without risk to the player.",
+      "The Zero-G Cave teaches navigation in zero gravity, lock-on targeting, orientation, and equipment repair.",
+      "The Postcards From Orbit exhibit lets the player remotely take photos of Timber Hearth from a satellite camera."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Timber Hearth",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Launch Tower",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Spaceship",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Launch Codes",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Slate",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hearthian Satellite",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "The Village",
+    "url": "https://outerwilds.fandom.com/wiki/The_Village",
+    "fetched_at": "2026-05-28T10:50:54",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

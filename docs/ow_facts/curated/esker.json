@@ -1,0 +1,142 @@
+{
+  "entity": "Esker",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians",
+    "Outer Wilds Ventures Members",
+    "Travelers"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "travelers",
+    "early_game"
+  ],
+  "summary": "Esker is one of the first Hearthian astronauts, stationed alone at the Lunar Outpost on the Attlerock. They keep watch over the solar system and occasionally fire Little Scouts at The Village to feel less lonely. The first traveler the player encounters in the epilogue.",
+  "facts": {
+    "biology": [
+      "Esker is a Hearthian.",
+      "Esker is one of the first Hearthian astronauts."
+    ],
+    "behavior": [
+      "Esker is lonely and repeatedly asks the player to stay with them by the fire.",
+      "Esker occasionally fires Little Scouts at The Village on Timber Hearth.",
+      "Esker becomes defensive and then sheepish when asked if they spy on the village, referring to the act as 'one-way communication' instead.",
+      "Esker is the first spacefaring Hearthian to appear during the Eye of the Universe ending's epilogue.",
+      "Esker raises saplings from Timber Hearth at the Lunar Outpost.",
+      "Esker is in radio contact with ground control (mostly Hornfels and Gossan)."
+    ],
+    "location": [
+      "Esker is located at the Lunar Outpost on the Attlerock.",
+      "Esker's signalscope position at the Attlerock's north pole provides the best signal reception on the moon."
+    ],
+    "lore": [
+      "Esker is a member of Outer Wilds Ventures.",
+      "Esker is one of the Hearthian travelers.",
+      "Esker used to run the Lunar Outpost when it was needed for frequent ship repairs, but visitors became rare as the space program improved.",
+      "Esker no longer gets visitors because the modern ships do not crash often enough to need pit-stop repairs.",
+      "Chert occasionally visits Esker at the Attlerock.",
+      "Gabbro never visits Esker due to Gabbro's relaxed nature.",
+      "Riebeck never visits Esker due to disliking unnecessary spaceflight.",
+      "Marl is one of the few villagers who remembers Esker, and Esker plans to visit Marl again.",
+      "Esker uses their Little Scout to check on Marl from the Attlerock to ensure Marl isn't doing anything reckless.",
+      "Esker whistles audibly enough that the player can pick up the sound on a signalscope, unlike other travelers who carry instruments.",
+      "Esker's signature appears on the Outer Wilds Ventures founders' group photo in the Observatory, though Esker is not among the four founders pictured.",
+      "Esker may have been the photographer who took the founders' group photo, given the signature.",
+      "Esker's signalscope log records uneasiness about hearing Feldspar's harmonica from Timber Hearth, since Feldspar disappeared long ago.",
+      "Esker considered consulting Gneiss about whether their signalscope was broken due to the impossible harmonica signal.",
+      "Hornfels describes Esker as more a lunar local than a traveler.",
+      "Porphy hopes to teach Esker to tap trees for lunar sap to make 'moon wine' on their next return.",
+      "Marl asks the Protagonist to say hi to Esker for them.",
+      "The log entry for Esker's Camp notes that Esker seems okay but has probably been alone on the Attlerock for too long."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Attlerock",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Travelers",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gossan",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Marl",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Porphy",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Chert",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Riebeck",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gneiss",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Village",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Esker",
+    "url": "https://outerwilds.fandom.com/wiki/Esker",
+    "fetched_at": "2026-05-28T10:51:26",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

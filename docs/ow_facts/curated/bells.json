@@ -1,0 +1,68 @@
+{
+  "entity": "Bells",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "quantum",
+    "brittle_hollow"
+  ],
+  "summary": "Bells was a Nomai on Brittle Hollow who guided Nomai pilgrims on their Quantum Moon pilgrimage at the Tower of Quantum Knowledge. Bells guided Solanum's preparation and taught her the rule of the Sixth Location.",
+  "facts": {
+    "biology": [
+      "Bells is a Nomai.",
+      "Bells's gender is unknown."
+    ],
+    "behavior": [],
+    "location": [
+      "Bells was located at the Tower of Quantum Knowledge on Brittle Hollow.",
+      "Bells's notes for pilgrims can be found throughout the Tower of Quantum Knowledge."
+    ],
+    "lore": [
+      "Bells guided Nomai pilgrims on their Quantum Moon pilgrimage.",
+      "Bells guided Solanum's final preparation for her first Quantum Moon pilgrimage.",
+      "Bells's pilgrimage philosophy: 'We make this journey not only for ourselves, but also to honor the members of our clan who came before us.'",
+      "Bells taught Solanum the final quantum rule, the rule of the Sixth Location.",
+      "Bells's rule of the Sixth Location: to reach it, the Quantum Shrine must be at the Moon's north pole."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Tower of Quantum Knowledge",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shrine",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Bells",
+    "url": "https://outerwilds.fandom.com/wiki/Bells",
+    "fetched_at": "2026-05-28T10:51:48",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

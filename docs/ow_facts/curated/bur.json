@@ -1,0 +1,59 @@
+{
+  "entity": "Bur",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": ["Characters", "Nomai"],
+  "tags": ["nomai_history", "ember_twin", "quantum"],
+
+  "summary": "Bur was a Nomai from the Vessel who landed on Ember Twin with Escape Pod 2 and settled in the Sunless City. Bur was an admirer of the Quantum Moon, helped build the Quantum Moon Locator, and was the first to notice the Locator sometimes failed to find the Moon — hinting at the Sixth Location.",
+
+  "facts": {
+    "biology": [
+      "Bur is a Nomai.",
+      "Bur's gender is unknown."
+    ],
+
+    "behavior": [
+      "Bur admired the Quantum Moon and wondered where it goes when not orbiting Ember Twin."
+    ],
+
+    "location": [
+      "Bur landed on Ember Twin with Escape Pod 2.",
+      "Bur lived in the Sunless City on Ember Twin."
+    ],
+
+    "lore": [
+      "After landing, Bur listened for the other escape pods' distress signals and located both somewhere in the star system, but not on Ember Twin.",
+      "Bur joined Melorae as a fellow admirer of the Quantum Moon.",
+      "Bur helped build the Quantum Moon Locator.",
+      "Bur first noticed that the Quantum Moon Locator sometimes could not tell where the Moon was.",
+      "Bur initially attributed the Locator's inability to find the Moon to a possible device problem.",
+      "Bur's observation prompted Melorae to propose the Sixth Location hypothesis.",
+      "Bur traveled from the Sunless City to help Melorae search for the missing young Coleus."
+    ],
+
+    "mechanics": []
+  },
+
+  "related_entities": [
+    {"entity": "Nomai", "relation": "member_of"},
+    {"entity": "Ember Twin", "relation": "lives_in"},
+    {"entity": "Sunless City", "relation": "lives_in"},
+    {"entity": "The Vessel", "relation": "related_to"},
+    {"entity": "Escape Pods", "relation": "related_to"},
+    {"entity": "Quantum Moon", "relation": "related_to"},
+    {"entity": "Eye of the Universe", "relation": "related_to"},
+    {"entity": "Annona", "relation": "mentioned_by"},
+    {"entity": "Melorae", "relation": "mentioned_by"},
+    {"entity": "Coleus", "relation": "mentioned_by"}
+  ],
+
+  "source": {
+    "page": "Bur",
+    "url": "https://outerwilds.fandom.com/wiki/Bur",
+    "fetched_at": "2026-05-28T10:51:50",
+    "audited_by_human": false,
+    "audit_date": null,
+    "confidence": "high"
+  }
+}

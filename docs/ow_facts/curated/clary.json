@@ -1,0 +1,77 @@
+{
+  "entity": "Clary",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": ["Characters", "Nomai", "Ash Twin Project Members"],
+  "tags": ["nomai_history", "ash_twin_project", "interloper", "warp"],
+
+  "summary": "Clary was a female Nomai who worked alongside Poke and Root in the Black Hole Forge on Brittle Hollow. She was Poke's sister and Yarrow's romantic partner, and co-discovered warp travel's negative time interval. She died on the Interloper, waiting in the shuttle while Poke and Pye descended.",
+
+  "facts": {
+    "biology": [
+      "Clary is a Nomai.",
+      "Clary is female."
+    ],
+
+    "behavior": [
+      "Clary enjoys precision but said her precision did not match Poke's.",
+      "Clary mediated between Poke and Cassava during their frequent arguments."
+    ],
+
+    "location": [
+      "Clary worked in the Black Hole Forge on Brittle Hollow with Poke and Root.",
+      "Clary's corpse can be found inside the shuttle on the Interloper."
+    ],
+
+    "lore": [
+      "Clary was the sister of Poke.",
+      "Clary was the romantic partner of Yarrow.",
+      "Clary recreated warp travel with Poke and Root after building a warp platform on White Hole Station.",
+      "Clary made the first successful warp from White Hole Station to Brittle Hollow.",
+      "Clary helped Poke verify the negative time interval by testing the equipment repeatedly with the same result.",
+      "Clary posited that Poke could recreate Annona's advanced warp core because Poke had been Annona's apprentice.",
+      "Clary started crafting Ash Twin Tower warp cores with Poke and Root.",
+      "Yarrow first asked to meet Clary on White Hole Station to learn about the design; it was the start of their romantic relationship.",
+      "Poke teased Yarrow in writing for using a scroll wall to flirt with Clary and told him to just go meet her.",
+      "Poke described Clary's romantic density as rivaling a neutron star's.",
+      "Clary explained to Root that the black-hole cores should go to the warp towers on Ash Twin.",
+      "Clary clarified for Yarrow that the Hourglass Twins function as a single astral body with a shared alignment point because they are so close together.",
+      "Clary worried whether a warp tower's base shifting would break its alignment; Poke assured her alignment only needs to be within five degrees.",
+      "Clary told Yarrow the Advanced Warp Core was ready to install, overruling Poke's perfectionist objections.",
+      "Clary stayed behind in the shuttle on the Interloper to keep it warm and prevent it from freezing.",
+      "Poke and Pye descended into the Interloper's ice fissure to investigate strange energy readings.",
+      "Clary lost contact with Poke and Pye after they descended below the Interloper's surface.",
+      "Clary considered leaving the shuttle to look for Poke and Pye but tried to follow protocol.",
+      "Clary died in the shuttle when the Interloper's exotic-matter casing ruptured."
+    ],
+
+    "mechanics": []
+  },
+
+  "related_entities": [
+    {"entity": "Nomai", "relation": "member_of"},
+    {"entity": "Brittle Hollow", "relation": "lives_in"},
+    {"entity": "Black Hole Forge", "relation": "lives_in"},
+    {"entity": "Interloper", "relation": "appears_at"},
+    {"entity": "Ash Twin Project", "relation": "related_to"},
+    {"entity": "Warp Core", "relation": "built_by"},
+    {"entity": "Ash Twin Towers", "relation": "built_by"},
+    {"entity": "White Hole Station", "relation": "related_to"},
+    {"entity": "Poke", "relation": "related_to"},
+    {"entity": "Root", "relation": "related_to"},
+    {"entity": "Yarrow", "relation": "related_to"},
+    {"entity": "Pye", "relation": "related_to"},
+    {"entity": "Cassava", "relation": "mentioned_by"},
+    {"entity": "Annona", "relation": "mentioned_by"},
+    {"entity": "Ghost Matter", "relation": "related_to"}
+  ],
+
+  "source": {
+    "page": "Clary",
+    "url": "https://outerwilds.fandom.com/wiki/Clary",
+    "fetched_at": "2026-05-28T10:51:52",
+    "audited_by_human": false,
+    "audit_date": null,
+    "confidence": "high"
+  }
+}

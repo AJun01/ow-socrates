@@ -1,0 +1,172 @@
+{
+  "entity": "Chert",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians",
+    "Outer Wilds Ventures Members",
+    "Travelers"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "hourglass_twins",
+    "travelers"
+  ],
+  "summary": "Chert is a Hearthian astronaut and astronomer camped at the north pole of Ember Twin, tasked by Hornfels with updating the Hearthian star charts. Over the course of each loop Chert observes an abnormal rate of supernovae and grows progressively more distressed about what it implies for their own Sun.",
+  "facts": {
+    "biology": [
+      "Chert is a Hearthian.",
+      "Chert plays the drums."
+    ],
+    "behavior": [
+      "Chert is enthusiastic and optimistic about their work during the early portion of each loop (approximately 0 to 11 minutes).",
+      "Chert becomes nervous and confused during the middle portion of each loop (approximately 11 to 17 minutes) as more stars die.",
+      "Chert becomes panicked and despairing during the late portion of each loop (approximately 17 to 20.5 minutes).",
+      "Chert becomes calmly resigned during the pre-supernova music phase (after approximately 20.5 minutes), inviting the player to sit and watch the stars die together.",
+      "If told that the universe is dying based on modern Nomai transmissions, Chert becomes too distressed to engage in any further dialogue for the rest of the loop.",
+      "If told during the pre-supernova phase that the player is in a time loop, Chert finds comfort in the idea.",
+      "Chert is willing to investigate signs of the Sun's collapse if the player tells them the Sun is about to go supernova.",
+      "Chert remains seated at their camp during the loop and does not travel to other locations.",
+      "Chert continues drumming during the Eye of the Universe ending until all travelers have been gathered for the campfire song."
+    ],
+    "location": [
+      "Chert is located at their camp at the north pole of Ember Twin.",
+      "Chert's camp is filled with astronomy equipment.",
+      "Chert's camp is in a lakebed.",
+      "Chert has not left the lakebed during their entire stay on Ember Twin.",
+      "Chert's spaceship is parked on a plateau above their camp."
+    ],
+    "lore": [
+      "Chert is a member of Outer Wilds Ventures.",
+      "Chert is one of the Hearthian travelers exploring the solar system.",
+      "Chert was tasked by Hornfels with observing the galaxy and updating the Hearthians' star charts.",
+      "Hornfels noticed that the Hearthians' star charts were out of date, prompting Chert's mission.",
+      "Chert privately considers themselves the only traveler genuinely interested in scientific work.",
+      "Chert reports having seen an unusually high number of supernovae early in the loop, more than the normal rate of one per day.",
+      "Chert hypothesizes early in the loop that the stars going supernova are simply older than the Hearthians' models had predicted.",
+      "By the middle of the loop, Chert has observed more than ten supernovae and is alarmed.",
+      "Chert hypothesizes that either the Hearthians' star age models are wrong, or that the stars do not live as long as expected.",
+      "Chert observed the Quantum Moon orbiting each of the five planets, and sometimes vanishing from the sky entirely.",
+      "Chert hypothesizes that when the Quantum Moon disappears, it may travel to a sixth location they have not observed.",
+      "Chert is highly skilled with the Little Scout and has photographed the surroundings of their camp without leaving the lakebed.",
+      "Chert noted there are Nomai ruins across the Hourglass Twins but no Nomai settlements visible on the surface.",
+      "Chert hypothesizes the Nomai must have lived in the cave systems underground, given the absence of surface settlements.",
+      "Chert noticed an old Nomai shipwreck site on Ember Twin's southern hemisphere, shooting a bright beam of light into the sky.",
+      "Chert authored research notes about the Attlerock's main crater connecting it to a destroyed fifth ice planet.",
+      "Chert hypothesizes that a fifth ice planet once existed in the solar system, possibly partially or fully made of ice like a colder Giant's Deep.",
+      "Chert hypothesizes that Dark Bramble grew inside the fifth planet and destroyed it from the inside-out, scattering shards across the solar system.",
+      "Chert hypothesizes the Attlerock's largest crater was formed by an impact from one of the destroyed fifth planet's shards.",
+      "Chert hypothesizes that an additional planet far beyond the Hearthians' reach is plausible based on solar system physics.",
+      "Chert speculates about the Sun Station being a Nomai device in orbit around the Sun, designed to study it up close.",
+      "Chert wonders how the Nomai traveled between the Sun Station and the Hourglass Twins given the heat.",
+      "Chert detected a strange signal in Timber Hearth's Quantum Grove that closely resembles the Quantum Moon's signal.",
+      "Chert hypothesizes the Quantum Grove signal and the Quantum Moon signal are likely related.",
+      "Chert's drums were made by Gneiss, as were all the Hearthian travelers' instruments.",
+      "Esker observed that Chert sometimes visits the Attlerock, and noted listening to Chert play on Day 51 of Esker's signalscope log.",
+      "Hal mentions Chert brought back a partial Nomai statue from the Hourglass Twins.",
+      "Hornfels determined that Chert's recovered Nomai statue was made of the same stone Gabbro later found on Giant's Deep.",
+      "Feldspar comments that Chert will eagerly discuss the destroyed fifth planet at any prompt mentioning Dark Bramble.",
+      "Chert's log entry at their camp describes them as 'nearly catatonic' during their late-loop panic state."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Hourglass Twins",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Travelers",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Esker",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Hal",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gneiss",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Attlerock",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Chert",
+    "url": "https://outerwilds.fandom.com/wiki/Chert",
+    "fetched_at": "2026-05-28T10:51:25",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

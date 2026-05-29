@@ -1,0 +1,66 @@
+{
+  "entity": "Bromi",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Nomai",
+    "Characters"
+  ],
+  "tags": [
+    "nomai_history",
+    "modern_nomai"
+  ],
+  "summary": "Bromi is a modern Nomai whose Vessel is traveling to the Gloaming Galaxy to join Canna's clan. As a child, Bromi's grandfather told them the tale of the Disappearance of Escall, which Bromi long considered a myth until Hyssop confirmed it.",
+  "facts": {
+    "biology": [
+      "Bromi is a Nomai.",
+      "Bromi's gender is unknown."
+    ],
+    "behavior": [],
+    "location": [
+      "Bromi's clan's Vessel is making its way to the Gloaming Galaxy to join Canna's clan."
+    ],
+    "lore": [
+      "Bromi is a modern Nomai, contemporary with Canna and Hyssop's clans.",
+      "Bromi accepted Canna's invitation for all Nomai clans to gather in the Gloaming Galaxy as the universe dies.",
+      "Bromi's grandfather used to tell them the Disappearance of Escall as a childhood myth.",
+      "Bromi considered the Disappearance of Escall a curious myth until Hyssop confirmed its truth.",
+      "Bromi was unsettled by Neem's clan also nearly disappearing while warping near the Bright Spark star system."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Canna",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hyssop",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Neem",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Escall",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Bromi",
+    "url": "https://outerwilds.fandom.com/wiki/Bromi",
+    "fetched_at": "2026-05-28T10:51:49",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

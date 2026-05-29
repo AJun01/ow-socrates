@@ -1,0 +1,150 @@
+{
+  "entity": "Hornfels",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians",
+    "Outer Wilds Ventures Members"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "owv_founder",
+    "early_game"
+  ],
+  "summary": "Hornfels is the Hearthian Ground Control and Museum Curator for Outer Wilds Ventures, stationed at the Observatory on Timber Hearth. They are one of OWV's founding members and the holder of the player's launch codes.",
+  "facts": {
+    "biology": [
+      "Hornfels is a Hearthian."
+    ],
+    "behavior": [
+      "Hornfels is giddy about the Nomai translator tool being equipped on the player's first launch.",
+      "Hornfels gets engrossed in their work and dislikes daylight because it takes them away from observing the stars.",
+      "Hornfels recorded three of Gabbro's relaxation tips for dozing off in their notes near the Radio Tower.",
+      "Hornfels frequently sends people on errands and tells Gabbro so many things that Gabbro tunes them out.",
+      "Hornfels gets sad whenever Feldspar is brought up in conversation.",
+      "Hornfels almost never leaves the Observatory; Slate suspects Hornfels lives there."
+    ],
+    "location": [
+      "Hornfels is located at the Observatory on Timber Hearth.",
+      "Hornfels left a campfire-side note describing stargazing near the Radio Tower while waiting for photos to print."
+    ],
+    "lore": [
+      "Hornfels is one of the founders of Outer Wilds Ventures.",
+      "Hornfels is the Ground Control and Museum Curator for Outer Wilds Ventures.",
+      "Hornfels provides the launch codes to new astronauts.",
+      "Hornfels wrote the placards at the fenced-off Ghost Matter pocket and the museum.",
+      "Hornfels likely wrote all the informational notices around The Village.",
+      "Hornfels is one of the 'level-headed' Hearthians who view the Museum Shard's apparent movements as an optical illusion rather than Gabbro's superposition theory.",
+      "Hornfels' log in the Radio Tower expresses excitement when the first color photos of the solar system began printing from the Deep Space Satellite.",
+      "Hornfels noticed an anomaly in a Deep Space Satellite photo and sent Gabbro to investigate.",
+      "Hornfels gets on Gabbro's case for lazing around.",
+      "Hornfels did not know Feldspar's destination when they vanished and does not know if Feldspar is still alive.",
+      "Hornfels considers Feldspar 'absolutely fearless' and remarks 'it's a wonder Feldspar lived to see space.'",
+      "Hornfels did not work as closely with Feldspar as Slate and Gossan did due to differing specialties.",
+      "Learning that Feldspar is alive fills Hornfels with heartfelt joy.",
+      "Hornfels plans to radio Gossan and prepare a ship to retrieve Feldspar after learning Feldspar is alive.",
+      "Hornfels feels Gossan should be the one to bring Feldspar home.",
+      "Hornfels spoke to Tephra about Feldspar's disappearance and called Feldspar the best pilot ever.",
+      "Hornfels considers Gabbro 'our resident expert in leisurely whiling away the hours.'",
+      "Hornfels remarks that Gabbro deliberately burns their marshmallows.",
+      "Hornfels was the one who noticed the star charts were out of date and asked Chert to update them.",
+      "Hornfels is in deep denial about other Hearthian travelers lacking interest in real science, according to Chert.",
+      "Hornfels finished prepping the Nomai Statue for museum display the day the player launches.",
+      "Hornfels and Hal determined the Nomai Statue is 'crazy old and super tough.'",
+      "Hornfels determined that the Nomai Statue is made of the same stone as Chert's partial statue from the Hourglass Twins.",
+      "Hornfels determined that the Nomai Statue's stone has properties that let it store information after analyzing Gabbro's chipped fragment.",
+      "Hornfels assumed Gabbro was dreaming when Gabbro radioed about the statue glowing in the first loop.",
+      "Hornfels assumed Gabbro was being metaphorical when Gabbro radioed about dying in the second loop.",
+      "Hornfels does not remember any of Gabbro's time-loop conversations between loops.",
+      "Hornfels did not let Tephra hide in the museum during a hide-and-seek game, calling Tephra a nuisance.",
+      "Esker is in occasional radio contact with Hornfels and Gossan as their ground control."
+    ],
+    "mechanics": [
+      "Speaking to Hornfels at the Observatory is how the player obtains the launch codes on the first loop.",
+      "Hornfels' initial Observatory dialogue is replaced in subsequent loops with their excitement about the Nomai Statue having opened its eyes."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Launch codes",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Translation tool",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Chert",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Slate",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Gossan",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Esker",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Hal",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Tephra",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Spinel",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Hornfels",
+    "url": "https://outerwilds.fandom.com/wiki/Hornfels",
+    "fetched_at": "2026-05-28T10:51:28",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

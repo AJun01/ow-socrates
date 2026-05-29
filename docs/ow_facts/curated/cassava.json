@@ -1,0 +1,91 @@
+{
+  "entity": "Cassava",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": ["Characters", "Nomai", "Ash Twin Project Members"],
+  "tags": ["nomai_history", "ash_twin_project", "orbital_probe_cannon", "giants_deep"],
+
+  "summary": "Cassava was a male Nomai from Brittle Hollow who worked at the Construction Yard on Giant's Deep as part of the Ash Twin Project. Married to Daz and brother-in-law to Avens, Cassava co-built the Orbital Probe Cannon despite increasingly believing the Eye of the Universe might be impossible to find.",
+
+  "facts": {
+    "biology": [
+      "Cassava is a Nomai.",
+      "Cassava is male."
+    ],
+
+    "behavior": [
+      "Cassava is increasingly pessimistic about the Nomai's chances of finding the Eye.",
+      "Cassava openly suspected the Eye might not wish to be found.",
+      "Cassava chronically interrupted Poke's forge work to ask for updates.",
+      "Cassava frequently argued with Poke and required Clary and Yarrow as mediators."
+    ],
+
+    "location": [
+      "Cassava originally came from Brittle Hollow.",
+      "Cassava relocated to the Construction Yard on Giant's Deep to build the Orbital Probe Cannon.",
+      "Cassava's corpse can be found at the Construction Yard on Giant's Deep."
+    ],
+
+    "lore": [
+      "Cassava grew up hearing the Nomai's story of their search for the Eye of the Universe.",
+      "Cassava was the husband of Daz.",
+      "Cassava was the brother-in-law of Avens.",
+      "Cassava built the Eye Signal Locator on the Attlerock together with Filix.",
+      "After repeated failures with the Attlerock locator, Cassava proposed a more sophisticated device.",
+      "The more sophisticated locator was built in the Southern Observatory on Brittle Hollow and also failed to detect the Eye's signal.",
+      "Cassava suggested at the next planning meeting that perhaps the Eye does not want to be found.",
+      "Cassava acknowledged Mallow's probe idea as clever but noted the chance of launching in the correct direction was virtually zero.",
+      "Conoy directed Cassava to talk to Ramie and Pye about their negative-time-interval technology.",
+      "Cassava proposed building the Orbital Probe Cannon in orbit around Giant's Deep: furthest from the sun, moonless except for Quantum Moon visits.",
+      "Cassava co-built the Orbital Probe Cannon at the Construction Yard with Avens.",
+      "Cassava initially agreed with retrieving the Vessel's old warp core as a valuable blueprint.",
+      "Cassava ultimately sided with Idaea, agreeing crafting a new Advanced Warp Core was the safest option.",
+      "Cassava's stated reasoning: if the search for the Eye is futile, choose the option with the least potential for harm.",
+      "Cassava described his arguments with Poke as 'oil and water' with Clary as their 'emulsifier.'",
+      "Cassava accused Poke of intentionally forging the Giant's Deep warp tower core last to spite him; Poke denied it.",
+      "Cassava recognized that his fear of never finding the Eye was likely the source of his arguments with Poke.",
+      "Cassava and Daz lifted Orbital Probe Cannon components into orbit using Giant's Deep cyclones.",
+      "One Orbital Probe Cannon component sank beneath the upwards current; Cassava asked Conoy for help understanding why.",
+      "Conoy and Spire explained at the Southern Observatory that a secondary type of cyclone with opposite rotation exists on Giant's Deep.",
+      "On Daz's recommendation, Cassava set Avens and Mallow's allowed maximum launch power slightly below the cannon's structural maximum.",
+      "Cassava argued with Daz and Phlox over memory statues: Cassava believed sending memories back in time is effectively the same as sending the being back in time.",
+      "Cassava and Daz remained at the Construction Yard after the Ash Twin Project was put on indefinite hold.",
+      "Cassava felt grateful and overjoyed when the Orbital Probe Cannon was finally finished, believing it would succeed."
+    ],
+
+    "mechanics": []
+  },
+
+  "related_entities": [
+    {"entity": "Nomai", "relation": "member_of"},
+    {"entity": "Brittle Hollow", "relation": "lives_in"},
+    {"entity": "Giant's Deep", "relation": "lives_in"},
+    {"entity": "Construction Yard", "relation": "lives_in"},
+    {"entity": "Ash Twin Project", "relation": "related_to"},
+    {"entity": "Orbital Probe Cannon", "relation": "related_to"},
+    {"entity": "Eye of the Universe", "relation": "related_to"},
+    {"entity": "Eye Signal Locator", "relation": "built_by"},
+    {"entity": "Daz", "relation": "related_to"},
+    {"entity": "Avens", "relation": "related_to"},
+    {"entity": "Mallow", "relation": "related_to"},
+    {"entity": "Poke", "relation": "related_to"},
+    {"entity": "Clary", "relation": "related_to"},
+    {"entity": "Filix", "relation": "mentioned_by"},
+    {"entity": "Conoy", "relation": "mentioned_by"},
+    {"entity": "Spire", "relation": "mentioned_by"},
+    {"entity": "Phlox", "relation": "mentioned_by"},
+    {"entity": "Yarrow", "relation": "mentioned_by"},
+    {"entity": "Idaea", "relation": "mentioned_by"},
+    {"entity": "Pye", "relation": "mentioned_by"},
+    {"entity": "Ramie", "relation": "mentioned_by"}
+  ],
+
+  "source": {
+    "page": "Cassava",
+    "url": "https://outerwilds.fandom.com/wiki/Cassava",
+    "fetched_at": "2026-05-28T10:51:51",
+    "audited_by_human": false,
+    "audit_date": null,
+    "confidence": "high"
+  }
+}

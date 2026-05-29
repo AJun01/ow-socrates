@@ -44,7 +44,7 @@ Repository = "https://github.com/ajyujunliu/ow-socrates"
 Issues = "https://github.com/ajyujunliu/ow-socrates/issues"
 
 [project.scripts]
-ow-baseline = "scripts.run_baseline:main"
+ow-baseline = "src.baseline_test:main"
 
 [build-system]
 requires = ["hatchling"]

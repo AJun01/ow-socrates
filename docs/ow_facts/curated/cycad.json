@@ -1,0 +1,102 @@
+{
+  "entity": "Cycad",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "hourglass_twins"
+  ],
+  "summary": "Cycad was a Nomai geology apprentice under Coleus who worked on sourcing ore from Timber Hearth for the Ash Twin Project's supernova-resistant shell. He was known among the Nomai clan for his habit of making puns.",
+  "facts": {
+    "biology": [
+      "Cycad is a Nomai.",
+      "Cycad is male.",
+      "Cycad was a geology apprentice."
+    ],
+    "behavior": [],
+    "location": [
+      "Cycad moved with Coleus and Oeno to Timber Hearth to mine ore for the Ash Twin Project's shell.",
+      "Cycad died when Ghost Matter from the Interloper killed all Nomai in the solar system."
+    ],
+    "lore": [
+      "Cycad was Coleus's apprentice in geology.",
+      "Cycad pointed out during a Nomai discussion that Coleus and Melorae's anglerfish-fossil research could allow Nomai to safely return to Dark Bramble.",
+      "Coleus reminded Cycad that the anglerfish-blindness hypothesis had never been tested on a living specimen.",
+      "Cycad initially believed Timber Hearth's ore would be used to build the remaining warp towers on Ash Twin.",
+      "Oeno explained to Cycad that the Timber Hearth ore was destined only for the Ash Twin Project's protective shell, not the warp towers.",
+      "Cycad proposed mining site 2b after site 2a was deemed unsafe for the native Hearthian-ancestor life in the cave pools.",
+      "Cycad was fascinated by the semi-aquatic native life on Timber Hearth and would watch them for hours.",
+      "Cycad had a habit of making puns, which Oeno disapproved of but which Coleus tolerated.",
+      "Cycad noted that the native Timber Hearth life had four eyes and wondered what the fourth eye was for."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "apprentice_of"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Melorae",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Oeno",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Cycad",
+    "url": "https://outerwilds.fandom.com/wiki/Cycad",
+    "fetched_at": "2026-05-28T10:51:31",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

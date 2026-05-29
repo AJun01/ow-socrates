@@ -1,0 +1,152 @@
+{
+  "entity": "Riebeck",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians",
+    "Outer Wilds Ventures Members",
+    "Travelers"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "travelers",
+    "brittle_hollow"
+  ],
+  "summary": "Riebeck is a Hearthian archaeologist camped at the Crossroads under Brittle Hollow's crust. They are anxious and afraid of space, but their fascination with Nomai history drove them to leave Timber Hearth. They play the banjo.",
+  "facts": {
+    "biology": [
+      "Riebeck is a Hearthian.",
+      "Riebeck plays the banjo.",
+      "Riebeck has three fingers and a thumb, unlike most Hearthians who have two fingers and a thumb."
+    ],
+    "behavior": [
+      "Riebeck is generally polite but timid.",
+      "Riebeck is anxious about most things, especially space and space travel.",
+      "Riebeck whispers the words 'black hole' in a smaller stylized text whenever it comes up in conversation.",
+      "Riebeck becomes extremely enthusiastic when discussing their passion for the Nomai.",
+      "Riebeck is willing to face their fear of space if it means learning more about the Nomai.",
+      "Riebeck politely listens to and asks follow-up questions about the Protagonist's discoveries.",
+      "Riebeck is willing to travel to the Quantum Moon to meet a living Nomai despite their visibility and terrain fears."
+    ],
+    "location": [
+      "Riebeck is located at the Crossroads under Brittle Hollow's crust.",
+      "Riebeck's current ship can be found outside the surface entrance to the Southern Observatory on Brittle Hollow.",
+      "Riebeck's old camp is in the ruins of the Gravity Crystal Workshop on the surface of Brittle Hollow.",
+      "The segment of crust where Riebeck has set up their camp is indestructible and never falls."
+    ],
+    "lore": [
+      "Riebeck is a member of Outer Wilds Ventures.",
+      "Riebeck is one of the Hearthian travelers.",
+      "Riebeck is an archaeologist driven by fascination with history, particularly Nomai history.",
+      "Riebeck describes themselves as 'more surprised than anybody' that they are out exploring space.",
+      "Riebeck arrived at their camp under Brittle Hollow's crust by literally falling after tripping on a gravity crystal.",
+      "Riebeck judged their Brittle Hollow landing as 'one of my better attempts' and decided Feldspar would barely have laughed.",
+      "Riebeck has dreamed of seeing the Hanging City since they were a hatchling.",
+      "Riebeck uses their Little Scout to gauge the stability of the ground around their camp.",
+      "Riebeck found the surface entrance to the Southern Observatory broken from the outside and traveled north to find an underground path.",
+      "Riebeck used the Nomai path inside a tree-overgrown ruined building on Brittle Hollow's equator to descend below the crust.",
+      "Riebeck hypothesizes that the Nomai's quantum pilgrimage to the Quantum Moon was a coming-of-age ritual similar to Hearthian sap-wine traditions.",
+      "Riebeck speculates that the Nomai built the Hanging City close to a black hole because they 'needed it for something.'",
+      "Riebeck reflects after learning of the Nomai's death that the species might have coexisted with Hearthians if the Interloper had not killed them.",
+      "Riebeck reasons that without Nomai history to investigate, they would never have left Timber Hearth.",
+      "Riebeck reflects in the Eye of the Universe ending that the past is not really gone completely and the future is always built on the past.",
+      "Hornfels did not work closely with Feldspar but Riebeck's fear of unnecessary spaceflight is mentioned by Hornfels.",
+      "Hornfels and Tephra confirm Riebeck's bookish nature contrasts with Feldspar's daredevil legacy."
+    ],
+    "mechanics": [
+      "Talking to Riebeck unlocks dialogue options for sharing discoveries about Brittle Hollow, the Vessel, Sunless City, quantum pilgrimage, the Interloper, and meeting Solanum.",
+      "Riebeck points the player toward the Hanging City to the north and the Southern Observatory at the south pole of Brittle Hollow."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Crossroads",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Travelers",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hanging City",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Black Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Tephra",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Esker",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Riebeck",
+    "url": "https://outerwilds.fandom.com/wiki/Riebeck",
+    "fetched_at": "2026-05-28T10:51:25",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

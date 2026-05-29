@@ -1,0 +1,138 @@
+{
+  "entity": "Spaceship",
+  "entity_type": "technology",
+  "aliases": [
+    "Ship"
+  ],
+  "categories": [
+    "Technology",
+    "Gameplay"
+  ],
+  "tags": [
+    "early_game",
+    "core_mechanic",
+    "navigation"
+  ],
+  "summary": "The Spaceship is the protagonist's primary mode of transportation, built by Slate. It is a single-pilot craft with two multi-directional thruster banks, an on-board computer, Signalscope and Scout Launcher, Nomai artificial gravity, and modular hull sections that can take and report damage.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "The Spaceship has room for exactly one pilot.",
+      "The Spaceship is entered from the bottom via a circular hatch.",
+      "When the hatch is open, it emits a beam of blue light that tugs the player upward to allow re-entry.",
+      "The hatch closes automatically once the player enters.",
+      "When the hatch is opened from outside, a salvaged Nomai gravity ring activates and lifts the player inside."
+    ],
+    "location": [
+      "The Spaceship is parked at the Launch Tower on Timber Hearth at the start of every loop.",
+      "The Spaceship is divided into a central hull, aft hull, starboard hull, port hull, and cockpit."
+    ],
+    "lore": [
+      "The Spaceship was built by Slate.",
+      "The Spaceship's on-board computer is a fixed version of the power source seen at the Observatory.",
+      "The aft hull contains the Computer, a poster of the solar system, supplies, and a hatchet.",
+      "The starboard hull holds the spacesuit hanger and emergency supplies cabinet.",
+      "The port hull contains the Generator and a gravity crystal.",
+      "Both the Generator and the port-hull gravity crystal can be repaired from inside the ship."
+    ],
+    "mechanics": [
+      "The ship is propelled by two banks of multi-directional thrusters, allowing motion in any direction.",
+      "Each thruster bank has five nozzles, one for each axis except the mounting point.",
+      "When one thruster bank is broken, the ship becomes nearly uncontrollable due to asymmetric thrust but is still flyable.",
+      "Ship parts and subsystems take localized damage from high-velocity impacts; sections start losing health at impacts of about 30 m/s or more.",
+      "If a hull section's health drops below 30%, a flashing red light and alarm activate until repairs are complete.",
+      "Port and starboard hull at 0% health detach from the ship, rendering it inoperable.",
+      "Landing gear starts taking damage only above ~80 m/s impacts.",
+      "When landing gear reaches 0%, one of three legs detaches and the ship lands unevenly.",
+      "Repairing landing gear restores texture but does not bring back a detached leg.",
+      "Repairs can only be performed from outside the ship except for the Generator and gravity crystal subsystems inside.",
+      "The cockpit can be ejected with a button protected by a glass panel, breaching the hull at 50 m/s and granting an Achievement.",
+      "Ejecting the cockpit destroys the ship's electric systems but the player remains in the seat.",
+      "The on-board Computer provides info on visited planets and includes a 'Theory mode' for connecting clues.",
+      "The Computer allows marking specific locations on the HUD for easier relocation.",
+      "Autopilot accelerates straight at a selected celestial body for half the distance, then decelerates, stopping just before the body.",
+      "Autopilot does not avoid obstacles; an inattentive pilot can fly into the sun or planets.",
+      "If the player tries to leave the solar system, autopilot automatically retargets the sun, unless autopilot is broken or disabled.",
+      "Autopilot can be disabled in the options for increased difficulty or to fly outside the solar system.",
+      "Match Velocity (A on controller) reduces relative velocity to zero but does not match orbit.",
+      "Three indicator lights in the cockpit show system state: white for headlight, green for autopilot, orange for velocity matching.",
+      "The temperature gauge in the cockpit is non-functional and not implemented in the game.",
+      "The ship-mounted Signalscope works like the player's but cannot tune to unknown frequencies or zoom in.",
+      "Landing mode shows a low-resolution black-and-white camera feed of the surface below, with a navball and altimeter.",
+      "Landing mode automatically rotates the ship's underside toward the targeted body until disabled.",
+      "The ship-mounted Scout Launcher launches the Scout at much higher speed than the player's portable launcher.",
+      "When the electrical system is broken, the headlight, landing cam, computer, and inside lighting all stop working.",
+      "When the oxygen tank is broken, it leaks and empties in about 20 minutes; however, the ship still retains infinite oxygen even after the tank is empty.",
+      "When the fuel tank is broken, fuel runs out in about a minute; repairs stop the leak but do not refund lost fuel.",
+      "Match Velocity remains usable even with no fuel.",
+      "Artificial gravity inside the ship is provided by a Nomai gravity crystal and produces about 0.8x normal acceleration.",
+      "Unlike other Nomai gravity crystals, the ship's gravity adds to outside forces rather than erasing them.",
+      "On Giant's Deep, a player inside the ship feels about 2.9x normal gravity (rather than 2.0x at sea level).",
+      "When the ship's gravity crystal is broken, the player experiences outside forces directly, including acceleration during autopilot.",
+      "When the reactor is broken, it overheats and explodes in about 20 seconds if not repaired.",
+      "A reactor explosion violently breaks apart hull sections and landing legs and propels them outward."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Slate",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Launch Tower",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Computer",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spacesuit",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gravity Ring",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gravity Crystal",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Launch Codes",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Spaceship",
+    "url": "https://outerwilds.fandom.com/wiki/Spaceship",
+    "fetched_at": "2026-05-28T10:51:17",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

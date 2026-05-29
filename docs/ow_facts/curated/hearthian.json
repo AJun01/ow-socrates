@@ -1,0 +1,145 @@
+{
+  "entity": "Hearthian",
+  "entity_type": "race",
+  "aliases": [
+    "Hearthians"
+  ],
+  "categories": [
+    "Hearthians",
+    "Races"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "timber_hearth"
+  ],
+  "summary": "Hearthians are the species native to Timber Hearth — bipedal blue-skinned humanoids with four eyes who evolved from aquatic creatures in flooded caves. Their genderless culture emphasizes community and exploration, and the Outer Wilds Ventures space program oversees their solar system exploration.",
+  "facts": {
+    "biology": [
+      "Hearthians are a bipedal race of blue-skinned humanoids.",
+      "Hearthians have four eyes.",
+      "Hearthians have long ears.",
+      "The sclera in Hearthians' eyes come in multiple colors, with shades of orange being most common.",
+      "Hearthians' hands have two fingers and a thumb each.",
+      "Hearthian ears begin drooping as they get older; this is the only visual sign of aging.",
+      "Hearthians are semi-aquatic in nature but cannot breathe underwater.",
+      "Riebeck is the only known Hearthian with more than two fingers on each hand, possibly to accommodate playing the banjo."
+    ],
+    "behavior": [
+      "If the Protagonist fires a Scout at a Hearthian, that Hearthian will cower in fear for a few seconds."
+    ],
+    "location": [
+      "Hearthians are native to Timber Hearth.",
+      "The Village on Timber Hearth is the only Hearthian settlement in the Solar System.",
+      "Astronauts working for Outer Wilds Ventures can be found across the Solar System."
+    ],
+    "lore": [
+      "Hearthian culture is genderless.",
+      "Hearthian culture places a strong emphasis on community and exploration.",
+      "The Village is an extremely close-knit community where every member seemingly knows each other by name.",
+      "Young Hearthians are encouraged to interact with older Hearthians in their community.",
+      "Older Hearthians remain involved in day-to-day activities; Tektite is one of the oldest yet still oversees firewatch.",
+      "Hearthians constructed the Observatory to study the Solar System and act as a museum for space-exploration artifacts.",
+      "The Hearthian space program is overseen by Outer Wilds Ventures.",
+      "Outer Wilds Ventures was founded by Feldspar, Gossan, Slate, and Hornfels to train new astronauts.",
+      "Every new Outer Wilds Ventures recruit traditionally camps under the stars on the night before their first launch.",
+      "Hearthian technology is advanced despite their structures on Timber Hearth being made of wood.",
+      "Hearthians use electricity to power lighting, radio signals, cameras, and projectors.",
+      "Hearthians launched a Deep Space Satellite to provide a live map of the Solar System.",
+      "Hearthians partially used Nomai technology scavenged from Nomai ruins to develop their space-faring technology.",
+      "Hearthian ships are primarily made of wood, have asymmetrical designs, and house plants inside the cabin.",
+      "Hearthian spacesuits appear rugged and are held together with visible stitching and tape.",
+      "Hearthians evolved from aquatic creatures that lived within the flooded caves of Timber Hearth.",
+      "Prehistoric Hearthians were once visited by the Nomai following the Nomai's arrival in the solar system.",
+      "The Nomai took extreme care when mining Timber Hearth to avoid disturbing the prehistoric Hearthians dwelling in the cave pools.",
+      "Prehistoric Hearthians survived the Interloper's Ghost Matter rupture because Ghost Matter's hazardous properties are nullified by water.",
+      "All Nomai in the solar system were killed by the Interloper rupture while Hearthians survived underwater.",
+      "Hearthians eventually evolved into bipedal creatures capable of complex thought and speech.",
+      "The evolved Hearthians did not require water to survive and began living on Timber Hearth's surface.",
+      "The Hearthians settled inside a large crater and constructed The Village.",
+      "Hearthians began exploring the solar system after discovering Nomai technology that allowed ship construction.",
+      "Most Hearthians are named after types of rocks or geological terms.",
+      "The Hearthian race evolved at a point in time when the Universe was beginning to die.",
+      "If the player reaches the Eye of the Universe before 22 minutes pass in a loop, all Hearthians and the rest of the universe are wiped out by the ensuing Big Bang.",
+      "After the final supernova, all Hearthians except the player are killed, provided the player warped with the Vessel."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spaceship",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spacesuit",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Gossan",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Slate",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Tektite",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Riebeck",
+      "relation": "member_of"
+    }
+  ],
+  "source": {
+    "page": "Hearthian",
+    "url": "https://outerwilds.fandom.com/wiki/Hearthian",
+    "fetched_at": "2026-05-28T10:51:10",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

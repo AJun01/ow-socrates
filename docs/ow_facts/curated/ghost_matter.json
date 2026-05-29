@@ -1,0 +1,119 @@
+{
+  "entity": "Ghost Matter",
+  "entity_type": "mechanic",
+  "aliases": [
+    "ghost matter"
+  ],
+  "categories": [
+    "Gameplay"
+  ],
+  "tags": [
+    "nomai_history",
+    "interloper",
+    "hostile_environment"
+  ],
+  "summary": "Ghost Matter is an invisible hazardous substance found throughout the Solar System that will kill any living being who lingers in it. It originally erupted from The Interloper's core, killing every Nomai in the system; the remnants persist as Ghost Matter Crystals and patches across most planets.",
+  "facts": {
+    "biology": [
+      "Ghost Matter is an exotic matter from inside The Interloper's core."
+    ],
+    "behavior": [
+      "Ghost Matter is invisible to the naked eye.",
+      "Ghost Matter visibly flares up when it reacts with anything that has contacted it.",
+      "When the player enters a patch of Ghost Matter, their screen becomes noticeably distorted and discolored with a blue-green tint.",
+      "Ghost Matter injures or kills any living being who lingers within it for more than a brief moment.",
+      "Ghost Matter is not dissolved by water, but its hazardous properties are neutralized when submerged in water."
+    ],
+    "location": [
+      "Ghost Matter Crystals can be found on most planets in the Solar System.",
+      "Ghost Matter is present in patches across most planets in the Solar System.",
+      "The Village on Timber Hearth has a small patch of Ghost Matter surrounded by Ghost Matter Crystals.",
+      "Arkose can periodically be seen throwing rocks into the Ghost Matter patch at The Village.",
+      "The Stranger has a few small areas containing Ghost Matter.",
+      "Ghost Matter Crystals on Giant's Deep islands can be temporarily neutralized when their island is thrown into the atmosphere by a cyclone and lands in water."
+    ],
+    "lore": [
+      "Ghost Matter was brought to the Solar System inside The Interloper, a comet that entered the system during the Nomai civilization.",
+      "The Nomai detected the Interloper shortly after the failure of the Sun Station.",
+      "Poke and Pye were the Nomai explorers who investigated The Interloper.",
+      "Poke and Pye discovered a way below the Interloper's surface and found a dense, highly-pressurized core of exotic matter.",
+      "Poke and Pye's tests indicated the Interloper's core was at risk of rupturing as the comet approached the Sun.",
+      "Poke and Pye predicted that a rupture would release exotic matter that could eradicate all life in the Solar System.",
+      "Before Poke and Pye could warn their clan, the Interloper's core ruptured and killed all Nomai in the Solar System.",
+      "The Interloper rupture event ended all Nomai life within the Solar System, leaving only civilization remnants behind.",
+      "Hundreds of thousands of years after the rupture, most of the original Ghost Matter has evaporated.",
+      "The remnants of the ruptured core persist throughout the Solar System in the form of Ghost Matter Crystals.",
+      "Prehistoric Hearthians existed in the water beneath Timber Hearth's surface during the Interloper rupture.",
+      "Prehistoric Hearthians survived the Interloper rupture because Ghost Matter's hazardous properties are nullified by water."
+    ],
+    "mechanics": [
+      "Ghost Matter can be detected by photographing it with the camera or Little Scout, where it appears as a blue-green aura in the air.",
+      "Ghost Matter can also be indicated by the presence of blueish-silver Ghost Matter Crystals.",
+      "Ghost Matter does not universally appear wherever Ghost Matter Crystals are present; some patches of crystal can be crossed safely.",
+      "Firing the Little Scout through crystal patches or taking photographs with the Scout's camera tells the player whether a path is safe to cross.",
+      "Lingering in a Ghost Matter patch for more than a few seconds will very quickly kill the player."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "The Village",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Stranger",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Pye",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Arkose",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Ghost Matter",
+    "url": "https://outerwilds.fandom.com/wiki/Ghost_Matter",
+    "fetched_at": "2026-05-28T10:51:11",
+    "audited_by_human": true,
+    "audit_date": "2026-05-28",
+    "confidence": "high"
+  }
+}

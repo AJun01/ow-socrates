@@ -1,0 +1,90 @@
+{
+  "entity": "Sun",
+  "entity_type": "celestial_body",
+  "aliases": [
+    "The Sun"
+  ],
+  "categories": [
+    "Planets",
+    "Locations"
+  ],
+  "tags": [
+    "time_loop",
+    "endgame",
+    "supernova"
+  ],
+  "summary": "The Sun is the main-sequence star at the center of the Solar System. It begins each loop as an aging yellow star, becomes a Red Giant after about 12 minutes, and explodes into a supernova at the 22-minute mark, ending the loop.",
+  "facts": {
+    "biology": [
+      "The Sun is a large main-sequence star at the center of the Solar System.",
+      "All other astronomical bodies in the Solar System orbit the Sun.",
+      "The Sun's in-game database flags it as UNSTABLE with 'accelerated nuclear fusion detected in core.'"
+    ],
+    "behavior": [
+      "The Sun ages and grows in size over the course of every 22-minute loop.",
+      "Prior to the start of the loop the Sun was much more yellow, indicating it had already become a subgiant shortly before the loop began.",
+      "At the start of the loop and for most of its duration, the Sun is colored orange in its subgiant phase.",
+      "Roughly 12 minutes into the cycle, the Sun expands to roughly twice its normal size and becomes a Red Giant.",
+      "The Sun's Red Giant phase engulfs and destroys the Sun Station.",
+      "At about 21 minutes into the cycle, the 'End Times' theme begins, signaling 60 seconds until supernova.",
+      "At 22 minutes, the Sun collapses inward, briefly becomes a small sphere, then explodes in a blue flash.",
+      "The supernova blast grows and accelerates to encompass the entire Solar System."
+    ],
+    "location": [
+      "The Sun lies at the center of the Solar System.",
+      "The Sun Station is the Sun's only noteworthy artificial feature, in a very close and quick heliocentric orbit."
+    ],
+    "lore": [
+      "The Sun Station is only accessible while the Sun is in its subgiant phase, because it is destroyed when the Sun becomes a Red Giant.",
+      "The Sun Station was designed by the Nomai to induce a supernova in the Sun, but ultimately failed.",
+      "After the supernova, a glowing remnant resembling a white dwarf or neutron star is left behind.",
+      "The Sun's remnant is actually a rendering bug where the Sun's glow effect is not unloaded; red solar flares can still be seen on it.",
+      "All planets appear visually intact after the supernova in the game.",
+      "Mica's model spaceship can be flown from the Village into the Sun or Hollow's Lantern, granting the 'Mica's Wrath' achievement on Xbox, PlayStation, and Steam."
+    ],
+    "mechanics": [
+      "The player can fly outside the supernova's blast radius but will still die with an alternative screen fade as their memories are uploaded to the Ash Twin Project.",
+      "Escaping the supernova after removing the Advanced Warp Core from Ash Twin triggers the Isolation Ending.",
+      "The Sun Station is normally accessed via a Nomai teleporter.",
+      "Manually landing on the Sun Station (without the teleporter) grants the 'Hotshot' achievement and requires accounting for the Sun's gravity and the station's rapid orbit."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Solar System",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Mica",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Sun",
+    "url": "https://outerwilds.fandom.com/wiki/Sun",
+    "fetched_at": "2026-05-28T10:50:47",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

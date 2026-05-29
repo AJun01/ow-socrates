@@ -1,0 +1,153 @@
+{
+  "entity": "Warp Core",
+  "entity_type": "technology",
+  "aliases": [],
+  "categories": [
+    "Technology"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "time_loop"
+  ],
+  "summary": "Warp Cores are Nomai technology that transport information, beings, and objects from one place to another (and, with the Advanced variant, into the past). Each consists of a paired black-hole core and white-hole core. The Advanced Warp Core inside Ash Twin is what powers the protagonist's 22-minute time loop.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "A standard warp core consists of a black hole core and a white hole core which generate a black hole and white hole respectively.",
+      "Objects warped enter via the black hole and exit through the white hole.",
+      "If warp cores power a warp platform, travelers can also return through the white hole once the platform is charged.",
+      "The time of arrival is always one hundred-thousandth of a second earlier than the time of departure.",
+      "The negative time interval can be increased by adding more energy to the warp core.",
+      "The energy required to extend the negative interval increases at an exponential rate."
+    ],
+    "location": [
+      "Warp Cores are manufactured at the Black Hole Forge in the Hanging City on Brittle Hollow.",
+      "Annona's broken advanced warp core sits inside The Vessel in Dark Bramble.",
+      "Poke's Advanced Warp Core powers the Ash Twin Project's central chamber on Ash Twin."
+    ],
+    "lore": [
+      "Warp Cores were originally created by Annona, a Nomai from Escall's Vessel.",
+      "Annona shared his advanced warp core design with other Nomai clans at festivals, letting all Nomai warp long distances.",
+      "The Vessel's warp core needed time to recharge between significant jumps such as following the Eye's signal.",
+      "The Vessel's warp core sustained irreparable damage when the Vessel crashed on Dark Bramble.",
+      "After Annona's death on Ember Twin, Poke became his apprentice and learned many of his warp core designs.",
+      "Poke recreated Annona's simpler warp cores at the Black Hole Forge with the help of Clary and Root.",
+      "The Black Hole Forge crew's first successful warp connected the White Hole Station to Brittle Hollow's Northern Glacier.",
+      "Pye and Ramie confirmed the negative time interval by reproducing it at the High Energy Lab.",
+      "Pye, Ramie, and Poke hypothesized that advanced warp technology could extend the negative interval to 22 minutes.",
+      "The 22-minute negative interval became the foundation of the Ash Twin Project for sending information back in time.",
+      "Because the Vessel's warp core was unrecoverable, Poke crafted a new Advanced Warp Core inspired by Annona's design.",
+      "The Black Hole Forge crew also crafted simple warp cores for the Ash Twin Towers connecting Ash Twin to all Ash Twin Project locations.",
+      "The Ash Twin Project went on indefinite hold when the Sun Station failed to trigger a supernova.",
+      "All Nomai were killed by the Interloper's Ghost Matter before they could find an alternative power source.",
+      "200,000 years later, Hearthian astronauts discovered the Nomai's warp cores and adapted them.",
+      "Hearthians use recovered warp cores to power the Little Scout's warp-retrieval capability.",
+      "When the Sun reached its natural lifespan and went supernova, it automatically powered the Ash Twin Project's Advanced Warp Core, starting the time loop."
+    ],
+    "mechanics": [
+      "Standard warp cores can only travel from a black hole to a white hole, so warping to an unfamiliar location requires placing a second warp core there first.",
+      "An Advanced Warp Core does not need a counterpart warp core to enable warping.",
+      "Advanced warp cores can open portals to specific coordinates, or with enough energy, open portals a certain amount of time into the past.",
+      "Simple warp cores power the Ash Twin Tower warp platforms, the White Hole Station warp tower, and its warp receivers on various planets.",
+      "Simple warp cores can recall shuttles launched from Gravity Cannons.",
+      "Simple warp cores can recall the Hearthians' Scout and Mica's remote-control model ship.",
+      "Advanced warp cores send information and commands 22 minutes into the past for the Ash Twin Project.",
+      "Advanced warp cores warp living beings and inanimate objects, including ships, over large distances."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Annona",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Poke",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Black Hole Forge",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Towers",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Black Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Time Loop",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gravity Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Clary",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Root",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Pye",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Warp Core",
+    "url": "https://outerwilds.fandom.com/wiki/Warp_Core",
+    "fetched_at": "2026-05-28T10:51:19",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

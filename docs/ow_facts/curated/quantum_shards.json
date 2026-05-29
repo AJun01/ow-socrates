@@ -1,0 +1,118 @@
+{
+  "entity": "Quantum Shards",
+  "entity_type": "mechanic",
+  "aliases": [
+    "Quantum Shard"
+  ],
+  "categories": [
+    "Gameplay"
+  ],
+  "tags": [
+    "quantum",
+    "endgame"
+  ],
+  "summary": "Quantum Shards are five strange rocks originating from the Quantum Moon, scattered across four planets. They teleport when not observed, emit signals on the Quantum Fluctuations frequency, and teach successive quantum-behavior rules that culminate in reaching the Quantum Moon's Sixth Location.",
+  "facts": {
+    "biology": [
+      "Quantum Shards have the appearance of volcanic glass.",
+      "Quantum Shards vary in size and shape, from small enough to be held on stands to large enough to walk on or build structures on.",
+      "All Quantum Shards appear to be standing upright, piercing into the ground.",
+      "Quantum Shards emit a signal on the Quantum Fluctuations frequency."
+    ],
+    "behavior": [
+      "Quantum Shards teleport to a new location when not being observed.",
+      "Each Quantum Shard has 3-4 possible locations it can be found at once line of sight has been broken.",
+      "Most physical objects that obscure a shard from view do not cause it to change locations.",
+      "Quantum Shards make nearby objects quantum, including objects touching or resting on them."
+    ],
+    "location": [
+      "There are five Quantum Shards in the solar system, spread across four planets.",
+      "The Museum Shard is in the Observatory on Timber Hearth.",
+      "The Grove Shard is in a crater near Timber Hearth's South Pole.",
+      "The Island Shard is in the Tower of Quantum Trials on Giant's Deep.",
+      "The Cave Shard is in the caves of Ember Twin within the Hourglass Twins.",
+      "The Tower Shard is on the surface of Brittle Hollow next to the Tower of Quantum Knowledge.",
+      "An access point to the Cave Shard is mentioned at Ember Twin's northern lakebed."
+    ],
+    "lore": [
+      "Quantum Shards are said to originate from the Quantum Moon.",
+      "The Museum Shard primarily demonstrates that line of sight keeps a shard in place.",
+      "The Grove Shard primarily demonstrates the scale of the shards and draws ties to the Quantum Moon.",
+      "The Island Shard is part of the Quantum Imaging lesson.",
+      "The Cave Shard teaches the lesson of Quantum Entanglement.",
+      "The Tower Shard is tied to the lesson of the Sixth Location.",
+      "Nomai writing on the Tower Shard's wall details Nomai curiosity about the shards' connection with the Quantum Moon.",
+      "The Quantum Fluctuations frequency on the Signalscope resembles György Ligeti's 'Lux Aeterna', used by Stanley Kubrick in 2001: A Space Odyssey."
+    ],
+    "mechanics": [
+      "Quantum Shards can be located with the Signalscope by tuning to the Quantum Fluctuations frequency.",
+      "All Quantum Shards' signals sound the same as each other and the same as the Quantum Moon's signal.",
+      "Taking a picture of any Quantum Shard counts as taking a picture of the Quantum Moon for the purposes of landing on the Moon.",
+      "Standing on the Cave Shard quantum-entangles the player with it.",
+      "Once quantum-entangled with the Cave Shard, turning off all light sources (flashlight off, scout recalled, no shard photo viewed) transports the player with the Shard to one of its other locations.",
+      "Using the Cave Shard's entanglement allows access to a cave on Ember Twin that has no other entrances."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shrine",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tower of Quantum Trials",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Tower of Quantum Knowledge",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Hourglass Twins",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Quantum Shards",
+    "url": "https://outerwilds.fandom.com/wiki/Quantum_Shards",
+    "fetched_at": "2026-05-28T10:51:14",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

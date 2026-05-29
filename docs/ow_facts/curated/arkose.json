@@ -1,0 +1,77 @@
+{
+  "entity": "Arkose",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village",
+    "ghost_matter"
+  ],
+  "summary": "Arkose is a young Hearthian found by the Ghost Matter fence in the Village, throwing rocks into the invisible Ghost Matter patch. They are excited by Ghost Matter as a kid would be by anything dangerous.",
+  "facts": {
+    "biology": [
+      "Arkose is a Hearthian.",
+      "Arkose is a child (hatchling-age) Hearthian."
+    ],
+    "behavior": [
+      "Arkose throws rocks into the Ghost Matter patch behind the Village fence.",
+      "Arkose considers Ghost Matter 'awesome' precisely because it is dangerous.",
+      "Arkose dismisses safety warnings as 'grown-up' talk.",
+      "Arkose reacts with excitement to learning that Tektite lost a foot to Ghost Matter.",
+      "Arkose wishes the Little Scout could shoot Ghost Matter at things."
+    ],
+    "location": [
+      "Arkose is found by the Ghost Matter fence in the Village, outside the entrance to the Zero-G Cave."
+    ],
+    "lore": [
+      "Arkose learned from Gossan that the Village Ghost Matter patch was bigger when Gossan was a hatchling.",
+      "Arkose knows Ghost Matter evaporates over a very long time scale.",
+      "Arkose hopes the Village's Ghost Matter patch is still around when they grow up."
+    ],
+    "mechanics": [
+      "If the Protagonist stands in front of a thrown rock, the rock can hit them and knock them slightly backwards.",
+      "Arkose's rocks cause no damage but can knock the Protagonist into the Ghost Matter if they are standing on the fence."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gossan",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Tektite",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Arkose",
+    "url": "https://outerwilds.fandom.com/wiki/Arkose",
+    "fetched_at": "2026-05-28T10:51:36",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

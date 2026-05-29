@@ -1,0 +1,91 @@
+{
+  "entity": "White Hole",
+  "entity_type": "phenomenon",
+  "aliases": [],
+  "categories": [
+    "Locations",
+    "Phenomena"
+  ],
+  "tags": [
+    "brittle_hollow",
+    "physics",
+    "nomai_history"
+  ],
+  "summary": "The White Hole is a gravitational singularity in the outskirts of the Solar System, paired with the Black Hole at Brittle Hollow's core. Objects falling into Brittle Hollow's black hole exit through the White Hole, where the Nomai built the White Hole Station to warp travelers safely back to the planet.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "The White Hole has 0g gravity around it.",
+      "The White Hole's reverse gravity repels any attempt to land on its surface.",
+      "There is no atmosphere around the White Hole; the surroundings are entirely zero-gravity.",
+      "Objects exiting the White Hole quickly come to rest in static locations around the Hole."
+    ],
+    "location": [
+      "The White Hole is located on the outskirts of the Solar System.",
+      "The White Hole is the paired opposite of Brittle Hollow's central Black Hole.",
+      "The White Hole Station is positioned near the White Hole from the beginning of the loop."
+    ],
+    "lore": [
+      "Objects falling into Brittle Hollow's black hole disappear and exit from the White Hole.",
+      "Bombardment from Hollow's Lantern causes sections of Brittle Hollow's crust and the Lantern's fireballs to fall into the black hole, exit the White Hole, and come to rest around it.",
+      "Late in the loop, fragments containing key Brittle Hollow structures including the Tower of Quantum Knowledge and the Gravity Cannon fall through and accumulate near the White Hole.",
+      "The Tower of Quantum Knowledge is initially inaccessible under Brittle Hollow's gravity but can be freely traversed in zero-g after it falls into the White Hole region.",
+      "Nomai Warp Cores are heavily implied to be derived from the Black Hole / White Hole pair, manufactured at the Black Hole Forge.",
+      "Nomai research discovered that black hole / white hole pairs have a unique temporal property: objects exit the white hole slightly before falling into the black hole.",
+      "The negative time interval becomes more pronounced as more energy is put into the system."
+    ],
+    "mechanics": [
+      "When the player falls into Brittle Hollow's black hole, they always exit the White Hole facing the White Hole Station, regardless of entry vector."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Solar System",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Black Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole Station",
+      "relation": "near"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Black Hole Forge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tower of Quantum Knowledge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gravity Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hollow's Lantern",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "White Hole",
+    "url": "https://outerwilds.fandom.com/wiki/White_Hole",
+    "fetched_at": "2026-05-28T10:51:21",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

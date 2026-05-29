@@ -1,0 +1,157 @@
+{
+  "entity": "The Vessel",
+  "entity_type": "technology",
+  "aliases": [
+    "Escall's Vessel",
+    "Vessel"
+  ],
+  "categories": [
+    "Locations",
+    "Technology",
+    "Locations in the Dark Bramble"
+  ],
+  "tags": [
+    "nomai_history",
+    "dark_bramble",
+    "endgame",
+    "eye_signal"
+  ],
+  "summary": "The Vessel is the ancient Nomai spacecraft captained by Escall, capable of intergalactic warp travel. It crashed into Dark Bramble while warping toward the Eye of the Universe's signal, stranding the Nomai in the solar system. Repowering it with the Ash Twin Project's Advanced Warp Core is the protagonist's path to the Eye.",
+  "facts": {
+    "biology": [],
+    "behavior": [
+      "The Vessel has 0g gravity normally, but 1.0g gravity when powered.",
+      "All Nomai corpses on the Vessel disappear after the Vessel warps to the Eye of the Universe.",
+      "The Vessel's hull has fused with Dark Bramble's vines and has been torn apart from inside itself."
+    ],
+    "location": [
+      "The Vessel is located in its own chamber deep within Dark Bramble.",
+      "The Vessel is found by following the distress beacon from Escape Pod 3.",
+      "Escape Pod 3's beacon trail leads to the Nomai Grave, a small seed surrounded by Nomai corpses.",
+      "Firing the Scout into the Nomai Grave seed reveals two duplicate-looking destination nodes.",
+      "The node glowing bright red leads to the Vessel but contains three Anglerfish directly at its entrance.",
+      "Once the Vessel is reached, the ship Computer's 'Show in HUD' option marks its location without needing the Scout each time."
+    ],
+    "lore": [
+      "The Vessel was one of many spacecraft used by Nomai clans to explore the universe.",
+      "The Vessel was captained by Escall.",
+      "Annona, the original creator of the Advanced Warp Core, served on the Vessel as its warp engineer.",
+      "Filix served as the Vessel's communications/recording officer.",
+      "The Vessel received a signal Filix identified as older than the universe itself.",
+      "Escall ordered an immediate warp to the signal's source without sending word to other Nomai clans.",
+      "Filix protested wanting to alert another clan; Escall overruled him, fearing the signal might disappear.",
+      "Annona warned the warp would be significant and the core would need time to recharge afterward.",
+      "Instead of reaching the signal source, the Vessel arrived inside Dark Bramble and was ensnared by vines.",
+      "The Vessel suffered numerous casualties and critical damage to all major systems on arrival.",
+      "The Vessel has five Escape Pods total; survivors fled in three of them.",
+      "Two Escape Pods were never launched and remain attached to the Vessel.",
+      "Escape Pods 1 and 2 successfully escaped Dark Bramble.",
+      "Escape Pod 3 launched but crashed deeper into Dark Bramble after multiple collisions altered its trajectory.",
+      "Escall, Secca, and Din were among the occupants of Escape Pod 3.",
+      "Secca, Din, and Escall attempted to return to the Vessel on foot from Escape Pod 3.",
+      "The crew of Escape Pod 3 detected two identical Vessel beacons but couldn't determine which was real before time ran out.",
+      "Escall ordered the crew to follow the nearest beacon, leading them to the Nomai Grave seed.",
+      "The crew of Escape Pod 3 all perished in Dark Bramble before finding the real Vessel.",
+      "Survivors from Escape Pods 1 and 2 settled the solar system and named the unknown signal 'the Eye of the Universe.'",
+      "The Vessel's sudden disappearance became a myth among other Nomai clans called 'the Disappearance of Escall.'",
+      "Other Nomai clans (Canna's, Bromi's, Hyssop's, Clem's, Neem's) searched for Escall's clan but never found them.",
+      "Hyssop's clan said the Vessel's disappearance was the only time in Nomai history a Vessel disappeared this way.",
+      "The Vessel's original Advanced Warp Core was damaged beyond repair in the crash.",
+      "Poke's Advanced Warp Core in the Ash Twin Project was inspired by the Vessel's original."
+    ],
+    "mechanics": [
+      "The Vessel houses an Advanced Warp Core to power instantaneous interstellar warp.",
+      "The Vessel features a navigation console for entering warp coordinates.",
+      "The Vessel features a black hole generator that, when powered, opens a portal leading directly outside the Vessel.",
+      "Reaching the Vessel by ship requires picking up enough speed before entering the red node and not using thrusters or re-firing the Scout once inside.",
+      "An alternative approach: slow to near-stop and feather forward thrust at one acceleration bar to slip past the Anglerfish without alerting them.",
+      "Passing through Anglerfish light appendages does not count as touching them.",
+      "Once the three Anglerfish stop breathing loudly, the player can use thrusters to follow the Scout's signal to the Vessel's safe inner node.",
+      "Warping the Vessel to the Eye of the Universe requires two discoveries: the Eye's coordinates from the Probe Tracking Module on Giant's Deep, and the Advanced Warp Core powering the Ash Twin Project.",
+      "The Vessel becomes warp-capable when the Ash Twin Project's Advanced Warp Core is removed and installed in the Vessel's housing.",
+      "Each of the three coordinate consoles can represent up to ~982 distinct coordinates, giving roughly 946,966,168 possible coordinate combinations."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Dark Bramble",
+      "relation": "located_in"
+    },
+    {
+      "entity": "Escall",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Annona",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Escape Pods",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Endings",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Filix",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Secca",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Din",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "The Vessel",
+    "url": "https://outerwilds.fandom.com/wiki/The_Vessel",
+    "fetched_at": "2026-05-28T10:51:05",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

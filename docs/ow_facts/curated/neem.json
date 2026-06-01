@@ -1,0 +1,67 @@
+{
+  "entity": "Neem",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Nomai",
+    "Characters"
+  ],
+  "tags": [
+    "nomai_history",
+    "modern_nomai"
+  ],
+  "summary": "Neem is a male modern Nomai and a friend of Clem. His clan is en route to Canna's clan in the Gloaming Galaxy, though they were nearly lost when the triple suns of the Bright Spark star system exploded during their warp.",
+  "facts": {
+    "biology": [
+      "Neem is a Nomai.",
+      "Neem is male."
+    ],
+    "behavior": [],
+    "location": [
+      "Neem's clan was warping toward Canna's clan in the Gloaming Galaxy."
+    ],
+    "lore": [
+      "Neem is a modern Nomai (contemporary with Canna, Bromi, Clem, and Hyssop).",
+      "Neem is a friend of Clem.",
+      "Neem's clan was on its way to Canna's clan but stopped responding, which worried Canna.",
+      "Neem's clan ran into trouble during their warp: the triple suns of the Bright Spark star system exploded.",
+      "Neem's clan survived the Bright Spark blast only by lucky coincidence.",
+      "Neem reassured Clem that his clan was still alive and on its way to Canna."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Canna",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Clem",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Bromi",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hyssop",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Neem",
+    "url": "https://outerwilds.fandom.com/wiki/Neem",
+    "fetched_at": "2026-05-28T10:52:05",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

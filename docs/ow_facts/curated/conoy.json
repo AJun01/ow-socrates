@@ -1,0 +1,110 @@
+{
+  "entity": "Conoy",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "brittle_hollow"
+  ],
+  "summary": "Conoy was a male Nomai scientist born on Brittle Hollow long after the Vessel crash, with his grandmother among the survivors. He worked in the Southern Observatory and was the key bridge between Cassava's probe idea and the negative-time-interval research at the High Energy Lab.",
+  "facts": {
+    "biology": [
+      "Conoy is a Nomai.",
+      "Conoy is male."
+    ],
+    "behavior": [
+      "Conoy held a great interest in the Eye of the Universe, especially given he was born long after the crash."
+    ],
+    "location": [
+      "Conoy was born on Brittle Hollow long after the Vessel's crash.",
+      "Conoy worked at the Southern Observatory on Brittle Hollow with Spire."
+    ],
+    "lore": [
+      "Conoy's grandmother was one of the original Vessel survivors.",
+      "Conoy reassured young Solanum that the heat death of the universe would not happen in their lifetimes.",
+      "Conoy visited Ramie and Pye at the High Energy Lab on Ember Twin to see their new technology.",
+      "Conoy once got lost on Ember Twin and was found by Ramie.",
+      "Conoy connected Cassava's probe idea to the High Energy Lab's negative-time-interval technology, enabling the Ash Twin Project.",
+      "Conoy formally asked the High Energy Lab whether creating a 22-minute negative time interval was possible.",
+      "Conoy and Spire built a model of Giant's Deep's cyclones at the Southern Observatory.",
+      "Conoy and Spire's model revealed that Giant's Deep has two different types of cyclone, explaining how a component sank below the upwards current."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Southern Observatory",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    },
+    {
+      "entity": "High Energy Lab",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spire",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Filix",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Daz",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Mallow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Pye",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Conoy",
+    "url": "https://outerwilds.fandom.com/wiki/Conoy",
+    "fetched_at": "2026-05-28T10:51:54",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

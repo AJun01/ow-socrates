@@ -1,0 +1,90 @@
+{
+  "entity": "Tephra",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village",
+    "hide_and_seek",
+    "tutorial"
+  ],
+  "summary": "Tephra is an outgoing Hearthian child found with Galena on a Village porch. Tephra invites the protagonist to play hide-and-seek using the Signalscope and radios, serving as the Signalscope tutorial. They also voice anxiety about the protagonist disappearing like Feldspar did.",
+  "facts": {
+    "biology": [
+      "Tephra is a Hearthian.",
+      "Tephra is a child."
+    ],
+    "behavior": [
+      "Tephra is outgoing and playful, contrasting Galena's shyness.",
+      "Tephra often plays all over the Village and sometimes gets in trouble for it.",
+      "Tephra likes mallows (marshmallows) and considers them their favorite."
+    ],
+    "location": [
+      "Tephra is found with Galena on the front porch of a house in the Village.",
+      "After the protagonist's statue pairing, Tephra moves to the path between the Observatory and the Launch Tower."
+    ],
+    "lore": [
+      "Tephra and Galena failed to borrow Moraine's Signalscope because Moraine considers it too delicate.",
+      "Tephra wanted to hide in the Observatory during hide-and-seek but Hornfels said they were 'making a nuisance of themselves.'",
+      "Tephra learned from Hornfels that Feldspar disappeared in space and was the best pilot ever.",
+      "Tephra worries the protagonist may disappear like Feldspar did, noting the protagonist is not as good as Feldspar.",
+      "Tephra makes the protagonist promise to play hide-and-seek again after returning from space."
+    ],
+    "mechanics": [
+      "Tephra's hide-and-seek minigame serves as the Signalscope tutorial.",
+      "Game rules: Galena and Tephra hide with radios; the protagonist is 'it' and finds them using the Signalscope; last found wins.",
+      "Starting the minigame adds the 'Hide and Seek' frequency to the Signalscope.",
+      "Tephra notes their hiding spot is 'super good' when found first."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Galena",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Moraine",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Nomai Statue",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Tephra",
+    "url": "https://outerwilds.fandom.com/wiki/Tephra",
+    "fetched_at": "2026-05-28T10:51:45",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

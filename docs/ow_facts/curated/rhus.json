@@ -1,0 +1,64 @@
+{
+  "entity": "Rhus",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "ember_twin"
+  ],
+  "summary": "Rhus was a Nomai from the Vessel who landed on Ember Twin with Escape Pod 2 and helped search for a long-term shelter site that became the Sunless City.",
+  "facts": {
+    "biology": [
+      "Rhus is a Nomai.",
+      "Rhus's gender is unknown."
+    ],
+    "behavior": [],
+    "location": [
+      "Rhus landed on Ember Twin with Escape Pod 2."
+    ],
+    "lore": [
+      "Rhus reported to Annona that Escape Pod 2's passengers were afraid but physically well after the crash.",
+      "Rhus explored passages in Ember Twin's cave system while searching for a long-term shelter site.",
+      "Rhus found a passage with nothing of interest but rocks and marked it as worth visiting in a less urgent time."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Ember Twin",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Escape Pods",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Annona",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Rhus",
+    "url": "https://outerwilds.fandom.com/wiki/Rhus",
+    "fetched_at": "2026-05-28T10:52:08",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

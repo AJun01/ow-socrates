@@ -1,0 +1,183 @@
+{
+  "entity": "Yarrow",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "ember_twin",
+    "ash_twin",
+    "project_lead"
+  ],
+  "summary": "Yarrow was a male Nomai who held a high-ranking position in the Sunless City and later became the central coordinator of the Ash Twin Project. He worked on excavating Ash Twin, built its protective shell with Ramie, mediated between project teams, and was Clary's romantic partner.",
+  "facts": {
+    "biology": [
+      "Yarrow is a Nomai.",
+      "Yarrow is male."
+    ],
+    "behavior": [
+      "Yarrow regularly checked in with other critical Ash Twin Project locations.",
+      "Yarrow mediated conflicts between project members.",
+      "Yarrow expressed compassion to teammates whose projects failed."
+    ],
+    "location": [
+      "Yarrow originally held a high-ranking position in the Sunless City on Ember Twin.",
+      "Yarrow later worked on Ash Twin coordinating the Ash Twin Project.",
+      "Yarrow's remains are not found inside the Ash Twin Project but possibly outside the Ash Twin warp tower leading to it."
+    ],
+    "lore": [
+      "Yarrow was the romantic partner of Clary.",
+      "Yarrow asked Ramie and Pye to let him know before re-routing energy from the Sunless City to the High Energy Lab.",
+      "Yarrow asked whether other power sources existed before agreeing to build the Sun Station.",
+      "Yarrow excavated Ash Twin together with Coleus and Ramie to house the Ash Twin Project.",
+      "Yarrow and Ramie built the Ash Twin Project's protective shell using ore from Timber Hearth.",
+      "Yarrow and Ramie checked the shell's interior and exterior for cracks; Oeno joined for the final safety check.",
+      "Yarrow was familiar with the Ash Twin Tower designs.",
+      "Yarrow once believed one Ash Twin warp tower would never activate because its receiver would never align overhead.",
+      "Clary corrected Yarrow: the Hourglass Twins function as a single astral body with a shared alignment point.",
+      "Clary and Root personally delivered the first Ash Twin warp core to Yarrow.",
+      "Yarrow flirted with Clary on a scroll wall, asking to visit White Hole Station together, which started their romance.",
+      "Yarrow recommended Pye and Idaea take time away from the Sun Station to ease their conflicts.",
+      "Yarrow mediated between Poke and Cassava over warp-tower core delivery delays.",
+      "Phlox and Daz demonstrated memory-statue pairing to Yarrow, who praised Phlox's sculpting work as remarkable.",
+      "Yarrow noted Avens could coax maximum power from a device but could just as easily cause one to explode.",
+      "Yarrow considered reminding Avens that Mallow (his spouse) would be aboard the Orbital Probe Cannon.",
+      "Yarrow asked Privet how she and the Orbital Probe Cannon were doing as the ATP neared readiness.",
+      "Privet confirmed the Probe Tracking Module would automatically transmit relevant data to Yarrow.",
+      "After the Sun Station failed, Yarrow offered compassion to Pye and Idaea.",
+      "Yarrow informed Cassava that the Orbital Probe Cannon would not be asked to fire because of the Sun Station failure.",
+      "Yarrow noted the Ash Twin Project remained theoretically sound and wondered if there was another way to power it.",
+      "Yarrow halted supernova research when the Interloper arrived in the solar system to investigate the new comet.",
+      "Yarrow asked Pye to return to Ash Twin and pivot to investigating the Interloper as a distraction from the Sun Station failure.",
+      "Yarrow died when Ghost Matter from the Interloper killed all Nomai in the solar system."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ember Twin",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Ash Twin Towers",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai Statue",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Clary",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Pye",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Idaea",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Poke",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Daz",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Avens",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Mallow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Privet",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Oeno",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Root",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Spire",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Yarrow",
+    "url": "https://outerwilds.fandom.com/wiki/Yarrow",
+    "fetched_at": "2026-05-28T10:52:13",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

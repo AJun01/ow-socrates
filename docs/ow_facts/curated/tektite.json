@@ -1,0 +1,111 @@
+{
+  "entity": "Tektite",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village",
+    "youngbark",
+    "dark_bramble"
+  ],
+  "summary": "Tektite is a veteran Hearthian on firewatch duty for Timber Hearth. They detected smoke from Youngbark Crater and are investigating the Dark Bramble seed that crashed there, hoping to destroy it before its roots set in.",
+  "facts": {
+    "biology": [
+      "Tektite is a Hearthian.",
+      "Tektite has a prosthetic foot.",
+      "Tektite lost their foot in an incident involving Ghost Matter."
+    ],
+    "behavior": [
+      "Tektite was quite the explorer in their younger days.",
+      "Tektite refuses to stick hands blindly into anything as ominous as the Dark Bramble seed.",
+      "Tektite once laughed for a long time at Tuff's 'safety first' advice; Tuff felt it was rude."
+    ],
+    "location": [
+      "Tektite is on firewatch duty for Timber Hearth.",
+      "Tektite operates a static scout launcher in the Village to inspect the planet's surface.",
+      "Tektite can be found at Youngbark Crater, investigating the crashed Dark Bramble seed."
+    ],
+    "lore": [
+      "Tektite saw something crash over the horizon and went to investigate via Little Scout images.",
+      "Tektite identified the crashed object as a plant seed unfamiliar to Timber Hearth and possibly extraterrestrial.",
+      "Tektite acknowledges the seed could be from Dark Bramble based on its appearance.",
+      "Tektite plans to set Marl and Hal loose on the Youngbark Dark Bramble seed for removal.",
+      "Tektite intends to first look inside the seed using the old scout launcher before chopping it up.",
+      "Tektite asks Tuff to help haul the old scout launcher to Youngbark Crater.",
+      "Tektite advises the protagonist not to tell Gneiss about the harmonica music from the seed, fearing Gneiss would oppose its removal.",
+      "Tektite knows Feldspar is the only Hearthian harmonica player and that Feldspar disappeared long ago.",
+      "Tektite considers Tuff hauling the launcher 'a chore' and grumbles the seed should not be 'bigger on the inside.'",
+      "The Dark Bramble seed never becomes a real threat: the universe ends before its roots set deep enough."
+    ],
+    "mechanics": [
+      "Tektite left a note on the static scout launcher in the Village saying the protagonist can use it.",
+      "Tektite signals to the protagonist that the seed has a Little Scout-accessible interior much larger than its exterior."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Marl",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hal",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tuff",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gneiss",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Arkose",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Tektite",
+    "url": "https://outerwilds.fandom.com/wiki/Tektite",
+    "fetched_at": "2026-05-28T10:51:44",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

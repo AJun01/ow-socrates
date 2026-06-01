@@ -1,0 +1,64 @@
+{
+  "entity": "Kousa",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "vessel_crash",
+    "brittle_hollow"
+  ],
+  "summary": "Kousa was a Nomai from the Vessel who landed on Brittle Hollow with Escape Pod 1 after the crash. Kousa's partner Foli was lost, and Kousa's grief over Foli's disappearance is recorded in the temporary settlement.",
+  "facts": {
+    "biology": [
+      "Kousa is a Nomai.",
+      "Kousa's gender is unknown."
+    ],
+    "behavior": [],
+    "location": [
+      "Kousa landed on Brittle Hollow with Escape Pod 1.",
+      "Kousa lived in the temporary Nomai settlement on Brittle Hollow."
+    ],
+    "lore": [
+      "Kousa was a Nomai from Escall's Vessel.",
+      "Kousa was the romantic partner of Foli.",
+      "Kousa could hear the other escape pods' distress signals after landing, which gave them hope.",
+      "Kousa expressed how much they missed Foli and wondered whether Foli was still alive.",
+      "Kousa wrote: 'I am unsure how to survive in this place without you' and 'I am unsure how to be me without you' about Foli."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Escape Pods",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Foli",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Kousa",
+    "url": "https://outerwilds.fandom.com/wiki/Kousa",
+    "fetched_at": "2026-05-28T10:52:00",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

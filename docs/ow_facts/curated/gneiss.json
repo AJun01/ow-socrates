@@ -1,0 +1,92 @@
+{
+  "entity": "Gneiss",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village",
+    "music"
+  ],
+  "summary": "Gneiss is a Hearthian found playing a banjo in a rocking chair outside their home in the Village. Gneiss is the instrument-maker for all the Travelers' musical instruments and reminds the Protagonist to tell other travelers to take care of their instruments.",
+  "facts": {
+    "biology": [
+      "Gneiss is a Hearthian.",
+      "Gneiss plays a banjo."
+    ],
+    "behavior": [
+      "Gneiss laments that every Hearthian who leaves for space is one less musician in the Village orchestra."
+    ],
+    "location": [
+      "Gneiss is found playing banjo in a rocking chair outside their home in the Village on Timber Hearth."
+    ],
+    "lore": [
+      "Gneiss made all the Travelers' musical instruments.",
+      "Gneiss made Chert's drums, Riebeck's banjo, Gabbro's flute, and Feldspar's harmonica.",
+      "Gneiss notes Feldspar has been missing for a long time but still remembers Feldspar playing the harmonica around the campfire.",
+      "Tektite advises the protagonist not to tell Gneiss about the harmonica music from the Dark Bramble seed in Youngbark Crater because Gneiss would not let Tektite get rid of a 'musical' seed.",
+      "Esker's signalscope log notes Esker considered asking Gneiss whether the Signalscope was broken due to uneasy harmonica music from Timber Hearth."
+    ],
+    "mechanics": [
+      "Gneiss tells the protagonist that any music heard in space is from one of the space program's other travelers, and points them to the Signalscope to track them down.",
+      "Gneiss directs the protagonist to the Observatory: up the path behind the waterfall, hooking right at the Zero-G Cave."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Travelers",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Chert",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Riebeck",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Feldspar",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tektite",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Esker",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Gneiss",
+    "url": "https://outerwilds.fandom.com/wiki/Gneiss",
+    "fetched_at": "2026-05-28T10:51:38",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

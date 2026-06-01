@@ -1,0 +1,130 @@
+{
+  "entity": "Thatch",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "brittle_hollow",
+    "eye_signal"
+  ],
+  "summary": "Thatch was a Nomai who landed on Brittle Hollow with Escape Pod 1, formerly Escall's clan's festival envoy. Niece/nephew of Melorae, Thatch was one of the key early voices arguing the Nomai must thrive in order to find the Eye, and helped plan the Eye Signal Locator and the Southern Observatory.",
+  "facts": {
+    "biology": [
+      "Thatch is a Nomai.",
+      "Thatch's gender is unknown."
+    ],
+    "behavior": [
+      "Thatch refused to give up the search for the Eye easily."
+    ],
+    "location": [
+      "Thatch landed on Brittle Hollow with Escape Pod 1.",
+      "Thatch lived first in the temporary Brittle Hollow settlement, then moved to the Hanging City."
+    ],
+    "lore": [
+      "Thatch was Melorae's niece/nephew.",
+      "Thatch was Escall's clan's festival envoy before the Vessel crash.",
+      "Thatch urged the other Nomai to seek shelter from Hollow's Lantern after landing.",
+      "Thatch recorded all their knowledge of the Eye's signal in the temporary settlement.",
+      "Thatch questioned whether the Vessel crashed because of a problem with their destination rather than the Vessel.",
+      "Thatch initially argued the survivors should stay near the escape pod to be reachable for rescue.",
+      "Thatch changed their mind after Plume's argument and supported migrating to the northern glacier to build the Hanging City.",
+      "Thatch, Plume, and Filix together determined the Tower Shard caused the quantum behavior in its grove.",
+      "Thatch hypothesized the Quantum Moon's quantum behavior and the Tower Shard's grove behavior were related.",
+      "Thatch was involved in the Eye Signal Locator on the Attlerock.",
+      "Thatch hypothesized the Eye may have stopped emitting its signal when the Locator's indicator rotated wildly.",
+      "Thatch supported building a more sophisticated locator after the Attlerock device failed.",
+      "Thatch's fate after the Southern Observatory's construction is unknown; they did not participate in the Ash Twin Project."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hanging City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Escape Pods",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye Signal Locator",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Attlerock",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Southern Observatory",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tower of Quantum Knowledge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hollow's Lantern",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Melorae",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Plume",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Filix",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Escall",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Thatch",
+    "url": "https://outerwilds.fandom.com/wiki/Thatch",
+    "fetched_at": "2026-05-28T10:52:12",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

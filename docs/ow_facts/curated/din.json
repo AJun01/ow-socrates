@@ -1,0 +1,68 @@
+{
+  "entity": "Din",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "dark_bramble",
+    "vessel_crash"
+  ],
+  "summary": "Din was a Nomai from the Vessel who crashed deeper into Dark Bramble inside Escape Pod 3. Din first detected the two identical Vessel beacons and warned the false beacon hypothesis, but Escall overruled and the crew followed the closer one to their deaths at the Nomai Grave.",
+  "facts": {
+    "biology": [
+      "Din is a Nomai.",
+      "Din's gender is unknown."
+    ],
+    "behavior": [],
+    "location": [
+      "Din was on Escape Pod 3, which crashed inside Dark Bramble.",
+      "Din's remains are at the Nomai Grave seed inside Dark Bramble."
+    ],
+    "lore": [
+      "Din was a Nomai from Escall's Vessel.",
+      "Din's Escape Pod 3 suffered significant damage including propulsion and life-support failures after multiple collisions altered its trajectory.",
+      "Din first detected that the equipment was picking up two distinct, identical Vessel beacons.",
+      "Din warned Escall that the closer beacon might be false, but Escall overruled and ordered the crew to follow the nearest beacon.",
+      "Din died with the rest of Escape Pod 3's crew at the Nomai Grave seed after they realized the beacon's opening was too small to fit through and oxygen ran out."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Escape Pods",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Escall",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Secca",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Din",
+    "url": "https://outerwilds.fandom.com/wiki/Din",
+    "fetched_at": "2026-05-28T10:51:55",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

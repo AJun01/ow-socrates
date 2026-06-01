@@ -37,6 +37,10 @@ train = [
 serve = [
     "gradio>=4.40.0",
 ]
+layer2 = [
+    "sentence-transformers>=3.0.0",
+    "numpy>=1.26.0",
+]
 
 [project.urls]
 Homepage = "https://github.com/ajyujunliu/ow-socrates"

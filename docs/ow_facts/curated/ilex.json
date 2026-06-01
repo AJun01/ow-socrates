@@ -1,0 +1,122 @@
+{
+  "entity": "Ilex",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Nomai",
+    "Characters"
+  ],
+  "tags": [
+    "nomai_history",
+    "ember_twin",
+    "brittle_hollow"
+  ],
+  "summary": "Ilex was a Nomai child who grew up on both Ember Twin and Brittle Hollow. Ilex played the Anglerfish game with Solanum and other children, wrote a school essay arguing the Nomai should build a new Vessel instead of pouring resources into the Ash Twin Project, and left a cautionary poem about Brittle Hollow's black hole.",
+  "facts": {
+    "biology": [
+      "Ilex is a Nomai.",
+      "Ilex's gender is unknown."
+    ],
+    "behavior": [
+      "Ilex was the tallest child among their Anglerfish-game friends.",
+      "Ilex pushed for older children to wear blindfolds in the Anglerfish game for scientific accuracy."
+    ],
+    "location": [
+      "Ilex grew up on Ember Twin in the Sunless City.",
+      "Ilex later attended school in the Hanging City on Brittle Hollow.",
+      "Ilex visited the Old Settlement on Brittle Hollow."
+    ],
+    "lore": [
+      "Ilex played the Anglerfish game in the Sunless City with Laevi, Lami, Taget, and Solanum.",
+      "Ilex's Anglerfish-game rule was that anyone old enough should wear a blindfold since real Anglerfish are blind.",
+      "Ilex wrote a school essay 'Why We Should Build A New Vessel.'",
+      "Ilex's essay argued the Nomai should build a smaller Vessel first and grow it later by reaching planets with more resources.",
+      "Coleus told Ilex that the Nomai used to meet other clans and learn from them.",
+      "Poke told Ilex of her plans to make a very advanced warp core for a different project.",
+      "Yarrow told Ilex that the Nomai use a lot of resources on the Ash Twin Project.",
+      "Ilex concluded the Nomai should stop building things to search for the Eye and instead build a new Vessel.",
+      "Ilex left a cautionary five-line poem at the Old Settlement warning visitors to look out for Brittle Hollow's central black hole.",
+      "Ilex died when Ghost Matter from the Interloper spread throughout the solar system.",
+      "Ilex's remains' location is not specified."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Ember Twin",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hanging City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Black Hole",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Laevi",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Lami",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Taget",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Ilex",
+    "url": "https://outerwilds.fandom.com/wiki/Ilex",
+    "fetched_at": "2026-05-28T10:51:58",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

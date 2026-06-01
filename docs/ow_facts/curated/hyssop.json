@@ -1,0 +1,67 @@
+{
+  "entity": "Hyssop",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Nomai",
+    "Characters"
+  ],
+  "tags": [
+    "nomai_history",
+    "modern_nomai"
+  ],
+  "summary": "Hyssop is a modern Nomai whose clan's ancestors searched extensively for Escall's missing Vessel after its disappearance. Hyssop confirmed to other modern Nomai that the story of Escall is real history, not myth.",
+  "facts": {
+    "biology": [
+      "Hyssop is a Nomai.",
+      "Hyssop's gender is unknown."
+    ],
+    "behavior": [],
+    "location": [],
+    "lore": [
+      "Hyssop is a modern Nomai (contemporary with Canna, Bromi, Clem, and Neem).",
+      "Hyssop's clan's ancestors searched for Escall's Vessel for a long time after its disappearance.",
+      "Hyssop confirmed to the other modern Nomai that the Disappearance of Escall was not a myth.",
+      "Hyssop noted that the Disappearance of Escall is the only time in Nomai history a Vessel has ever disappeared this way."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Escall",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Canna",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Bromi",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Clem",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Neem",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Hyssop",
+    "url": "https://outerwilds.fandom.com/wiki/Hyssop",
+    "fetched_at": "2026-05-28T10:51:57",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

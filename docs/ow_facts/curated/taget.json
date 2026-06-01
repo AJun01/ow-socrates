@@ -1,0 +1,85 @@
+{
+  "entity": "Taget",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "ember_twin",
+    "giants_deep"
+  ],
+  "summary": "Taget was a male Nomai who grew up on Ember Twin in the Sunless City. Once a fellow Anglerfish-game player, Taget grew taller than Laevi and could no longer fit through the Anglerfish Overlook hole. He later moved to the Statue Workshop on Giant's Deep.",
+  "facts": {
+    "biology": [
+      "Taget is a Nomai.",
+      "Taget is male.",
+      "Taget grew taller than Laevi."
+    ],
+    "behavior": [],
+    "location": [
+      "Taget grew up in the Sunless City on Ember Twin.",
+      "Taget moved to the Statue Workshop on Giant's Deep with Lami and Laevi during Ash Twin Project construction."
+    ],
+    "lore": [
+      "Taget played the Anglerfish game in the Sunless City with Lami, Laevi, Ilex, and Solanum.",
+      "Taget could no longer fit through the Anglerfish Overlook hole after growing taller than Laevi.",
+      "Taget had to seek the Stepping Stone Cave route to reach the Anglerfish fossil instead.",
+      "Taget refused Lami's plan to sneak into Phlox's memory-statue test, citing Phlox's explicit instructions.",
+      "Taget died when Ghost Matter from the Interloper killed all Nomai in the solar system."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Ember Twin",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Statue Island",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Laevi",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Lami",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ilex",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Taget",
+    "url": "https://outerwilds.fandom.com/wiki/Taget",
+    "fetched_at": "2026-05-28T10:52:11",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

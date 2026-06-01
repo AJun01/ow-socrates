@@ -1,0 +1,112 @@
+{
+  "entity": "Melorae",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "ember_twin",
+    "quantum"
+  ],
+  "summary": "Melorae was a female Nomai biologist from the Vessel who landed on Ember Twin with Escape Pod 2. She co-founded the Sunless City, mentored Coleus, observed the Quantum Moon, and was the first to propose the Sixth Location hypothesis.",
+  "facts": {
+    "biology": [
+      "Melorae is a Nomai.",
+      "Melorae is female."
+    ],
+    "behavior": [
+      "Melorae was an admirer of the Quantum Moon.",
+      "Melorae believed it's never too early to appreciate biology."
+    ],
+    "location": [
+      "Melorae landed on Ember Twin with Escape Pod 2.",
+      "Melorae lived in the Sunless City on Ember Twin.",
+      "Melorae died at some unknown point before the Ash Twin Project began."
+    ],
+    "lore": [
+      "Melorae was Thatch's aunt.",
+      "Melorae was Coleus's mentor.",
+      "Melorae noticed Ember Twin's underground temperatures were more bearable than the surface and recommended building shelter in the cave system.",
+      "Melorae and Coleus discovered the cavern where the Sunless City would be built.",
+      "Melorae and Coleus studied the Anglerfish fossil in the Sunless City.",
+      "Melorae's analysis concluded the Anglerfish fossil died of starvation and was the same species as the Dark Bramble Anglerfish.",
+      "Melorae and Coleus concluded the Anglerfish fossil did not originate from Ember Twin.",
+      "Melorae was delighted that the children incorporated her Anglerfish-blindness research into their game.",
+      "Melorae first observed the Quantum Moon orbiting Dark Bramble, expanding the locator's confirmed positions from four to five.",
+      "Melorae proposed a Sixth Location hypothesis when Bur noted the locator sometimes could not find the Quantum Moon.",
+      "Melorae and Coleus studied the wandering Cave Shard in the Lakebed Cave.",
+      "Melorae was taking notes when her lantern died and Coleus vanished with the Cave Shard.",
+      "Melorae became deeply worried about Coleus's limited oxygen supply during his disappearance.",
+      "Nomai from the Sunless City joined Melorae to search for Coleus.",
+      "Melorae made Coleus promise never to vanish again, even if he learned something useful.",
+      "Melorae told Coleus about a subterranean species their clan once encountered while traveling across the universe.",
+      "Coleus thought Melorae would have enjoyed meeting the Hearthian ancestors on Timber Hearth."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Ember Twin",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Escape Pods",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Thatch",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Annona",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Bur",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Melorae",
+    "url": "https://outerwilds.fandom.com/wiki/Melorae",
+    "fetched_at": "2026-05-28T10:52:03",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

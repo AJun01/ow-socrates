@@ -1,0 +1,64 @@
+{
+  "entity": "Galena",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village",
+    "hide_and_seek"
+  ],
+  "summary": "Galena is a shy Hearthian child found with Tephra on a Village porch. Galena participates in Tephra's hide-and-seek minigame using the Signalscope and radios; their dialogue appears in unusually small text reflecting their quietness.",
+  "facts": {
+    "biology": [
+      "Galena is a Hearthian.",
+      "Galena is a child."
+    ],
+    "behavior": [
+      "Galena is characterized as shy.",
+      "Galena's dialogue is shown in smaller font size than other Hearthians."
+    ],
+    "location": [
+      "Galena is found with Tephra on the front porch of a house in the Village on Timber Hearth.",
+      "Galena and Tephra each carry a radio for the hide-and-seek minigame."
+    ],
+    "lore": [],
+    "mechanics": [
+      "Galena is one of the children the protagonist hides from in Tephra's hide-and-seek minigame.",
+      "Galena's radio signal is detectable via the Signalscope on the Hide and Seek frequency."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Tephra",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Galena",
+    "url": "https://outerwilds.fandom.com/wiki/Galena",
+    "fetched_at": "2026-05-28T10:51:37",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

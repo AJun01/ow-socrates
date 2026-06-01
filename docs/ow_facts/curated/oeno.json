@@ -1,0 +1,106 @@
+{
+  "entity": "Oeno",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "timber_hearth"
+  ],
+  "summary": "Oeno was a Nomai from Brittle Hollow who led the extraction and shipping of Timber Hearth ore for the Ash Twin Project's protective shell. Oeno worked with Coleus and Cycad on Timber Hearth and offered to help with the final shell-safety check on Ash Twin.",
+  "facts": {
+    "biology": [
+      "Oeno is a Nomai.",
+      "Oeno's gender is unknown."
+    ],
+    "behavior": [
+      "Oeno was repeatedly amazed by the sheer amount of ore the Ash Twin Project required."
+    ],
+    "location": [
+      "Oeno originally came from Brittle Hollow.",
+      "Oeno moved to Timber Hearth to mine ore for the Ash Twin Project."
+    ],
+    "lore": [
+      "Oeno was assisted by Coleus and Cycad in mining Timber Hearth ore.",
+      "Oeno participated in the warp-core discussion and noted the greatest challenge was lacking both the design and original crafters of the Vessel's warp core.",
+      "Oeno's Timber Hearth ore was used to craft the immensely thick protective shell sealing off Ash Twin's central chamber.",
+      "Oeno and the crew abandoned Mining Site 2a after Coleus determined it would not be safe for the native Hearthian ancestors.",
+      "Oeno relocated mining to Site 2b on Coleus and Cycad's recommendation.",
+      "Oeno's team shipped different ore types to Root on Hollow's Lantern for direct-heat survival testing.",
+      "Root's testing identified an ore type that survives long enough in direct heat to serve as supernova-proof encasing.",
+      "Oeno offered an extra set of eyes for the Ash Twin Project shell's final crack inspection alongside Yarrow and Ramie."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hearthian",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Cycad",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Root",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Hollow's Lantern",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Oeno",
+    "url": "https://outerwilds.fandom.com/wiki/Oeno",
+    "fetched_at": "2026-05-28T10:52:06",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

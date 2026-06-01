@@ -1,0 +1,76 @@
+{
+  "entity": "Spinel",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village",
+    "giants_deep_lore"
+  ],
+  "summary": "Spinel is a Hearthian fisher who fishes in the Village river just before the cascade. Despite being a freshwater fisher, Spinel loves telling sea-related stories — most notably about Gabbro's first dive on Giant's Deep and the tentacle they glimpsed in the dark.",
+  "facts": {
+    "biology": [
+      "Spinel is a Hearthian."
+    ],
+    "behavior": [
+      "Spinel sings rhymes to pass the time while fishing but is not very good at it.",
+      "Spinel loves telling sea-related stories despite being a freshwater fisher.",
+      "Spinel despises being interrupted mid-story and becomes annoyed at disinterest.",
+      "Spinel directs anyone looking for Hornfels to the Observatory, saying they've literally never seen Hornfels anywhere else."
+    ],
+    "location": [
+      "Spinel is found fishing with a rod in the Village river just before the cascade on Timber Hearth."
+    ],
+    "lore": [
+      "Spinel heard Gabbro's first-dive story late at night around the campfire after the rest of the village had left.",
+      "Spinel recounts that Gabbro landed easily on Giant's Deep but couldn't see far down due to murky water.",
+      "Spinel recounts that Gabbro tried to dive deeper but was held back by what Gabbro felt as a protective current.",
+      "Spinel recounts that Gabbro saw the tentacle of a hideous beast (a Jellyfish) in the darkness.",
+      "Spinel believes Gabbro's story despite Gabbro being 'fanciful,' acknowledging sap wine may have been involved.",
+      "Spinel encourages the protagonist to bring back new stories for the village campfire."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Jellyfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Spinel",
+    "url": "https://outerwilds.fandom.com/wiki/Spinel",
+    "fetched_at": "2026-05-28T10:51:43",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

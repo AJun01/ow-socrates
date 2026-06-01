@@ -1,0 +1,76 @@
+{
+  "entity": "Secca",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Nomai",
+    "Characters"
+  ],
+  "tags": [
+    "nomai_history",
+    "dark_bramble",
+    "vessel_crash"
+  ],
+  "summary": "Secca was a Nomai from the Vessel who crashed deeper into Dark Bramble inside Escape Pod 3. Secca documented the crew's deteriorating situation in recordings and was the first to recognize Dark Bramble seems to manipulate space itself.",
+  "facts": {
+    "biology": [
+      "Secca is a Nomai.",
+      "Secca's gender is unknown."
+    ],
+    "behavior": [],
+    "location": [
+      "Secca was on Escape Pod 3 with Escall, Din, and several other Nomai.",
+      "Secca's remains are near the Nomai Grave seed inside Dark Bramble."
+    ],
+    "lore": [
+      "Secca's Escape Pod 3 had its movement and communication capabilities destroyed in the crash.",
+      "Secca recorded that the crew's air supply was nearly depleted and Anglerfish attacks were increasing.",
+      "Secca decided returning to the Vessel was the crew's best chance: either to repair the damage or, more likely, await rescue.",
+      "Secca rejected Din's two-beacons reading at first, saying the Vessel could not be in two locations simultaneously.",
+      "Secca pressed that the crew was nearly out of time as the Vessel's beacon faded.",
+      "Secca was the first to note that Dark Bramble seems to manipulate space itself.",
+      "Secca felt the cruelty of being so close to the Vessel's location yet unable to reach it.",
+      "Secca's final hope was that other escape pods had reached relative safety.",
+      "Secca died near the Nomai Grave seed when the crew's oxygen ran out."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Escape Pods",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "appears_at"
+    },
+    {
+      "entity": "Escall",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Din",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Secca",
+    "url": "https://outerwilds.fandom.com/wiki/Secca",
+    "fetched_at": "2026-05-28T10:52:10",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

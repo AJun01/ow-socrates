@@ -1,0 +1,69 @@
+{
+  "entity": "Mitis",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "hanging_city",
+    "warp"
+  ],
+  "summary": "Mitis was a Nomai from Brittle Hollow who lived in the Hanging City. Mitis took the position in the Ash Twin Project warp-core debate that the Nomai should relearn how to make an advanced warp core rather than try to recover the Vessel's old one.",
+  "facts": {
+    "biology": [
+      "Mitis is a Nomai.",
+      "Mitis's gender is unknown."
+    ],
+    "behavior": [],
+    "location": [
+      "Mitis lived in the Hanging City on Brittle Hollow."
+    ],
+    "lore": [
+      "Mitis participated in the Ash Twin Project warp-core discussion.",
+      "Mitis acknowledged Spire's argument that abandoning the Vessel's warp core meant losing valuable knowledge.",
+      "Mitis argued the Nomai had little hope of recovering the Vessel's knowledge and should relearn how to make an advanced warp core instead."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hanging City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spire",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Mitis",
+    "url": "https://outerwilds.fandom.com/wiki/Mitis",
+    "fetched_at": "2026-05-28T10:52:04",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "entity": "Hal",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians",
+    "Outer Wilds Ventures Members"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village",
+    "translator",
+    "observatory"
+  ],
+  "summary": "Hal is a Hearthian located in the Village Observatory on Timber Hearth and the Protagonist's close friend. Hal and the Protagonist built the Nomai Translator Tool together, and Hal is excited about the new fully-intact Nomai statue Gabbro brought back from Giant's Deep.",
+  "facts": {
+    "biology": [
+      "Hal is a Hearthian."
+    ],
+    "behavior": [
+      "Hal is excitable and gets nauseous when nervous.",
+      "Hal speaks in playful, casual tones, calling the Protagonist 'buddy.'",
+      "Hal becomes very animated when discussing the Nomai or the Translator."
+    ],
+    "location": [
+      "Hal is found in the Village Observatory on Timber Hearth.",
+      "After the protagonist activates the Nomai Statue, Hal moves just outside the Observatory."
+    ],
+    "lore": [
+      "Hal is a member of Outer Wilds Ventures.",
+      "Hal is the Protagonist's close friend since they were both hatchlings.",
+      "Hal and the Protagonist co-invented the Nomai Translator tool, and Launch Day is the tool's inaugural flight.",
+      "Hornfels considers Hal and the Protagonist's work on the Translator deserving of pride.",
+      "Hal is fascinated by the new fully-intact Nomai statue that Gabbro brought back from Giant's Deep.",
+      "Hal notes the statue is the first fully-intact Nomai statue ever found and in remarkable condition for its age.",
+      "Hal is fascinated by the Nomai having fur, calling fur 'weird.'",
+      "Hal learned from Hornfels that the new statue is made of the same special stone as Chert's partial statue from the Hourglass Twins.",
+      "Hal learned that when Gabbro chipped the new statue, the fragment was repurposed by Slate for the ship's computer.",
+      "Hal hypothesizes that the Nomai Memory Statues may have been made for storing information.",
+      "Hal hypothesizes the protagonist's encounter with the statue is unusual: Hornfels tried everything to open its eyes and never got a reaction like that.",
+      "After the time loop begins, Hal recognizes the museum statue's eyes are now open and notes 'no one actually saw it happen.'",
+      "Hal notes the Nomai Statue's eyes were closed prior to the protagonist's activation.",
+      "Marl mentions Hal will miss the protagonist after launch.",
+      "Slate tells the protagonist that Hal is waiting at the Observatory to see them off.",
+      "Tektite considered setting Marl and Hal loose on the Dark Bramble seed in Youngbark Crater, hoping a treekeeper could get rid of it.",
+      "Chert's research note at the Ember Twin Eye Locator wishes Hal and the new astronaut's translator tool were handy."
+    ],
+    "mechanics": [
+      "Hal points the protagonist to the Attlerock ruins as a beginner-friendly first trip into space.",
+      "Hal tells the protagonist Gabbro can be found on one of Giant's Deep islands and is easy to locate with the Signalscope due to flute music.",
+      "If asked to help translate the Stranger language (with Echoes of the Eye installed), Hal estimates needing a hundred samples, an epigraphical codex, and six months to develop a vague gist of the grapheme system.",
+      "Hal asks if the protagonist is medically fit to launch if they report seeing the statue's eyes open and hallucinations of glowing lights.",
+      "Hal suggests sitting down to rest if the protagonist is not feeling well before launch."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Observatory",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Translation Tool",
+      "relation": "built_by"
+    },
+    {
+      "entity": "The Protagonist",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai Statue",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Gabbro",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Slate",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Chert",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Marl",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Tektite",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Stranger",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Hal",
+    "url": "https://outerwilds.fandom.com/wiki/Hal",
+    "fetched_at": "2026-05-28T10:51:39",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

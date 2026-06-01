@@ -1,0 +1,82 @@
+{
+  "entity": "Rutile",
+  "entity_type": "character",
+  "aliases": [
+    "Mayor Rutile"
+  ],
+  "categories": [
+    "Characters",
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village",
+    "mayor"
+  ],
+  "summary": "Rutile is the mayor of the Village on Timber Hearth, in a constant state of worry about the space program burning down the village and about keeping Marl from cutting down the tallest tree in the crater.",
+  "facts": {
+    "biology": [
+      "Rutile is a Hearthian."
+    ],
+    "behavior": [
+      "Rutile constantly worries about fires caused by the space program and Mica's model rockets.",
+      "Rutile sleeps with a bucket of water next to their bed in case of fires.",
+      "Rutile watches every launch from a safe distance, mostly to make sure nothing catches fire."
+    ],
+    "location": [
+      "Rutile is found at the base of the Launch Tower in the Village.",
+      "Rutile remains at the base of the Launch Tower throughout the game."
+    ],
+    "lore": [
+      "Rutile is the mayor of the Village on Timber Hearth.",
+      "Rutile considers it their duty as mayor to stop Marl from cutting down the tallest tree.",
+      "Rutile suspects Marl hit their head when they fell out of the tallest tree as a hatchling.",
+      "Rutile acknowledges the space program has come a long way and now causes fewer flash fires than its predecessors.",
+      "Moraine notes that Marl doesn't see eye-to-eye with Rutile about the tree.",
+      "Rutile mentions concerns about retro rockets when wishing the protagonist good luck."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Launch Tower",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Marl",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Mica",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Moraine",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Rutile",
+    "url": "https://outerwilds.fandom.com/wiki/Rutile",
+    "fetched_at": "2026-05-28T10:51:43",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

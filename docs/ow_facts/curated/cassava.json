@@ -2,30 +2,34 @@
   "entity": "Cassava",
   "entity_type": "character",
   "aliases": [],
-  "categories": ["Characters", "Nomai", "Ash Twin Project Members"],
-  "tags": ["nomai_history", "ash_twin_project", "orbital_probe_cannon", "giants_deep"],
-
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "orbital_probe_cannon",
+    "giants_deep"
+  ],
   "summary": "Cassava was a male Nomai from Brittle Hollow who worked at the Construction Yard on Giant's Deep as part of the Ash Twin Project. Married to Daz and brother-in-law to Avens, Cassava co-built the Orbital Probe Cannon despite increasingly believing the Eye of the Universe might be impossible to find.",
-
   "facts": {
     "biology": [
       "Cassava is a Nomai.",
       "Cassava is male."
     ],
-
     "behavior": [
       "Cassava is increasingly pessimistic about the Nomai's chances of finding the Eye.",
       "Cassava openly suspected the Eye might not wish to be found.",
       "Cassava chronically interrupted Poke's forge work to ask for updates.",
       "Cassava frequently argued with Poke and required Clary and Yarrow as mediators."
     ],
-
     "location": [
       "Cassava originally came from Brittle Hollow.",
       "Cassava relocated to the Construction Yard on Giant's Deep to build the Orbital Probe Cannon.",
       "Cassava's corpse can be found at the Construction Yard on Giant's Deep."
     ],
-
     "lore": [
       "Cassava grew up hearing the Nomai's story of their search for the Eye of the Universe.",
       "Cassava was the husband of Daz.",
@@ -52,40 +56,100 @@
       "Cassava and Daz remained at the Construction Yard after the Ash Twin Project was put on indefinite hold.",
       "Cassava felt grateful and overjoyed when the Orbital Probe Cannon was finally finished, believing it would succeed."
     ],
-
     "mechanics": []
   },
-
   "related_entities": [
-    {"entity": "Nomai", "relation": "member_of"},
-    {"entity": "Brittle Hollow", "relation": "lives_in"},
-    {"entity": "Giant's Deep", "relation": "lives_in"},
-    {"entity": "Construction Yard", "relation": "lives_in"},
-    {"entity": "Ash Twin Project", "relation": "related_to"},
-    {"entity": "Orbital Probe Cannon", "relation": "related_to"},
-    {"entity": "Eye of the Universe", "relation": "related_to"},
-    {"entity": "Eye Signal Locator", "relation": "built_by"},
-    {"entity": "Daz", "relation": "related_to"},
-    {"entity": "Avens", "relation": "related_to"},
-    {"entity": "Mallow", "relation": "related_to"},
-    {"entity": "Poke", "relation": "related_to"},
-    {"entity": "Clary", "relation": "related_to"},
-    {"entity": "Filix", "relation": "mentioned_by"},
-    {"entity": "Conoy", "relation": "mentioned_by"},
-    {"entity": "Spire", "relation": "mentioned_by"},
-    {"entity": "Phlox", "relation": "mentioned_by"},
-    {"entity": "Yarrow", "relation": "mentioned_by"},
-    {"entity": "Idaea", "relation": "mentioned_by"},
-    {"entity": "Pye", "relation": "mentioned_by"},
-    {"entity": "Ramie", "relation": "mentioned_by"}
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Construction Yard",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye Signal Locator",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Daz",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Avens",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Mallow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Poke",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Clary",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Filix",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Conoy",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Spire",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Idaea",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Pye",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ramie",
+      "relation": "mentioned_by"
+    }
   ],
-
   "source": {
     "page": "Cassava",
     "url": "https://outerwilds.fandom.com/wiki/Cassava",
     "fetched_at": "2026-05-28T10:51:51",
-    "audited_by_human": false,
-    "audit_date": null,
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
     "confidence": "high"
   }
 }

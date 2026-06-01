@@ -1,0 +1,91 @@
+{
+  "entity": "Moraine",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village",
+    "signalscope"
+  ],
+  "summary": "Moraine is a Hearthian who sits on a platform atop the tallest tree in the Village to listen to Travelers' music on their Signalscope. They stay in the tree to keep Marl from cutting it down.",
+  "facts": {
+    "biology": [
+      "Moraine is a Hearthian."
+    ],
+    "behavior": [
+      "Moraine enjoys using the Signalscope to pick up sounds from distant planets.",
+      "Moraine considers Signalscopes 'cool.'",
+      "Moraine refuses to let Tephra and Galena borrow their Signalscope for hide-and-seek, considering it too delicate to be thrown around."
+    ],
+    "location": [
+      "Moraine is found on a platform atop the tallest tree in the Village on Timber Hearth.",
+      "Moraine chose the tree platform for its view of the planets."
+    ],
+    "lore": [
+      "Moraine keeps their Signalscope tuned to the Outer Wilds Ventures frequency to hear the Travelers' music.",
+      "Moraine recently heard Riebeck's banjo coming from Brittle Hollow and took it as a sign Riebeck is safe.",
+      "Moraine notes that which planets are audible depends on time of day, since different planets are in the sky at different times.",
+      "Moraine stays in the tree as much as possible to prevent Marl from cutting it down.",
+      "Moraine knows Mayor Rutile has told Marl not to cut the tree down, but doubts Marl and Rutile agree on it."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Signalscope",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Outer Wilds Ventures",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Travelers",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Riebeck",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Marl",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Rutile",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Tephra",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Galena",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Moraine",
+    "url": "https://outerwilds.fandom.com/wiki/Moraine",
+    "fetched_at": "2026-05-28T10:51:41",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

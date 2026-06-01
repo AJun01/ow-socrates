@@ -1,0 +1,114 @@
+{
+  "entity": "Daz",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "memory_statue",
+    "giants_deep"
+  ],
+  "summary": "Daz was a male Nomai who built the memory storage masks for the Ash Twin Project alongside Phlox. Husband of Cassava and brother of Avens, he also helped construct the Orbital Probe Cannon and was the first Nomai to be paired with a memory statue as a test.",
+  "facts": {
+    "biology": [
+      "Daz is a Nomai.",
+      "Daz is male."
+    ],
+    "behavior": [],
+    "location": [
+      "Daz worked at the Statue Workshop on Statue Island in Giant's Deep, building memory storage masks.",
+      "Daz also worked at the Construction Yard on Giant's Deep with Cassava.",
+      "Daz's corpse can be found at the Construction Yard on Giant's Deep."
+    ],
+    "lore": [
+      "Daz was the husband of Cassava.",
+      "Daz was the brother of Avens.",
+      "Daz built the memory storage masks that became critical components of the Ash Twin Project.",
+      "Daz helped Phlox create the memory statues that paired with the masks.",
+      "Daz was the first Nomai paired with a memory statue, used to test that pairing chooses whoever is in closest proximity.",
+      "Daz argued in the Statue Workshop philosophy debate that sending memories back in time is a different action than sending a being back in time.",
+      "Daz believed time being rewritten differs from receiving memories from the future.",
+      "Daz proposed giving Avens and Mallow a maximum cannon power setting slightly below the structural absolute, to leave room for their enthusiasm.",
+      "Daz and Cassava lifted Orbital Probe Cannon components into orbit using Giant's Deep's cyclones.",
+      "Daz was deeply curious about how a cannon component sank below the upwards current; Cassava talked him out of recreating the phenomenon himself.",
+      "Daz was surprised by Cassava's atypical declaration of gratitude when the Orbital Probe Cannon was finished, calling Cassava 'gelatinous.'",
+      "Daz and Cassava remained at the Construction Yard together with Avens and Mallow after the Ash Twin Project was put on indefinite hold."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Construction Yard",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Statue Island",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai Statue",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Avens",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Mallow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Conoy",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Spire",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Daz",
+    "url": "https://outerwilds.fandom.com/wiki/Daz",
+    "fetched_at": "2026-05-28T10:51:54",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

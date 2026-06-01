@@ -1,0 +1,85 @@
+{
+  "entity": "Marl",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village"
+  ],
+  "summary": "Marl is the Village tree keeper on Timber Hearth. They hold a long-running grudge against the tallest tree in the Village after falling out of it as a hatchling, and constantly try to convince villagers it should be cut down.",
+  "facts": {
+    "biology": [
+      "Marl is a Hearthian."
+    ],
+    "behavior": [
+      "Marl holds a long-running grudge against the tallest tree in the Village.",
+      "Marl denies the grudge has anything to do with falling out of the tree as a hatchling.",
+      "Marl seizes on any excuse (a new launch pad, a new porch) to suggest cutting the tree down."
+    ],
+    "location": [
+      "Marl is the tree keeper for the Village on Timber Hearth.",
+      "Marl is found in the Village."
+    ],
+    "lore": [
+      "Marl fell out of the Village's tallest tree as a hatchling and broke their arm.",
+      "Marl claims the current launch pad is old and flammable and proposes the tallest tree as material for a new one.",
+      "Marl pretends not to mind Esker on the Attlerock; Esker chuckles Marl is probably the only one who remembers them up there.",
+      "Mayor Rutile considers it their duty to prevent Marl from cutting down the tallest tree.",
+      "Mayor Rutile suspects Marl hit their head when they fell from the tree.",
+      "Moraine stays in the tallest tree as much as possible specifically to prevent Marl from cutting it down.",
+      "Tektite considered setting Marl and Hal loose on the Dark Bramble seed in Youngbark Crater, citing tree keepers' speed at removing unwanted plants.",
+      "Esker sometimes uses their Little Scout to check on Marl to make sure they aren't 'doing anything stupid' regarding the tree."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hal",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Esker",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Moraine",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Rutile",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tektite",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Marl",
+    "url": "https://outerwilds.fandom.com/wiki/Marl",
+    "fetched_at": "2026-05-28T10:51:39",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

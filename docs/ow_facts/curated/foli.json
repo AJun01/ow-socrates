@@ -1,0 +1,62 @@
+{
+  "entity": "Foli",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "vessel_crash"
+  ],
+  "summary": "Foli was a Nomai from the Vessel who went missing after the Vessel crashed on Dark Bramble. Foli's partner Kousa escaped on Escape Pod 1 to Brittle Hollow and never learned what happened to Foli.",
+  "facts": {
+    "biology": [
+      "Foli is a Nomai.",
+      "Foli's gender is unknown."
+    ],
+    "behavior": [],
+    "location": [
+      "Foli was last on the Vessel before it crashed on Dark Bramble.",
+      "Foli's fate after the Vessel crash is unknown."
+    ],
+    "lore": [
+      "Foli was a Nomai from Escall's Vessel.",
+      "Foli was the romantic partner of Kousa.",
+      "Kousa wondered whether Foli was still alive after escaping to Brittle Hollow on Escape Pod 1.",
+      "Kousa wrote: 'I am unsure how to survive in this place without you' and 'I am unsure how to be me without you' about Foli."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Escape Pods",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Kousa",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Foli",
+    "url": "https://outerwilds.fandom.com/wiki/Foli",
+    "fetched_at": "2026-05-28T10:51:57",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

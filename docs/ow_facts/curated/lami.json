@@ -1,0 +1,103 @@
+{
+  "entity": "Lami",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "ember_twin",
+    "giants_deep"
+  ],
+  "summary": "Lami was a Nomai child who grew up on Brittle Hollow and Ember Twin. Sibling of Laevi and niece/nephew of Pye, Lami was the youngest Anglerfish-game player and the only one still small enough to fit through the Anglerfish Overlook hole.",
+  "facts": {
+    "biology": [
+      "Lami is a Nomai.",
+      "Lami's gender is unknown."
+    ],
+    "behavior": [
+      "Lami was a curious, mildly rule-breaking child."
+    ],
+    "location": [
+      "Lami grew up on Brittle Hollow and Ember Twin.",
+      "Lami attended school in the Hanging City.",
+      "Lami moved to the Statue Workshop on Giant's Deep with Laevi and Taget during Ash Twin Project construction."
+    ],
+    "lore": [
+      "Lami was the sibling of Laevi.",
+      "Lami was the niece/nephew of Pye.",
+      "Lami played the Anglerfish game in the Sunless City with Laevi, Taget, Ilex, and Solanum.",
+      "Lami was still small enough to climb through the hole at the Anglerfish Overlook.",
+      "Lami gave the Anglerfish fossil a new lantern using the hole-access route.",
+      "Lami opposed Laevi's blindfold rule, saying the game was too hard if you cannot see anything.",
+      "Lami wrote a school essay 'Explanation of Festivals' describing Nomai clans gathering to share science and art.",
+      "Lami proposed sneaking into Phlox's memory-statue test through the alternative entrance; Taget and Laevi refused.",
+      "Lami died when Ghost Matter from the Interloper killed all Nomai in the solar system."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Ember Twin",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hanging City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Statue Island",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Laevi",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Pye",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ilex",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Taget",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Lami",
+    "url": "https://outerwilds.fandom.com/wiki/Lami",
+    "fetched_at": "2026-05-28T10:52:02",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

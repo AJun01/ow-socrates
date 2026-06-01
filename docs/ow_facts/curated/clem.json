@@ -2,21 +2,22 @@
   "entity": "Clem",
   "entity_type": "character",
   "aliases": [],
-  "categories": ["Nomai", "Characters"],
-  "tags": ["nomai_history", "modern_nomai"],
-
+  "categories": [
+    "Nomai",
+    "Characters"
+  ],
+  "tags": [
+    "nomai_history",
+    "modern_nomai"
+  ],
   "summary": "Clem is a modern Nomai and a friend of Neem. As a child, Clem heard the story of Escall's Vessel suddenly going silent — a tale that took on new weight when Neem's clan briefly stopped responding during their warp to Canna.",
-
   "facts": {
     "biology": [
       "Clem is a Nomai.",
       "Clem's gender is unknown."
     ],
-
     "behavior": [],
-
     "location": [],
-
     "lore": [
       "Clem is a modern Nomai (contemporary with Canna, Bromi, Hyssop, and Neem).",
       "Clem is a friend of Neem.",
@@ -24,26 +25,44 @@
       "Clem feared Neem's clan was lost when they stopped sending messages.",
       "Clem expressed relief when Neem confirmed his clan was still alive after the Bright Spark triple-sun explosion."
     ],
-
     "mechanics": []
   },
-
   "related_entities": [
-    {"entity": "Nomai", "relation": "member_of"},
-    {"entity": "Neem", "relation": "related_to"},
-    {"entity": "Canna", "relation": "related_to"},
-    {"entity": "Bromi", "relation": "related_to"},
-    {"entity": "Hyssop", "relation": "related_to"},
-    {"entity": "Escall", "relation": "mentioned_by"},
-    {"entity": "The Vessel", "relation": "related_to"}
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Neem",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Canna",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Bromi",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hyssop",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Escall",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    }
   ],
-
   "source": {
     "page": "Clem",
     "url": "https://outerwilds.fandom.com/wiki/Clem",
     "fetched_at": "2026-05-28T10:51:53",
-    "audited_by_human": false,
-    "audit_date": null,
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
     "confidence": "high"
   }
 }

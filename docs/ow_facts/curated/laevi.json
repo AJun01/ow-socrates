@@ -1,0 +1,98 @@
+{
+  "entity": "Laevi",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "ember_twin",
+    "giants_deep"
+  ],
+  "summary": "Laevi was a Nomai child who grew up on Brittle Hollow and Ember Twin. Sibling of Lami and niece/nephew of Pye, Laevi enforced the blindfold rule in the Anglerfish game and later moved to the Statue Workshop on Giant's Deep with the other children.",
+  "facts": {
+    "biology": [
+      "Laevi is a Nomai.",
+      "Laevi's gender is unknown."
+    ],
+    "behavior": [
+      "Laevi insisted on rules being followed in the Anglerfish game."
+    ],
+    "location": [
+      "Laevi grew up on Brittle Hollow and Ember Twin.",
+      "Laevi moved to the Statue Workshop on Giant's Deep with Lami and Taget during Ash Twin Project construction."
+    ],
+    "lore": [
+      "Laevi was the sibling of Lami.",
+      "Laevi was the niece/nephew of Pye.",
+      "Laevi expected to grow tall like their parents.",
+      "Laevi played the Anglerfish game in the Sunless City with Taget, Ilex, Solanum, and Lami.",
+      "Laevi left instructions for kids too tall for the Anglerfish Overlook hole: go through the Stepping Stone Cave instead.",
+      "Laevi cited Pye's information that real Anglerfish are blind to add a blindfold rule to the game.",
+      "Laevi's blindfold rule was later softened by Ilex so younger kids did not have to wear one.",
+      "Laevi argued against Lami's plan to sneak into Phlox's dangerous memory-statue test, citing the risk.",
+      "Laevi died when Ghost Matter from the Interloper killed all Nomai in the solar system."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Ember Twin",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Statue Island",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Lami",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Pye",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Solanum",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ilex",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Taget",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Laevi",
+    "url": "https://outerwilds.fandom.com/wiki/Laevi",
+    "fetched_at": "2026-05-28T10:52:01",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

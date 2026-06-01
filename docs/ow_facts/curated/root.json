@@ -1,0 +1,100 @@
+{
+  "entity": "Root",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "warp",
+    "black_hole_forge"
+  ],
+  "summary": "Root was a male Nomai who worked at the Black Hole Forge on Brittle Hollow with Poke and Clary. Root proposed using warp towers to connect Ash Twin directly to each Ash Twin Project location and ran the Hollow's Lantern ore-survival tests for the Project's shell.",
+  "facts": {
+    "biology": [
+      "Root is a Nomai.",
+      "Root is male."
+    ],
+    "behavior": [],
+    "location": [
+      "Root worked in the Black Hole Forge on Brittle Hollow with Clary and Poke.",
+      "Root conducted ore-survival tests at Hollow's Lantern."
+    ],
+    "lore": [
+      "Root proposed the idea of using warp towers like the White Hole Station's to connect Ash Twin directly to each Ash Twin Project location.",
+      "Root installed simple warp cores at the destinations and delivered them from the Forge.",
+      "Root initially had trouble figuring out where each new warp core was supposed to go.",
+      "Clary helped Root deliver the first core to Ash Twin to make sure Yarrow received it.",
+      "Root tested different Timber Hearth ore types in Hollow's Lantern's direct heat for the Ash Twin Project shell.",
+      "Root identified the ore type that survives longest in direct heat as suitable for sealing off the Ash Twin Project.",
+      "Root expressed curiosity about crafting a supernova-proof encasement, however briefly."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Black Hole Forge",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Ash Twin Towers",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Hollow's Lantern",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Poke",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Clary",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Oeno",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "White Hole Station",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Root",
+    "url": "https://outerwilds.fandom.com/wiki/Root",
+    "fetched_at": "2026-05-28T10:52:09",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

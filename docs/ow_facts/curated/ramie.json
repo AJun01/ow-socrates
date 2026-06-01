@@ -1,0 +1,140 @@
+{
+  "entity": "Ramie",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "high_energy_lab",
+    "ember_twin"
+  ],
+  "summary": "Ramie was a female Nomai who grew up in the Sunless City and worked at the High Energy Lab. With Pye, she experimentally confirmed the negative time interval that became the foundation of the Ash Twin Project, and later installed Daz's memory masks inside the Project itself.",
+  "facts": {
+    "biology": [
+      "Ramie is a Nomai.",
+      "Ramie is female."
+    ],
+    "behavior": [
+      "Ramie never gave up hope that the Nomai could find a way to create a supernova, even after the Sun Station failed."
+    ],
+    "location": [
+      "Ramie grew up in the Sunless City on Ember Twin.",
+      "Ramie worked at the High Energy Lab on Ember Twin.",
+      "Ramie later worked inside the Ash Twin Project on Ash Twin."
+    ],
+    "lore": [
+      "Ramie remembered the Anglerfish fossil from playing in the Fossil Fish Cave as a child.",
+      "Ramie once helped Conoy after he got lost on Ember Twin.",
+      "Ramie and Pye ran the High Energy Lab experiment to confirm the negative time interval observed at White Hole Station.",
+      "Ramie initially proposed strengthening the negative-time-interval effect to make it visible to the unaided eyes.",
+      "Ramie and Pye confirmed the negative time interval: objects exit the white hole before entering the black hole.",
+      "Ramie and Pye discovered that adding more energy to the warp core increases the interval at an exponential cost.",
+      "Ramie and Pye proposed inventing a new energy method and an advanced warp core to extend the interval to 22 minutes.",
+      "Ramie supported building the Sun Station despite finding the proposal unsettling, considering it necessary for the Ash Twin Project.",
+      "Ramie, Yarrow, and Coleus helped excavate Ash Twin to house the Ash Twin Project.",
+      "Ramie noted they needed to monitor how significantly the Ash Twin excavation altered the environment.",
+      "Ramie worked with Yarrow inside the Ash Twin Project to prepare it to receive probe data from the Orbital Probe Cannon.",
+      "Ramie installed Daz's memory storage masks inside the Ash Twin Project.",
+      "Ramie joked the masks felt as though they were observing her.",
+      "Ramie was comforted by the design that statues would not pair until the project succeeded.",
+      "Ramie and Yarrow checked the Ash Twin Project shell's interior and exterior for cracks as the final safety check.",
+      "Ramie died when Ghost Matter from the Interloper killed all Nomai in the solar system."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Ember Twin",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Sunless City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "High Energy Lab",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Sun Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Supernova",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Nomai Statue",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Pye",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Coleus",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Daz",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Conoy",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Anglerfish",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Ramie",
+    "url": "https://outerwilds.fandom.com/wiki/Ramie",
+    "fetched_at": "2026-05-28T10:52:08",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "entity": "Mallow",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai",
+    "Ash Twin Project Members"
+  ],
+  "tags": [
+    "nomai_history",
+    "ash_twin_project",
+    "orbital_probe_cannon",
+    "giants_deep"
+  ],
+  "summary": "Mallow was a Nomai who worked at the Orbital Probe Cannon as part of the Ash Twin Project. Spouse of Avens, Mallow proposed using a probe to find the Eye visually and joined Avens in deliberately overpowering the cannon — the decision that breaks it every loop.",
+  "facts": {
+    "biology": [
+      "Mallow is a Nomai.",
+      "Mallow's gender is unknown."
+    ],
+    "behavior": [
+      "Mallow was passionate about finding the Eye of the Universe.",
+      "Mallow dismissed concerns about compromising the Orbital Probe Cannon's structural integrity since the cannon only needed to fire once."
+    ],
+    "location": [
+      "Mallow worked on the Orbital Probe Cannon in orbit around Giant's Deep.",
+      "Mallow joined Avens, Daz, and Cassava at the Construction Yard on Giant's Deep when the project paused.",
+      "Mallow's remains are presumably with Avens's at the Construction Yard."
+    ],
+    "lore": [
+      "Mallow was a member of the Nomai and of the Ash Twin Project team.",
+      "Mallow was the spouse of Avens.",
+      "Mallow noted the Nomai concluded the Eye is in orbit around the Sun based on Quantum Moon observations.",
+      "Mallow proposed finding the Eye visually with a probe since the Nomai knew what it looks like from the Quantum Moon.",
+      "Mallow's probe proposal eventually led to the Orbital Probe Cannon being built.",
+      "Mallow and Avens were responsible for testing and adjusting the Orbital Probe Cannon's launch power.",
+      "Mallow and Avens decided to ignore Daz's safe maximum power setting to maximize the probe's reach.",
+      "Mallow told Privet not to worry about the cannon breaking since they only needed to fire once.",
+      "Mallow was on the Orbital Probe Cannon with Privet when the Ash Twin Project was put on hold.",
+      "Avens and Mallow's power adjustment proved fatal: the Orbital Probe Cannon now breaks apart on launch each loop.",
+      "The Probe Tracking Module disappears into Giant's Deep's core after the cannon breaks."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Construction Yard",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Ash Twin Project",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Orbital Probe Cannon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Avens",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Privet",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Daz",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Mallow",
+    "url": "https://outerwilds.fandom.com/wiki/Mallow",
+    "fetched_at": "2026-05-28T10:52:02",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

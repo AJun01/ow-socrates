@@ -1,0 +1,103 @@
+{
+  "entity": "Spire",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "brittle_hollow",
+    "interloper"
+  ],
+  "summary": "Spire was a Nomai scientist at the Southern Observatory on Brittle Hollow who worked with Conoy. Spire built the Giant's Deep cyclone model that revealed two cyclone types, and was the Nomai who first spotted the Interloper approaching the solar system.",
+  "facts": {
+    "biology": [
+      "Spire is a Nomai.",
+      "Spire's gender is unknown."
+    ],
+    "behavior": [
+      "Spire admitted they very much wanted to make a model for its own sake, beyond its scientific use."
+    ],
+    "location": [
+      "Spire worked at the Southern Observatory on Brittle Hollow with Conoy."
+    ],
+    "lore": [
+      "Spire built the Giant's Deep cyclone model at the Southern Observatory.",
+      "Spire's model revealed that Giant's Deep has two different types of cyclone.",
+      "Spire defended the model's usefulness for ongoing monitoring of Giant's Deep when Cassava questioned it.",
+      "Spire favored recovering the Vessel's original warp core as a template, arguing abandoning it means losing valuable knowledge.",
+      "Spire was the Nomai who first spotted the Interloper approaching the star system.",
+      "Spire's sighting led Yarrow to send Clary, Poke, and Pye to investigate the Interloper.",
+      "Spire died when Ghost Matter from the Interloper killed all Nomai in the solar system."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Southern Observatory",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Giant's Deep",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Interloper",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Conoy",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Warp Core",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Yarrow",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Clary",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Poke",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Pye",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Ghost Matter",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Spire",
+    "url": "https://outerwilds.fandom.com/wiki/Spire",
+    "fetched_at": "2026-05-28T10:52:11",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

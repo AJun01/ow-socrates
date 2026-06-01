@@ -1,0 +1,135 @@
+{
+  "entity": "Filix",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "brittle_hollow",
+    "eye_signal",
+    "warp"
+  ],
+  "summary": "Filix was a high-ranking female Nomai and a bridge officer on Escall's Vessel alongside Annona. She identified the Eye's signal as older than the universe, escaped via Escape Pod 1 to Brittle Hollow, taught Nomai children in the Hanging City, and co-built the Eye Signal Locator on the Attlerock with Cassava.",
+  "facts": {
+    "biology": [
+      "Filix is a Nomai.",
+      "Filix is female."
+    ],
+    "behavior": [],
+    "location": [
+      "Filix served as a bridge officer on Escall's Vessel.",
+      "Filix landed on Brittle Hollow with Escape Pod 1."
+    ],
+    "lore": [
+      "Filix was Privet's mentor.",
+      "Filix identified the Vessel's incoming signal as older than the universe itself.",
+      "Filix protested Escall's order to warp immediately, wanting time to message other Nomai clans about the find.",
+      "Escall overruled Filix's protest out of fear the signal might disappear.",
+      "Filix and Annona verified the Vessel's warp core and navigation systems before warping; both functioned properly.",
+      "After the crash, Filix broadcast the Vessel's distress call before fleeing the bridge and boarding Escape Pod 1.",
+      "On Brittle Hollow, Filix's equipment could hear distress signals from Escape Pods 2 and 3 but she could not contact them.",
+      "Filix recorded everything she knew about the Eye's signal in the Brittle Hollow temporary settlement.",
+      "Filix noted the Eye's signal looked like an eye: round with a circle at the center like a pupil.",
+      "Filix proposed using gravity crystals to craft a stable path when the Nomai migrated to Brittle Hollow's northern glacier.",
+      "Filix participated in early discussions of Brittle Hollow's quantum phenomena, including the Quantum Moon.",
+      "Filix taught young Nomai in the Hanging City school about Nomai history and culture.",
+      "Filix told the children festivals happen every ten years.",
+      "Filix co-built the Eye Signal Locator on the Attlerock with Cassava after the Ember Twin and Brittle Hollow Nomai were reunited.",
+      "Filix and Privet calibrated the Attlerock locator correctly, but it still failed to detect the Eye.",
+      "Filix agreed with building a more sophisticated locator on Brittle Hollow's southern glacier.",
+      "Filix anticipated young Conoy would enjoy the new Southern Observatory locator immensely.",
+      "Filix was excited to see the new warp tower at White Hole Station, saying it had been a long time since she jumped through a black hole.",
+      "Filix does not appear to have been involved in the Ash Twin Project, suggesting she may have died beforehand."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hanging City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Escape Pods",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye Signal Locator",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Attlerock",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Southern Observatory",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "White Hole Station",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Annona",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Escall",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Privet",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Thatch",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Plume",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Conoy",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Clary",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Filix",
+    "url": "https://outerwilds.fandom.com/wiki/Filix",
+    "fetched_at": "2026-05-28T10:51:56",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

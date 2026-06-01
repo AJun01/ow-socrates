@@ -1,0 +1,117 @@
+{
+  "entity": "Plume",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Nomai"
+  ],
+  "tags": [
+    "nomai_history",
+    "brittle_hollow",
+    "eye_signal"
+  ],
+  "summary": "Plume was a male Nomai from the Vessel who landed on Brittle Hollow with Escape Pod 1. Father of Phlox, Plume proposed building the temporary settlement and later the permanent Hanging City, and oversaw construction of the Southern Observatory.",
+  "facts": {
+    "biology": [
+      "Plume is a Nomai.",
+      "Plume is male."
+    ],
+    "behavior": [
+      "Plume believed the Nomai needed to thrive, not merely survive, to find the Eye's signal."
+    ],
+    "location": [
+      "Plume landed on Brittle Hollow with Escape Pod 1.",
+      "Plume lived first in the temporary settlement, then helped found the Hanging City on Brittle Hollow."
+    ],
+    "lore": [
+      "Plume was Phlox's father.",
+      "Plume had a brother who did not board Escape Pod 1 and whose Pod assignment was unknown.",
+      "Plume was the partner of Keek, who went missing after the Vessel crash.",
+      "After exiting Escape Pod 1, Plume proposed building platforms to climb safely down to a subterranean shelter site.",
+      "Plume recorded his knowledge of the Eye signal in the temporary settlement.",
+      "Plume questioned whether the Vessel was already unwell in some way before the warp.",
+      "Plume proposed migrating to the northern glacier to build a more permanent settlement.",
+      "Plume agreed with Filix that no one was coming to save the Nomai and they had to save themselves.",
+      "Plume hypothesized the Tower Shard on Brittle Hollow was a piece broken off from the Quantum Moon itself.",
+      "Plume volunteered to build the Southern Observatory on the southern glacier to house a more sophisticated Eye signal locator.",
+      "Plume believed the Eye's signal had called out to summon the Vessel's Nomai to this star system.",
+      "Plume was not involved in the Ash Twin Project, unlike his son Phlox."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Brittle Hollow",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Hanging City",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Escape Pods",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Eye of the Universe",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Southern Observatory",
+      "relation": "built_by"
+    },
+    {
+      "entity": "Quantum Moon",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Quantum Shards",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Tower of Quantum Knowledge",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Phlox",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Keek",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Filix",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Cassava",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Conoy",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Hollow's Lantern",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Plume",
+    "url": "https://outerwilds.fandom.com/wiki/Plume",
+    "fetched_at": "2026-05-28T10:52:06",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "entity": "Tuff",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village",
+    "zero_g_cave"
+  ],
+  "summary": "Tuff is a Hearthian miner who works at the bottom of the mine shaft adjacent to the Zero-G Cave. Tuff has a violent fear of space and floating, to the point of nausea — a great inconvenience given they work next to where astronauts train in zero gravity.",
+  "facts": {
+    "biology": [
+      "Tuff is a Hearthian."
+    ],
+    "behavior": [
+      "Tuff has a violent fear of space and anything related to floating.",
+      "Tuff gets physically sick just thinking about zero-g.",
+      "Tuff dislikes the weird cave they work next to and avoids thinking about it.",
+      "Tuff cracks dark jokes about the protagonist's space ambitions but insists they are 'fine.'",
+      "Tuff calms themselves by thinking about flat, motionless rocks."
+    ],
+    "location": [
+      "Tuff mines ore at the bottom of the mine shaft on Timber Hearth.",
+      "Tuff's workplace is next to the Zero-G Cave at the center of Timber Hearth."
+    ],
+    "lore": [
+      "Tuff recounts that Tektite saw something crash outside the Village crater and went to check it out.",
+      "Tuff knew Tektite checked the Youngbark crash site with the old firewatch scout launcher and saw smoke.",
+      "Tuff once said 'safety first' to Tektite, and felt insulted by how long Tektite laughed at it.",
+      "Tektite plans to ask Tuff to help haul the old scout launcher out to Youngbark Crater."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Tektite",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Scout Launcher",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Dark Bramble",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Tuff",
+    "url": "https://outerwilds.fandom.com/wiki/Tuff",
+    "fetched_at": "2026-05-28T10:51:46",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

@@ -2,24 +2,25 @@
   "entity": "Canna",
   "entity_type": "character",
   "aliases": [],
-  "categories": ["Nomai", "Characters"],
-  "tags": ["nomai_history", "modern_nomai"],
-
+  "categories": [
+    "Nomai",
+    "Characters"
+  ],
+  "tags": [
+    "nomai_history",
+    "modern_nomai"
+  ],
   "summary": "Canna is a modern Nomai whose clan lives near Blackrock in the Gloaming Galaxy, one of the few comparatively safe regions left as the universe dies. Canna called for all remaining Nomai clans to gather there together, drawing Bromi's and Neem's Vessels to join.",
-
   "facts": {
     "biology": [
       "Canna is a Nomai.",
       "Canna's gender is unknown."
     ],
-
     "behavior": [],
-
     "location": [
       "Canna's clan lives near Blackrock in the Gloaming Galaxy.",
       "Canna considers the area near Blackrock to be relatively safe because Blackrock's suns are fairly stable."
     ],
-
     "lore": [
       "Canna is a modern Nomai (contemporary with Bromi, Hyssop, Clem, and Neem).",
       "Canna believes the universe is dying and that fewer safe places remain in space.",
@@ -29,25 +30,40 @@
       "Canna was relieved to learn Neem's clan was safe after surviving the Bright Spark triple-sun explosion.",
       "Canna warned all nearby Vessels to be extremely cautious of potentially unstable stars."
     ],
-
     "mechanics": []
   },
-
   "related_entities": [
-    {"entity": "Nomai", "relation": "member_of"},
-    {"entity": "Bromi", "relation": "related_to"},
-    {"entity": "Neem", "relation": "related_to"},
-    {"entity": "Hyssop", "relation": "related_to"},
-    {"entity": "Clem", "relation": "related_to"},
-    {"entity": "The Vessel", "relation": "related_to"}
+    {
+      "entity": "Nomai",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Bromi",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Neem",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Hyssop",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Clem",
+      "relation": "related_to"
+    },
+    {
+      "entity": "The Vessel",
+      "relation": "related_to"
+    }
   ],
-
   "source": {
     "page": "Canna",
     "url": "https://outerwilds.fandom.com/wiki/Canna",
     "fetched_at": "2026-05-28T10:51:50",
-    "audited_by_human": false,
-    "audit_date": null,
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
     "confidence": "high"
   }
 }

@@ -1,0 +1,84 @@
+{
+  "entity": "Mica",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village",
+    "tutorial"
+  ],
+  "summary": "Mica is a young Hearthian found next to the remote-control model ship they built with Slate's help in the Village. They challenge the player to land it on a geyser pool, serving as a tutorial for the spaceship's flight controls.",
+  "facts": {
+    "biology": [
+      "Mica is a Hearthian."
+    ],
+    "behavior": [
+      "Mica is enthusiastic and impatient to see the protagonist's launch.",
+      "Mica is the only character with their name in a Steam Achievement."
+    ],
+    "location": [
+      "Mica is found in the Village next to the remote-control model ship.",
+      "Mica is the second character the player encounters on the path up to fetch the launch codes."
+    ],
+    "lore": [
+      "Mica built the model spaceship with Slate's help.",
+      "Mica and Slate recently recalibrated the model's controls and installed better thrusters.",
+      "Slate said the model is just like the real ship, only less likely to start a fire.",
+      "Mayor Rutile is very concerned about Mica's model rockets causing fires in the Village.",
+      "Mica and Slate's unsanctioned test of a powerful model rocket caused the Radio Tower's fire damage, leading to its closure (when Echoes of the Eye is not installed).",
+      "Hornfels' notice apologizes for the Radio Tower closure to everyone except Slate and Mica."
+    ],
+    "mechanics": [
+      "Mica challenges the player to land the model ship on one of the Village geyser pools as a flight-control tutorial.",
+      "Mica's model ship controls identically to the real ship but poses no risk if crashed.",
+      "After a successful landing, Mica comments that this must be why Slate lets the protagonist fly the real ship.",
+      "After a crash, Mica nervously compares the result to the time the external fuel tanks exploded on reentry."
+    ]
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Slate",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Spaceship",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Launch Codes",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Rutile",
+      "relation": "mentioned_by"
+    },
+    {
+      "entity": "Hornfels",
+      "relation": "mentioned_by"
+    }
+  ],
+  "source": {
+    "page": "Mica",
+    "url": "https://outerwilds.fandom.com/wiki/Mica",
+    "fetched_at": "2026-05-28T10:51:40",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}

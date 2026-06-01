@@ -1,0 +1,69 @@
+{
+  "entity": "Porphy",
+  "entity_type": "character",
+  "aliases": [],
+  "categories": [
+    "Characters",
+    "Hearthians"
+  ],
+  "tags": [
+    "hearthian_culture",
+    "village"
+  ],
+  "summary": "Porphy is the Hearthian winemaker of the Village who produces sap wine they call 'the Good Stuff,' though most villagers treat it as more of a digestive chore than a pleasure. Porphy ages each batch starting on the day of a significant local event.",
+  "facts": {
+    "biology": [
+      "Porphy is a Hearthian."
+    ],
+    "behavior": [
+      "Porphy refers to their sap wine as 'the Good Stuff.'",
+      "Porphy considers an iron stomach the mark of a true Hearthian.",
+      "Porphy flirts (unsubtly) with Gossan, according to Esker's signalscope log."
+    ],
+    "location": [
+      "Porphy is found in the Village on Timber Hearth."
+    ],
+    "lore": [
+      "Porphy makes sap wine that most Villagers consider a daunting digestive challenge rather than a pleasure.",
+      "Porphy attributes Hearthians' hardy hunter-gatherer lifestyle to ancestors surviving lots of bad food via trial and error.",
+      "Porphy begins aging each batch on a significant occasion, resulting in bottles labeled 'structural collapse' and 'house fire.'",
+      "Porphy hopes to teach Esker to tap trees and bring back lunar sap for 'moon wine.'",
+      "Porphy invites the protagonist, Gossan, and themselves to share a bottle of the Good Stuff after the protagonist returns from space."
+    ],
+    "mechanics": []
+  },
+  "related_entities": [
+    {
+      "entity": "Hearthian",
+      "relation": "member_of"
+    },
+    {
+      "entity": "Timber Hearth",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "The Village",
+      "relation": "lives_in"
+    },
+    {
+      "entity": "Gossan",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Esker",
+      "relation": "related_to"
+    },
+    {
+      "entity": "Attlerock",
+      "relation": "related_to"
+    }
+  ],
+  "source": {
+    "page": "Porphy",
+    "url": "https://outerwilds.fandom.com/wiki/Porphy",
+    "fetched_at": "2026-05-28T10:51:42",
+    "audited_by_human": true,
+    "audit_date": "2026-05-29",
+    "confidence": "high"
+  }
+}
